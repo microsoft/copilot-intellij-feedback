@@ -8,7 +8,7 @@ Learn more about [GitHub Copilot](https://github.com/features/copilot) in our [d
 
 ## Providing Feedback
 
-You can use this repository to file issues for Copilot Chat and completions in VS Code:
+You can use this repository to file issues for Copilot Chat and completions in JetBrains IDEs:
 
 * Up-vote a feature or request a new one.
 * Search for existing issues already reported for potential workarounds.
