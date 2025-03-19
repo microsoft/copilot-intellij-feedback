@@ -8,9 +8,10 @@ labels: ["bug", "triage-needed"]
 <!-- Please attach logs to help us diagnose your issue -->
 
 - GitHub Copilot for JetBrains IDEs Extension Version:
-- IDE Version(you can check via the About dialog in the Help or App menu):
-- OS Version:
-- Log Files(you can select via Show Log in Explorer | Collect Logs and Diagnostic Data in the Help or App menu):
+<!-- via Help -> About -> Copy and Close -->
+- IDE & OS Versions: 
+<!-- via Help -> Show Log in Explorer | Finder -> attach idea.log  -->
+- Log Files:
 
 Steps to Reproduce:
 
