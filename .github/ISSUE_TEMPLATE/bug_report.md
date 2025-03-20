@@ -1,5 +1,5 @@
 ---
-name: General Bug report for GitHub Copilot Plugin in JetBrains IDEs
+name: General Bug report for GitHub Copilot Plugin for JetBrains IDEs
 about: Create a report to help us improve Copilot experience in JetBrains IDEs
 labels: ["bug", "triage-needed"]
 ---
