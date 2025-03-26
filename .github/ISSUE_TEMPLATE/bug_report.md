@@ -9,7 +9,7 @@ labels: ["bug", "triage-needed"]
 
 - GitHub Copilot for JetBrains IDEs Extension Version:
 <!-- via Help -> About -> Copy and Close -->
-- IDE & OS Versions: 
+- IDE & OS Versions:
 <!-- via Help -> Show Log in Explorer | Finder -> attach idea.log  -->
 - Log Files:
 
@@ -17,3 +17,5 @@ Steps to Reproduce:
 
 1.
 2.
+
+Screenshots/Recording:
