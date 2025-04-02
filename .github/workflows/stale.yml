@@ -22,7 +22,7 @@ jobs:
       with:
         days-before-issue-stale: 7
         days-before-close: 3
-        stale-issue-message: 'This issue is stale because it has been open 7 days with no activity. Remove stale label or comment or this will be closed in 3 days.'
+        stale-issue-message: 'This issue is stale due to 7 days of inactivity. Comment or remove the stale label to keep it open. Otherwise, it will be closed in 3 days.'
         stale-issue-label: 'inactive'
         any-of-labels: 'needs-more-info'
   
