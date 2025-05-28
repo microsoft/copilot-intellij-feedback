@@ -7,11 +7,17 @@ labels: ["bug", "triage-needed"]
 <!-- Please search existing issues to avoid creating duplicates -->
 <!-- Please attach logs to help us diagnose your issue -->
 
-- GitHub Copilot for JetBrains IDEs Extension Version:
 <!-- via Help -> About -> Copy and Close -->
-- IDE & OS Versions:
-<!-- via Help -> Show Log in Explorer | Finder -> attach idea.log  -->
-- Log Files:
+- Versions (plugin, IDE, OS):
+
+<!-- 
+Enable debug logs: 
+https://github.com/microsoft/copilot-intellij-feedback/wiki/Enable-debug-logging
+
+Get log file:
+via Help -> Show Log in Explorer | Finder -> attach idea.log
+-->
+- Debug-level Log Files:
 
 Steps to Reproduce:
 
