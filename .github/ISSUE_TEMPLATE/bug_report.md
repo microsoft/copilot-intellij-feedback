@@ -17,7 +17,7 @@ https://github.com/microsoft/copilot-intellij-feedback/wiki/Enable-debug-logging
 Get log file:
 via Help -> Show Log in Explorer | Finder -> attach idea.log
 -->
-- Debug-level Log Files:
+- Debug-level Log Files([How-to](https://github.com/microsoft/copilot-intellij-feedback/wiki/Enable-debug-logging#log-file)):
 
 Steps to Reproduce:
 
