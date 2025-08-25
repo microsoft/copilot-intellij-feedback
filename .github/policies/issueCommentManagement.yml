@@ -32,3 +32,16 @@ configuration:
         then:
           - addLabel:
               label: needs attention
+      - description: "[Issue Management] Remove needs attention label if there is a new comment by a member"
+        if:
+          - payloadType: Issue_Comment
+          - and:
+            - isOpen
+            - isIssue
+            - hasLabel:
+                label: needs attention
+            - activitySenderHasAssociation:
+                association: Member
+        then:
+          - removeLabel:
+              label: needs attention
