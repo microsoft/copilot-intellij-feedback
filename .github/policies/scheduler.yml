@@ -28,8 +28,13 @@ configuration:
       filters:
       - isIssue
       - isOpen
-      - hasLabel:
-          label: needs more info
+      - or:
+        - hasLabel:
+            label: needs more info
+        - hasLabel:
+            label: needs log
+      - isNotLabeledWith:
+          label: needs attention
       - isNotLabeledWith:
           label: no recent activity
       - isNotLabeledWith:
@@ -68,8 +73,13 @@ configuration:
           days: 3
       - hasLabel:
           label: no recent activity
-      - hasLabel:
-          label: needs more info
+      - or:
+        - hasLabel:
+            label: needs more info
+        - hasLabel:
+            label: needs log
+      - isNotLabeledWith:
+          label: needs attention
       - isNotInAnyMilestone
       - isNotLabeledWith:
           label: bug
@@ -99,10 +109,15 @@ configuration:
       filters:
       - isIssue
       - isOpen
-      - hasLabel:
-          label: needs more info
+      - or:
+        - hasLabel:
+            label: needs more info
+        - hasLabel:
+            label: needs log
       - hasLabel:
           label: bug
+      - isNotLabeledWith:
+          label: needs attention
       - isNotLabeledWith:
           label: no recent activity
       - noActivitySince:
@@ -133,10 +148,15 @@ configuration:
       filters:
       - isIssue
       - isOpen
-      - hasLabel:
-          label: needs more info
+      - or:
+        - hasLabel:
+            label: needs more info
+        - hasLabel:
+            label: needs log
       - hasLabel:
           label: feature-request
+      - isNotLabeledWith:
+          label: needs attention
       - isNotLabeledWith:
           label: no recent activity
       - noActivitySince:

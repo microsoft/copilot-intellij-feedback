@@ -78,5 +78,21 @@ configuration:
       then:
       - removeLabel:
           label: close-wait
+    - description: "[Issue Management] Add log collection message when needs log label is added"
+      if:
+      - payloadType: Issues
+      - labelAdded:
+          label: needs log
+      then:
+      - addReply:
+          reply: |
+            Hi! We need debug logs to help investigate this issue further.
+            
+            Please follow the instructions in our documentation to enable debug logging and collect the logs:
+            **[Enable debug logging guide](https://github.com/microsoft/copilot-intellij-feedback/wiki/Enable-debug-logging)**
+            
+            Once you have the logs, please attach them to this issue or share them in a comment. This will help us diagnose and resolve the issue more quickly.
+            
+            Thank you for your patience!
 onFailure: 
 onSuccess: 
