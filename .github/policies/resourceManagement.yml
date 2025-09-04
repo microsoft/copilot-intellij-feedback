@@ -47,8 +47,8 @@ configuration:
           action: Created
       - not:
           or:
-            - activitySenderHasAssociation:
-                association: Member
+            - activitySenderHasPermission:
+                permission: write
             - isActivitySender:
                 user: msftbot[bot]
                 issueAuthor: False
