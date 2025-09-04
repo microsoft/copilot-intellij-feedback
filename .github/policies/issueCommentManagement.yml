@@ -18,8 +18,8 @@ configuration:
                 or:
                   - hasLabel:
                       label: needs attention
-                  - activitySenderHasAssociation:
-                      association: Member
+                  - activitySenderHasPermission:
+                      permission: write
                   - isActivitySender:
                       user: msftbot[bot]
                       issueAuthor: False
@@ -40,8 +40,8 @@ configuration:
             - isIssue
             - hasLabel:
                 label: needs attention
-            - activitySenderHasAssociation:
-                association: Member
+            - activitySenderHasPermission:
+                permission: write
         then:
           - removeLabel:
               label: needs attention
