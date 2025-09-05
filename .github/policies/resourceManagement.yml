@@ -49,6 +49,8 @@ configuration:
           or:
             - activitySenderHasPermission:
                 permission: write
+            - activitySenderHasPermission:
+                permission: admin
             - isActivitySender:
                 user: msftbot[bot]
                 issueAuthor: False
