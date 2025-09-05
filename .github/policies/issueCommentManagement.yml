@@ -43,10 +43,10 @@ configuration:
             - hasLabel:
                 label: needs attention
             - or:
-              - activitySenderHasPermission:
-                  permission: write
-              - activitySenderHasPermission:
-                  permission: admin
+                - activitySenderHasPermission:
+                    permission: write
+                - activitySenderHasPermission:
+                    permission: admin
         then:
           - removeLabel:
               label: needs attention
