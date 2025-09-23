@@ -15,7 +15,7 @@ configuration:
           action: Opened
       then:
       - addReply:
-          reply: Thank you for contacting us! We'll review and reply within 2 days. Please stay tuned.
+          reply: Thank you for contacting us! We'll review and reply as soon as possible. Please stay tuned.
       - addLabel:
           label: needs attention
     - description: "[Idle Issue Management] Remove no recent activity label from issues"
