@@ -44,7 +44,7 @@ configuration:
       - addReply:
           reply: >
             This issue has been automatically marked as stale because it has been marked as requiring author feedback but has not had any activity for **7 days**. It will be closed if no further activity occurs **within 3 days of this comment**. If it *is* closed, feel free to comment when you are able to provide the additional information and we will re-investigate.
-    - description: "[Idle Issue Management] Add no recent activity label to issues without feature-request label- needs log"
+    - description: "[Idle Issue Management] Add no recent activity label to issues without feature-request label - needs log"
       frequencies:
       - weekday:
           day: Monday
