@@ -88,7 +88,7 @@ This document describes the comprehensive label system for the microsoft/copilot
 | Label | Meaning | Next Action |
 |-------|---------|-------------|
 | `status: needs-triage` | Just opened | Team to categorize and prioritize |
-| `status: needs-more-info` | Incomplete report | User to provide details |
+| `status: needs more info` | Incomplete report | User to provide details |
 | `status: needs-reproduction` | Can't reproduce | User to provide repro steps |
 | `status: confirmed` | Validated | Ready for development |
 | `status: in-progress` | Being worked on | Developer working on fix |
