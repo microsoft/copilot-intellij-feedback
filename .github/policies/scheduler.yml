@@ -149,7 +149,7 @@ configuration:
       actions:
       - closeIssue
       - addReply:
-          reply: 'Due to lack of details for further investigation, we will archive the issue for now. In case you still have following-up questions on this issue, please always feel free to reopen the issue by clicking 'reopen issue' button below the comment box. We will get back to you as soon as possible. '
+          reply: 'Due to lack of details for further investigation, we will archive the issue for now. In case you still have following-up questions on this issue, please always feel free to reopen the issue by clicking `reopen issue` button below the comment box. We will get back to you as soon as possible. '
     - description: "[Idle Issue Management] Add no recent activity label to issues with feature-request label - needs more info"
       frequencies:
       - weekday:
