@@ -8,7 +8,8 @@ This document describes the comprehensive label system for the microsoft/copilot
 1. **Every issue must have**: Type + Component + Priority
 2. **Bug issues must have**: Status + Impact
 3. **Platform-specific issues must have**: Appropriate platform label
-4. **Issues needing info must have**: `status: needs-more-info`
+4. **Issues needing info must have**: `needs more info`
+5. **Do NOT apply `needs more info`** or any labels with similar meaning — leave this for humans to apply
 
 ---
 
@@ -88,7 +89,6 @@ This document describes the comprehensive label system for the microsoft/copilot
 | Label | Meaning | Next Action |
 |-------|---------|-------------|
 | `status: needs-triage` | Just opened | Team to categorize and prioritize |
-| `status: needs more info` | Incomplete report | User to provide details |
 | `status: needs-reproduction` | Can't reproduce | User to provide repro steps |
 | `status: confirmed` | Validated | Ready for development |
 | `status: in-progress` | Being worked on | Developer working on fix |
@@ -98,7 +98,7 @@ This document describes the comprehensive label system for the microsoft/copilot
 
 **Workflow:**
 ```
-needs-triage → needs-more-info (if unclear)
+needs-triage → needs more info (if unclear)
              → confirmed (if valid)
              → in-progress
              → ready-for-review
