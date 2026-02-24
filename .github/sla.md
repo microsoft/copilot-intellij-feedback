@@ -13,9 +13,13 @@ Issues with these labels are exempt from SLA checks because they are waiting on 
 | `need more info` | Waiting for reporter to provide additional information |
 | `need log` | Waiting for reporter to provide logs or diagnostic data |
 
+### Tolerance Period
+
+Issues have a **7-day tolerance window** from the time they are opened (or from the time an exempt label is removed) before SLA conditions are enforced. During this grace period, the SLA status is always **GOOD**, giving assignees time to triage and address the issue.
+
 ### Required Conditions (for non-exempt issues)
 
-For issues that are not exempt, **all** of these conditions must be met:
+For issues that are not exempt and have exceeded the 7-day tolerance period, **all** of these conditions must be met:
 
 | Condition | Requirement | Rationale |
 |-----------|-------------|-----------|
@@ -38,19 +42,27 @@ For issues that are not exempt, **all** of these conditions must be met:
          │ YES           │ NO
          ▼               ▼
 ┌─────────────┐  ┌─────────────────────┐
-│ SLA: GOOD   │  │ Check parent link   │
-│ (Exempt)    │  │ and "need attention"│
+│ SLA: GOOD   │  │ Within 7-day        │
+│ (Exempt)    │  │ tolerance window?   │
 └─────────────┘  └─────────┬───────────┘
                            │
                   ┌────────┴────────┐
-                  │                 │
-         Parent exists AND     Otherwise
-         no "need attention"
-                  │                 │
+                  │ YES             │ NO
                   ▼                 ▼
-           ┌───────────┐    ┌─────────────┐
-           │ SLA: GOOD │    │ SLA: VIOLATION│
-           └───────────┘    └─────────────┘
+           ┌───────────┐  ┌─────────────────────┐
+           │ SLA: GOOD │  │ Check parent link   │
+           │ (Grace)   │  │ and "need attention"│
+           └───────────┘  └─────────┬───────────┘
+                                    │
+                           ┌────────┴────────┐
+                           │                 │
+                  Parent exists AND     Otherwise
+                  no "need attention"
+                           │                 │
+                           ▼                 ▼
+                    ┌───────────┐    ┌─────────────┐
+                    │ SLA: GOOD │    │ SLA: VIOLATION│
+                    └───────────┘    └─────────────┘
 ```
 
 ## Label Matching
