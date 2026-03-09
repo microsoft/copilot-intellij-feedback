@@ -1,0 +1,3043 @@
+[
+  {
+    "number": 1456,
+    "title": "Sorry, an error occurred while generating a response. Details: unhandled status from server: 400 {\"error\":{\"message\":\"Client specified an invalid argument\",\"code\":\"invalid_request_body\"}} Request ID: 10bcbb1d-c0bc-4583-8e07-7d03860b4c17",
+    "state": "OPEN",
+    "user": "princemugi7-maker",
+    "labels": [
+      "bug",
+      "needs attention"
+    ],
+    "comments": 1,
+    "created_at": "2026-03-08T07:06:35Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n_No response_\n\n### JetBrains IDE and version\n\n_No response_\n\n### Platform\n\n_No response_\n\n### Steps to reproduce\n\nmakes this plugin refuse to run i dont get why fix it please Sorry, an error occurred while generating a response. Details: unhandled status from server: 400 {\"error\":{\"message\":\"Client specified an invalid argument\",\"code\":\"invalid_request_body\"}} Request ID: 10bcbb1d-c0bc-4583-8e07-7d03860b4c17]\n\n### Logs (optional)\n\n_No"
+  },
+  {
+    "number": 1455,
+    "title": "Keep on buffering while selecting auto mode drop down selected considering  premium request available but",
+    "state": "OPEN",
+    "user": "priyodas12",
+    "labels": [
+      "needs attention"
+    ],
+    "comments": 1,
+    "created_at": "2026-03-07T15:05:22Z",
+    "body_summary": "I am not sure is this pre planned to emphasize on premium usage while its available rather getting response from generic model."
+  },
+  {
+    "number": 1454,
+    "title": "Remains of inline proposed edits",
+    "state": "OPEN",
+    "user": "Armer7",
+    "labels": [
+      "bug",
+      "needs attention",
+      "priority: high"
+    ],
+    "comments": 1,
+    "created_at": "2026-03-06T11:44:40Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.66-243\n\n### JetBrains IDE and version\n\nPhpStorm 2025.3.3 Build #PS-253.31033.138, built on February 19, 2026\n\n### Platform\n\nMicrosoft Windows NT 10.0.26200.0 x64\n\n### Steps to reproduce\n\nStart fixing the code. Copilot will suggest fixes. Reject fixes by pressing escape, not always.. They remain the same when you press tab, but not always.\nThe elements remain even when switching to another file. The elements are placed statically w"
+  },
+  {
+    "number": 1452,
+    "title": "Rider hangs frequently when Copilot plugin is enabled",
+    "state": "OPEN",
+    "user": "laika1234",
+    "labels": [
+      "bug",
+      "needs attention",
+      "priority: high",
+      "component: performance"
+    ],
+    "comments": 1,
+    "created_at": "2026-03-05T16:22:21Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.66-243\n\n### JetBrains IDE and version\n\n_No response_\n\n### Platform\n\n_No response_\n\n### Steps to reproduce\n\nRider becomes unresponsive every few minutes. Overall CPU usage goes up to around 50%\nThis also happens during startup. The issue disappeared after disabling the Copilot plugin. \n\nstacktrace:\n\nFreeze in EDT for 57 seconds\nSampled time: 9200ms, sampling rate: 100ms, GC time: 2269ms (4%), Class loading: 0%, CPU load: 1%\n\ncom.in"
+  },
+  {
+    "number": 1451,
+    "title": "Feature Request: Export and Import Chat History (Markdown/JSON)",
+    "state": "OPEN",
+    "user": "roopeshneo",
+    "labels": [
+      "feature-request",
+      "needs attention",
+      "priority: medium",
+      "component: chat"
+    ],
+    "comments": 1,
+    "created_at": "2026-03-05T13:26:34Z",
+    "body_summary": "As context windows fill up or sessions grow long, the model can lose track of specific constraints or technical context. Currently, there is no easy way for a user to \"prune\" or \"reset\" a conversation while retaining the essential context without manually copying and pasting individual messages which is again struggle the mouse click takes me back and forth in the conversation.\n\nProposed Solution\nImplement a feature that allows users to download and re-upload conversation history to maintain con"
+  },
+  {
+    "number": 1450,
+    "title": "showing wrong name @deshmukhnanasab-netizen,",
+    "state": "OPEN",
+    "user": "deshmukhnanasab-netizen",
+    "labels": [
+      "feature-request",
+      "needs attention",
+      "priority: low",
+      "component: ui"
+    ],
+    "comments": 1,
+    "created_at": "2026-03-05T09:21:36Z",
+    "body_summary": "Hi ,\nMay i know why it is showing Hi @deshmukhnanasab-netizen,  i need that is wrong.\nPlease help me to fix and get it access still facing issue"
+  },
+  {
+    "number": 1448,
+    "title": "Github copilot chat",
+    "state": "OPEN",
+    "user": "ashabharath1",
+    "labels": [
+      "bug",
+      "needs attention",
+      "priority: high",
+      "component: chat"
+    ],
+    "comments": 4,
+    "created_at": "2026-03-04T17:24:33Z",
+    "body_summary": "### Feedback source\n\nJetBrains Marketplace\n\n### GitHub Copilot plugin version\n\n1.5.66-243\n\n### JetBrains IDE and version\n\nIntellIj IDEA 2025.3.3\n\n### Platform\n\nHi when i try to type something the the Github Copilot chat, it throws an 403 error\n\n\n\n### Steps to reproduce\n\nnothing \n\n### Logs (optional)\n\n_No response_\n\n### Expected behavior\n\nWhen i try to type something in the github co-pilot chat it throws an 403 error\n\n### Actual behavior\n\nit should not throw an error\n\n### Additional information\n\n"
+  },
+  {
+    "number": 1447,
+    "title": "Proxy authentication not working over ntlm or with credentials",
+    "state": "OPEN",
+    "user": "freyher-jschaefer",
+    "labels": [
+      "bug",
+      "needs attention",
+      "priority: high",
+      "component: authentication"
+    ],
+    "comments": 2,
+    "created_at": "2026-03-04T14:20:47Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.65-243\n\n### JetBrains IDE and version\n\n2025.3.1.1\n\n### Platform\n\nMicrosoft Windows NT 10.0.26200.0 x64\n\n### Steps to reproduce\n\nUse the plugin behind a corporate proxy with ntlm.\n\n### Logs (optional)\n\n_No response_\n\n### Expected behavior\n\nWhen entering proxy credentials I expect them to be handed to the proxy. If I leave the credentials empty I expect the plugin to use NTLM.\n\n### Actual behavior\n\nThe credentials seem not to be use"
+  },
+  {
+    "number": 1446,
+    "title": "Improve ai-internal tooling usage: it often uses gradual degradation to cmd tools instead of its own",
+    "state": "OPEN",
+    "user": "Filet-de-S",
+    "labels": [
+      "bug",
+      "priority: medium",
+      "component: agent-mode"
+    ],
+    "comments": 2,
+    "created_at": "2026-03-04T13:45:44Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.66-243\n\n### JetBrains IDE and version\n\nGO-253.31033.129\n\n### Platform\n\nDarwin 24.6.0 Darwin Kernel Version 24.6.0 xnu-11417.140.69.705.2~1/RELEASE_ARM64_T6041 arm64\n\n### Steps to reproduce\n\nAt some point it stops using vector/\"auto\" search and tries to search things by grep. It's not related to some task specifics that could be a needle in haystack, no. Looks like gradual degradation but happens more often that I'd expect.\n\n### Lo"
+  },
+  {
+    "number": 1445,
+    "title": "Glitch in chat output when the single quotation mark character is used",
+    "state": "OPEN",
+    "user": "julianacms",
+    "labels": [
+      "bug",
+      "needs attention",
+      "priority: medium",
+      "component: chat"
+    ],
+    "comments": 3,
+    "created_at": "2026-03-04T12:54:21Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.66-243\n\n### JetBrains IDE and version\n\nIntellij #IU-253.31033.145\n\n### Platform\n\nDarwin deviancies-7HGVVC 25.3.0 Darwin Kernel Version 25.3.0: Wed Jan 28 20:54:22 PST 2026; root:xnu-12377.81.4~5/RELEASE_ARM64_T6030 arm64\n\n### Steps to reproduce\n\nHave copilot refer to code snippets that include the single quotation mark character\n\n### Logs (optional)\n\n_No response_\n\n### Expected behavior\n\nThe text output in the chat should make goo"
+  },
+  {
+    "number": 1444,
+    "title": "📌Common Issues: Rate limit, JetBrains AI Assistance, Open Source, and More.",
+    "state": "OPEN",
+    "user": "hangwan97",
+    "labels": [
+      "needs attention",
+      "priority: low",
+      "component: ui",
+      "type: docs"
+    ],
+    "comments": 1,
+    "created_at": "2026-03-04T03:42:48Z",
+    "body_summary": "To ensure better visibility, track progress efficiently, and avoid duplicated reports in the repository, we are consolidating the common topics here. We evaluate and maintain this list regularly, so please check here before opening a new issue.\n\n\n## How to use this issue\n- Check the list: Before opening a new issue, see if your problem or request is already linked in Sub-issues.\n\n- Upvote the sub issue: If you are experiencing one of these issues, please click the link and add a 👍 reaction to th"
+  },
+  {
+    "number": 1442,
+    "title": "Premium request usage data reports oddly from intellij plugin when viewed from Github APIs",
+    "state": "OPEN",
+    "user": "Wolfe1",
+    "labels": [
+      "bug",
+      "priority: medium",
+      "component: model-selection"
+    ],
+    "comments": 1,
+    "created_at": "2026-03-03T20:12:59Z",
+    "body_summary": "### Feedback source\n\nInternal Enterprise Feedback\n\n### GitHub Copilot plugin version\n\n1.5.65-243\n\n### JetBrains IDE and version\n\n253.30387.85\n\n### Platform\n\n_No response_\n\n### Steps to reproduce\n\n1. Have users make premium requests in intellij github copilot plugin\n2. Run github daily usage api (https://api.github.com/orgs/ORG_NAME/copilot/metrics/reports/users-1-day?day=2026-02-18) the day after to grab latest logs\n3. See that user's premium request usage will not match actual, often user_initi"
+  },
+  {
+    "number": 1441,
+    "title": "Support project‑local MCP configuration (workspace‑scoped MCP servers) in IntelliJ",
+    "state": "OPEN",
+    "user": "cfloersch",
+    "labels": [
+      "feature-request",
+      "needs attention",
+      "priority: medium",
+      "component: mcp"
+    ],
+    "comments": 1,
+    "created_at": "2026-03-03T16:33:51Z",
+    "body_summary": "Would like to request in the IntelliJ CoPilot plugin support for workspace-scoped mcp.json configurations. The goal is to limit the MCP to operating within the actual project directory (and sub directories) and to support various configurations per project.\n\nI am trying to write an MCP that will index the current project in a qdrant vector database and then provide that back to the copilot as effectively RAG. However, I need to be able to specify (or determine) the project directory so I can seg"
+  },
+  {
+    "number": 1440,
+    "title": "Too many issues",
+    "state": "OPEN",
+    "user": "anandagirish2",
+    "labels": [
+      "bug",
+      "needs attention",
+      "priority: medium",
+      "component: agent-mode"
+    ],
+    "comments": 2,
+    "created_at": "2026-03-02T08:04:22Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.66-243\n\n### JetBrains IDE and version\n\n2025.3.3\n\n### Platform\n\nIssues:\n1. Double hash does not open list of prompts\n2. Maven commands take very long time to execute\n3. Issues get closed by asking for screenshots: too many issues to screenshot everything + no time\n4. Bad code by llm in spite of prompt engineering with specifics in concise manner\n5. Too many unnecessary doc creation even after informing the llms to not create such d"
+  },
+  {
+    "number": 1437,
+    "title": "Allow paste  images and files from disk to the chat",
+    "state": "OPEN",
+    "user": "juandavidg890121",
+    "labels": [
+      "feature-request",
+      "needs attention",
+      "priority: medium",
+      "component: chat"
+    ],
+    "comments": 1,
+    "created_at": "2026-03-01T17:15:12Z",
+    "body_summary": "I would like the same as I do in VSCode to paste images and files"
+  },
+  {
+    "number": 1436,
+    "title": "Error when use github copilot plugin in idea",
+    "state": "OPEN",
+    "user": "KevinClair",
+    "labels": [
+      "bug",
+      "priority: medium",
+      "component: chat"
+    ],
+    "comments": 1,
+    "created_at": "2026-02-28T12:21:00Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.66-243\n\n### JetBrains IDE and version\n\n#IU-253.31033.145\n\n### Platform\n\nmacos\n\n### Steps to reproduce\n\nSorry, an error occurred while generating a response. Details: Error on conversation request: 800C1CFC01000000:error:0A000119:SSL routines:tls_get_more_records:decryption failed or bad record mac:../deps/openssl/openssl/ssl/record/methods/tls_common.c:870: Request ID: b3673152-509f-40fc-8ac8-45e4888c2152\n\n### Logs (optional)\n\n_No"
+  },
+  {
+    "number": 1435,
+    "title": "Pending issues for feature requests",
+    "state": "OPEN",
+    "user": "hangwan97",
+    "labels": [
+      "feature-request",
+      "priority: medium",
+      "component: chat",
+      "impact: medium",
+      "impact: low"
+    ],
+    "comments": 1,
+    "created_at": "2026-02-28T04:49:56Z",
+    "body_summary": ""
+  },
+  {
+    "number": 1433,
+    "title": "Terminal auto-approve for wrapper commands",
+    "state": "OPEN",
+    "user": "damjangelovski",
+    "labels": [
+      "feature-request",
+      "needs attention",
+      "priority: medium",
+      "component: agent-mode"
+    ],
+    "comments": 1,
+    "created_at": "2026-02-27T12:30:57Z",
+    "body_summary": "When adding commands like `xargs` or `timeout` to the auto-approve whitelist, the terminal execution tool should check if the underlying command is also in the auto-approve list.\n\nWhen I tested this I had `xargs`, `timeout` `cat` `ls` and others in my auto-approve list, but not `man`.\nI instructed the AI to run the terminal commands and the following commands ran automatically without approving:\n`timeout 5s man -P cat ls`\n`xargs -I{} man -P cat {} <<< 'ls'`\n\nWith this I am hesitant to leave comm"
+  },
+  {
+    "number": 1432,
+    "title": "Copilot plugin is incompatible with latest IntelliJ update",
+    "state": "OPEN",
+    "user": "cricketsamya",
+    "labels": [
+      "bug",
+      "needs more info",
+      "priority: high",
+      "component: ui"
+    ],
+    "comments": 1,
+    "created_at": "2026-02-27T08:44:17Z",
+    "body_summary": "### Feedback source\n\nJetBrains Marketplace\n\n### GitHub Copilot plugin version\n\nNot installed\n\n### JetBrains IDE and version\n\nBuild #IU-253.31033.145 (IntelliJ IDEA 2025.3.3)\n\n### Platform\n\nPlugin 'GitHub Copilot - Your AI Pair Programmer' (version '1.5.66-242') is not compatible with the current version of the IDE, because it requires build 242.* or older but the current build is IU-252.26830.84\n\n### Steps to reproduce\n\nTrying to install latest plugin\n\n### Logs (optional)\n\n_No response_\n\n### Exp"
+  },
+  {
+    "number": 1431,
+    "title": "Formatting swallows up some characters when Claude is selected",
+    "state": "OPEN",
+    "user": "ovesh",
+    "labels": [
+      "bug",
+      "needs attention",
+      "priority: high",
+      "component: chat"
+    ],
+    "comments": 3,
+    "created_at": "2026-02-27T04:35:47Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.65-243\n\n### JetBrains IDE and version\n\nIntellij 2025.3.3\n\n### Platform\n\nMacOS\n\n### Steps to reproduce\n\nThis happens in most answers. I'm attaching a screenshot.\nPerhaps limited to Claude Opus 4.6, I didn't check others.\n\n \n\n### Logs (optional)\n\n_No response_\n\n### Expected behavior\n\nCharacters shouldn't be swallowed\n\n### Actual behavior\n\nare swallowed\n\n### Additional information\n\n_No response_"
+  },
+  {
+    "number": 1430,
+    "title": "Corrupted text in Copilot Chat",
+    "state": "OPEN",
+    "user": "DavidAntliff",
+    "labels": [
+      "bug",
+      "priority: high",
+      "component: chat"
+    ],
+    "comments": 1,
+    "created_at": "2026-02-26T21:50:05Z",
+    "body_summary": "### Feedback source\n\nJetBrains Marketplace\n\n### GitHub Copilot plugin version\n\n1.5.66-243\n\n### JetBrains IDE and version\n\nRustRover #RR-253.31033.132 2025.3.4\n\n### Platform\n\nLinux 6.14.0-37-generic #37~24.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Nov 20 10:25:38 UTC 2 x86_64 x86_64 x86_64 GNU/Linux\n\n\n### Steps to reproduce\n\nJust open a Copilot chat, select Opus 4.6, and type something...\n\n### Logs (optional)\n\n_No response_\n\n### Expected behavior\n\nUncorrupted output.\n\n### Actual behavior\n\nCorrupted out"
+  },
+  {
+    "number": 1429,
+    "title": "Inline chat suggestions are displayed in two overlapping windows",
+    "state": "OPEN",
+    "user": "ohlsen3000",
+    "labels": [
+      "bug",
+      "priority: medium",
+      "component: ui"
+    ],
+    "comments": 1,
+    "created_at": "2026-02-26T12:36:03Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.66-243\n\n### JetBrains IDE and version\n\nIntelliJ 2025.3\n\n### Platform\n\n_No response_\n\n### Steps to reproduce\n\nOpen InettliJ 2025.3 on Mac OS Tahoe 26.3\nCreate new Test fiel for tsx file\nPrompt 'write test using vitest'\n\nWhen i use the inline suggestions, results are displayed in two overlapping windows. The copy code block function copies rubbish, not the content of neither window. \n\n### Logs (optional)\n\n_No response_\n\n### Expected"
+  },
+  {
+    "number": 1428,
+    "title": "Agent Requests often and repeatedly fails with Status Code 502",
+    "state": "OPEN",
+    "user": "g-martin772",
+    "labels": [
+      "bug",
+      "needs attention",
+      "priority: high",
+      "component: agent-mode",
+      "component: model-selection"
+    ],
+    "comments": 5,
+    "created_at": "2026-02-26T10:03:09Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.66-243\n\n### JetBrains IDE and version\n\nCLion 2025.3\n\n### Platform\n\nPlatform: Linux LAPTOP 6.18.9-arch1-2 #1 SMP PREEMPT_DYNAMIC Mon, 09 Feb 2026 17:16:33 +0000 x86_64 GNU/Linux\n\n### Steps to reproduce\n\nOpen up the extension, select agent mode, select sonnet 4.5 or 4.6 (that's what i tested it with, occured on both, probably other models too),  enter a prompt and submit it.\n\n### Logs (optional)\n\nIt does not trigger a IDE error noti"
+  },
+  {
+    "number": 1427,
+    "title": "MCP missing parameters following OAuth authentication to Azure EntraID based tenant",
+    "state": "OPEN",
+    "user": "douglas-peter",
+    "labels": [
+      "bug",
+      "needs attention",
+      "priority: high",
+      "component: mcp"
+    ],
+    "comments": 1,
+    "created_at": "2026-02-26T09:16:10Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.66-243\n\n### JetBrains IDE and version\n\nPycharm 2025.3.3\n\n### Platform\n\nLinux dinm5CG34639F3 6.6.87.2-microsoft-standard-WSL2 #1 SMP PREEMPT_DYNAMIC Thu Jun  5 18:30:46 UTC 2025 x86_64 x86_64 x86_64 GNU/Linux\n\n### Steps to reproduce\n\nHave an MCP server which relied on OAuth authentication using EntraID\nEnsure EntraID is not permitted to generate dynamic client IDs\nAdd config similar to the following to mcp.json\n```json\n{\n  \"servers"
+  },
+  {
+    "number": 1426,
+    "title": "Copilot Inline Chat UI broken in Dev Container (JetBrains Gateway/Remote Development)",
+    "state": "OPEN",
+    "user": "chiz-developer",
+    "labels": [
+      "bug",
+      "priority: medium",
+      "component: remote-dev"
+    ],
+    "comments": 1,
+    "created_at": "2026-02-26T08:32:35Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.66.17343-243-nightly\n\n### JetBrains IDE and version\n\nBuild #JBC-253.31033.145\n\n### Platform\n\nWhen GitHub Copilot is installed on both the local client and the remote backend (required for Git commit description generation), the Inline Chat UI becomes completely unusable. The input window shrinks to a tiny size (as shown in the attached screenshots), making it impossible to read or type any text.\n\n### Steps to reproduce\n\nOpen a Spr"
+  },
+  {
+    "number": 1424,
+    "title": "\"Apply next word\" gone from keymap settings",
+    "state": "OPEN",
+    "user": "ovesh",
+    "labels": [
+      "bug",
+      "priority: medium",
+      "component: chat",
+      "component: completions"
+    ],
+    "comments": 1,
+    "created_at": "2026-02-25T23:02:45Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.65-243\n\n### JetBrains IDE and version\n\nIntellij 2025.3.3\n\n### Platform\n\non MacOS.\nThe shortcut used to be available as documented in https://pavelmakhov.com/2025/03/accept-next-word-copilot/\n\n### Steps to reproduce\n\nImpossible to accept inline suggestions word by word\n\n### Logs (optional)\n\n_No response_\n\n### Expected behavior\n\nShould be able to accept as was supported in the past\n\n### Actual behavior\n\nCan't\n\n### Additional informa"
+  },
+  {
+    "number": 1423,
+    "title": "Quota Usage without rounding",
+    "state": "OPEN",
+    "user": "randy",
+    "labels": [
+      "feature-request",
+      "priority: medium",
+      "priority: low",
+      "component: model-selection"
+    ],
+    "comments": 1,
+    "created_at": "2026-02-25T19:00:00Z",
+    "body_summary": "I'd like to see unrounded Premium requests in the View Quota Usage popup.\n\nThis is the popup:\n\n \n\nAnd this is what I see in GitHub proper:\n\n \n\nI haven't kept track of exactly when the rounding up occurs, but I'm sure the code is easy enough to find. I'd like to see the same accuracy reported in both areas.\n\nAnd to be really honest, I'd prefer an `x of y` report instead of a percentage. The percentage is vague and feels like you're trying to hide something."
+  },
+  {
+    "number": 1422,
+    "title": "Cursor up at beginning of unsent request deletes request",
+    "state": "OPEN",
+    "user": "alubensky-schubert",
+    "labels": [
+      "bug",
+      "priority: medium",
+      "component: chat"
+    ],
+    "comments": 3,
+    "created_at": "2026-02-25T17:25:57Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.65-243\n\n### JetBrains IDE and version\n\nCLion 2025.3.3\n\n### Platform\n\nMicrosoft Windows NT 10.0.26100.0 x64\n\n### Steps to reproduce\n\nWhen writing a new request, sometimes the request is accidently deleted just be navigating to the beginning of the request and pushing \"up\" again. This brings up the previous request, but you can't navigate back anymore.\nI accidently deleted complex requests many times already.\n\n### Logs (optional)\n\n_"
+  },
+  {
+    "number": 1421,
+    "title": "[BYOK] Azure Responses API endpoint not supported (gpt-5.1-codex-max returns 400 OperationNotSupported)",
+    "state": "OPEN",
+    "user": "ethanbcht",
+    "labels": [
+      "bug",
+      "feature-request",
+      "priority: high",
+      "component: model-selection"
+    ],
+    "comments": 4,
+    "created_at": "2026-02-25T14:07:19Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.65-243\n\n### JetBrains IDE and version\n\n2025.3.2 \n\n### Platform\n\n_No response_\n\n### Steps to reproduce\n\n**Steps to Reproduce**\n1. Deploy gpt-5.1-codex-max on Azure AI Foundry\n2. In IntelliJ Copilot → Manage Models → Add Model → Azure\n3. Fill in Model ID: gpt-5.1-codex-max, Deployment URL: https://\\.openai.azure.com, and a valid API Key\n4. Send any message in Copilot Chat using this model\n\n### Logs (optional)\n\nFirst error (wrong dom"
+  },
+  {
+    "number": 1420,
+    "title": "PETITION - Open source the code for this intellij plugin",
+    "state": "OPEN",
+    "user": "andreiverdes",
+    "labels": [
+      "feature-request",
+      "needs attention",
+      "priority: low",
+      "component: chat"
+    ],
+    "comments": 4,
+    "created_at": "2026-02-25T12:58:17Z",
+    "body_summary": "Can you please OpenSource this already? I'd be more than happy to have a go at #1419 for instance and open-sourcing it won't impact revenue stream..."
+  },
+  {
+    "number": 1419,
+    "title": "`user.home` var not used to get the home dir path",
+    "state": "OPEN",
+    "user": "andreiverdes",
+    "labels": [
+      "bug",
+      "needs attention",
+      "priority: medium",
+      "component: authentication",
+      "component: context"
+    ],
+    "comments": 2,
+    "created_at": "2026-02-25T12:54:57Z",
+    "body_summary": "### Feedback source\n\nJetBrains Marketplace\n\n### GitHub Copilot plugin version\n\n1.5.65-243\n\n### JetBrains IDE and version\n\nAndroid Studio Panda 2 | 2025.3.2 RC 1\n\n### Platform\n\n_No response_\n\n### Steps to reproduce\n\nI have a personal copilot subscription on my account and another one provided by my employer on another account.\nI want, on the same machine to be able to use both auth tokens.\nThis could be easily fixed if the github copilot plugin would use intellij's `user.home` var to get the home"
+  },
+  {
+    "number": 1418,
+    "title": "Copilot Edit Overlay Appears on Top of Other Applications (macOS)",
+    "state": "OPEN",
+    "user": "urbanideskonstantin",
+    "labels": [
+      "bug",
+      "priority: medium",
+      "component: ui"
+    ],
+    "comments": 2,
+    "created_at": "2026-02-25T06:58:17Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.65-243\n\n### JetBrains IDE and version\n\nIntelliJ 253.29346.138\n\n### Platform\n\nmacOS\n\n### Steps to reproduce\n\n1. Open IntelliJ IDEA on macOS\n2. Trigger GitHub Copilot in agent mode and trigger it to edit one or more files\n3. Observe the overlay with \"Keep All\" and \"Undo All\" buttons appears\n4. Switch to another application (browser, Finder, terminal, etc.)\n5. Notice the overlay remains visible on top of the other application\n\n### Lo"
+  },
+  {
+    "number": 1417,
+    "title": "Support enabling and disabling models just like in VS Code",
+    "state": "OPEN",
+    "user": "funky-eyes",
+    "labels": [
+      "feature-request",
+      "needs attention",
+      "priority: medium",
+      "component: model-selection",
+      "status: needs-triage",
+      "feature: git-operations"
+    ],
+    "comments": 2,
+    "created_at": "2026-02-25T01:28:51Z",
+    "body_summary": "Support the ability to enable/disable individual models, similar to how it's handled in VS Code (e.g., toggling extensions or providers).  \n\nCertain models underperform or don't suit my workflow, yet auto model selection can still choose them unexpectedly. The old per-model enable/disable controls in the GitHub Copilot settings page appear to have been removed or hidden, which has made it harder to customize. Adding this granular control would greatly improve the developer experience when using "
+  },
+  {
+    "number": 1415,
+    "title": "Copilot settings plugin uses wrong GitHub copilot account settings for github enterprise",
+    "state": "OPEN",
+    "user": "nr-thst",
+    "labels": [
+      "bug",
+      "needs attention",
+      "priority: low",
+      "component: authentication",
+      "platform: pycharm",
+      "status: needs-triage",
+      "impact: low",
+      "feature: git-operations"
+    ],
+    "comments": 1,
+    "created_at": "2026-02-24T19:19:16Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.65-243\n\n### JetBrains IDE and version\n\nPyCharm 2025.3.2.1 Build #PY-253.30387.173, built on February 1, 2026\n\n### Platform\n\nmacOS Tahoe 26.2 (25C56)\n\n### Steps to reproduce\n\n- add your GHE address as authentication provider (like foobar.ghe.com)\n- Open GitHUB Copilot plugin settings page, General tab, click on link \"GitHub Copilot account settings\"\n\n\n\n\n### Logs (optional)\n\n_No response_\n\n### Expected behavior\n\nOpen a page on the c"
+  },
+  {
+    "number": 1414,
+    "title": "Code Review Error",
+    "state": "OPEN",
+    "user": "15622162922",
+    "labels": [
+      "bug",
+      "priority: medium",
+      "component: agent-mode",
+      "platform: rider",
+      "status: needs-triage",
+      "impact: medium",
+      "feature: git-operations"
+    ],
+    "comments": 3,
+    "created_at": "2026-02-24T10:39:55Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.65-243\n\n### JetBrains IDE and version\n\nRider 2025.3.3\n\n### Platform\n\nMicrosoft Windows NT 10.0.19045.0 x64\n\n### Steps to reproduce\n\nselect single code file in commit panel, and Click the Button of \"Copilot: Review Code Changes\". Error Tip \"Error generating changes review: Error processing command copilot/codeReview/reviewChanges, request id: 113, error code: -32603.\"\n\n### Logs (optional)\n\n[idea.log](https://github.com/user-attachm"
+  },
+  {
+    "number": 1413,
+    "title": "Unknown error",
+    "state": "OPEN",
+    "user": "NikolaKekic",
+    "labels": [
+      "bug",
+      "needs log",
+      "no recent activity",
+      "priority: low",
+      "component: chat",
+      "impact: low",
+      "feature: git-operations"
+    ],
+    "comments": 3,
+    "created_at": "2026-02-24T08:30:38Z",
+    "body_summary": "### Feedback source\n\nJetBrains Marketplace\n\n### GitHub Copilot plugin version\n\n_No response_\n\n### JetBrains IDE and version\n\n_No response_\n\n### Platform\n\n_No response_\n\n### Steps to reproduce\n\nError processing command conversation/create\n\n### Logs (optional)\n\n_No response_\n\n### Expected behavior\n\nnot error\n\n### Actual behavior\n\nError processing command conversation/create\n\n### Additional information\n\n_No response_"
+  },
+  {
+    "number": 1412,
+    "title": "Copilot Agent changes tooltip appears on top of any application",
+    "state": "OPEN",
+    "user": "poke646",
+    "labels": [
+      "bug",
+      "needs attention",
+      "priority: medium",
+      "component: ui",
+      "platform: rider",
+      "status: needs-triage",
+      "impact: medium",
+      "feature: git-operations"
+    ],
+    "comments": 2,
+    "created_at": "2026-02-24T07:17:58Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n_No response_\n\n### JetBrains IDE and version\n\n2025.3.2 (253.30387.148)\n\n### Platform\n\n, OS Mac OS X(aarch64) v26.3, screens 3024x1964 (200%); Retina\n.NET Core v9.0.11 ARM64 (Server GC)\n\n### Steps to reproduce\n\nPrompt an Agent to do some task and modify the files, but leave the Rider app in the background, and do something else. The popup appears on top of other application I am working so I can accidentaly click the Discard All or App"
+  },
+  {
+    "number": 1411,
+    "title": "Opus 4.6 missing characters from words in responses",
+    "state": "OPEN",
+    "user": "john-terry31",
+    "labels": [
+      "bug",
+      "needs attention",
+      "priority: medium",
+      "priority: low",
+      "component: agent-mode",
+      "component: chat",
+      "status: needs-triage",
+      "impact: low",
+      "feature: git-operations"
+    ],
+    "comments": 16,
+    "created_at": "2026-02-23T18:31:19Z",
+    "body_summary": "### Feedback source\n\nInternal Enterprise Feedback\n\n### GitHub Copilot plugin version\n\n1.5.63-243\n\n### JetBrains IDE and version\n\n2025.2.2\n\n### Platform\n\nWindows 11\n\n### Steps to reproduce\n\nSelect Claude Opus 4.6 and agent mode. Make any standard request in the chat window against your project. The bug is inconsistent so will be more likely to appear in a longer response I suspect.\n\n### Logs (optional)\n\n_No response_\n\n### Expected behavior\n\nNormal response with all words complete, missing no char"
+  },
+  {
+    "number": 1410,
+    "title": "Inline code suggestion",
+    "state": "OPEN",
+    "user": "r-sultanov280",
+    "labels": [
+      "bug",
+      "feature-request",
+      "needs attention",
+      "priority: low",
+      "component: completions",
+      "platform: phpstorm",
+      "status: needs-triage",
+      "feature: git-operations"
+    ],
+    "comments": 1,
+    "created_at": "2026-02-23T10:15:04Z",
+    "body_summary": "I use the free version of **GitHub Copilot** with **phpStorm IDE**.\nWhen I'm typing up code in the IDE, the copilot code suggestions pop up in grey.\nEverything's fine so far.\nBut even if I don't press the `TAB` button to accept the inline code (**which is greyed out**), my monthly quota limit (**2000**) goes down.\nI only pressed the `TAB` button a few times (**100 at most**) and the quota percentage reached **80%** in a few days.\nIf you see the inline suggestion code in grey in the IDE, even if "
+  },
+  {
+    "number": 1407,
+    "title": "Seeing partial response from the inline chat window.",
+    "state": "OPEN",
+    "user": "tamirble",
+    "labels": [
+      "bug",
+      "priority: low",
+      "component: chat",
+      "component: completions",
+      "status: needs-triage",
+      "impact: low",
+      "feature: inline-chat",
+      "feature: git-operations"
+    ],
+    "comments": 1,
+    "created_at": "2026-02-22T09:23:12Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\nlatest\n\n### JetBrains IDE and version\n\nlatest\n\n### Platform\n\nI see partial text from the inline chat.\n\n \n\n\n### Steps to reproduce\n\nOpen the inline chat and ask it something.\n\n### Logs (optional)\n\n_No response_\n\n### Expected behavior\n\nSee full text response 🙄 \n\n### Actual behavior\n\nPartial text\n\n### Additional information\n\n_No response_"
+  },
+  {
+    "number": 1406,
+    "title": "Gemini 3 kept repeating \"I'll call,\" but didn't execute it.",
+    "state": "OPEN",
+    "user": "g129512",
+    "labels": [
+      "bug",
+      "priority: low",
+      "component: agent-mode",
+      "component: performance",
+      "status: needs-triage",
+      "impact: low",
+      "feature: git-operations"
+    ],
+    "comments": 1,
+    "created_at": "2026-02-22T01:55:38Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.65-243\n\n### JetBrains IDE and version\n\nIntelliJ IDEA 2025.3.1 Build #IU-253.29346.138, built on December 18, 2025 Source revision: 9478cb03fae44 Runtime version: 21.0.9+1-b1163.86 amd64 (JCEF 137.0.17) VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o. Toolkit: sun.awt.windows.WToolkit Windows 10.0 GC: G1 Young Generation, G1 Concurrent GC, G1 Old Generation Memory: 25008M Cores: 28 Registry:   debugger.watches.in.variables=false   "
+  },
+  {
+    "number": 1405,
+    "title": "Movement Network",
+    "state": "OPEN",
+    "user": "cshein45",
+    "labels": [
+      "feature-request",
+      "needs attention",
+      "priority: low",
+      "component: ui",
+      "status: needs-triage",
+      "feature: git-operations"
+    ],
+    "comments": 2,
+    "created_at": "2026-02-21T20:16:55Z",
+    "body_summary": ""
+  },
+  {
+    "number": 1404,
+    "title": "Plan mode tries to edit / start implementation and becomes confused in the process",
+    "state": "OPEN",
+    "user": "patric-dosch-vi",
+    "labels": [
+      "bug",
+      "needs more info",
+      "priority: medium",
+      "priority: low",
+      "component: agent-mode",
+      "component: performance",
+      "status: needs-more-info",
+      "impact: low",
+      "feature: git-operations"
+    ],
+    "comments": 2,
+    "created_at": "2026-02-21T16:53:43Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.65-243\n\n### JetBrains IDE and version\n\nIntelliJ, 2025.3.2\n\n### Platform\n\n25.3.0 Darwin Kernel Version 25.3.0: Wed Jan 28 20:54:22 PST 2026; root:xnu-12377.81.4~5/RELEASE_ARM64_T6030 arm64\n\n### Steps to reproduce\n\nIn Plan mode, multiple messages are exchanged, questions are answered, and requirements are refined.\nSometimes CopilotChat starts to develop. However, this causes an error in Plan mode, and I am then offered scripts that "
+  },
+  {
+    "number": 1402,
+    "title": "Constantly getting \"request timed out from lsp server\" for large modifications",
+    "state": "OPEN",
+    "user": "tcastil-bvs",
+    "labels": [
+      "bug",
+      "needs log",
+      "priority: medium",
+      "priority: low",
+      "component: performance",
+      "status: needs-triage",
+      "impact: medium",
+      "impact: low",
+      "feature: git-operations"
+    ],
+    "comments": 5,
+    "created_at": "2026-02-20T02:49:42Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.65-243\n\n### JetBrains IDE and version\n\nIntellij IDEA 2025.2.6.1\n\n### Platform\n\nPlatform: Windows  NT 10.0.19045.0 x64\n\n\n### Steps to reproduce\n\nIn agent mode, with any model GPT or Claude, if appears that the agent will produce a large amount of lines, after some time \"Working...\" the operation fails with the following message:\nSorry, an error ocurred while generating a response. Details: Error on conversation request: Request tim"
+  },
+  {
+    "number": 1401,
+    "title": "Copilot suggestion in floating edit box don´t disappear",
+    "state": "OPEN",
+    "user": "Hex-Liu",
+    "labels": [
+      "bug",
+      "needs attention",
+      "priority: low",
+      "component: ui",
+      "platform: pycharm",
+      "status: needs-triage",
+      "impact: low",
+      "feature: git-operations"
+    ],
+    "comments": 5,
+    "created_at": "2026-02-19T21:34:20Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.65-243\n\n### JetBrains IDE and version\n\nPyCharm 2025.3.2.1 Build #PY-253.30387.173, built on February 1, 2026\n\n### Platform\n\nSometimes, the suggestion in a little screen don't disappear, even if I minimize and maximize the full editor.\nThe only resolution is restart the IDE but the bug will come back soon\n\n \n\n### Steps to reproduce\n\n90% of time if i hit ESC, it disappears. But the 10% is really random. \n\n### Logs (optional)\n\n_No re"
+  },
+  {
+    "number": 1400,
+    "title": "Closing the terminal sometimes results in a \"Cannot find process count in AttachConsole failed: GetLastError()\" exception",
+    "state": "OPEN",
+    "user": "G-Rath",
+    "labels": [
+      "bug",
+      "priority: medium",
+      "component: agent-mode",
+      "status: needs-triage",
+      "impact: medium",
+      "feature: terminal-integration"
+    ],
+    "comments": 13,
+    "created_at": "2026-02-19T21:33:50Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.65-243\n\n### JetBrains IDE and version\n\n2025.2.5\n\n### Platform\n\n```\nMicrosoft Windows NT 10.0.26200.0 x64\nLinux DESKTOP-G3D14FN 6.6.87.2-microsoft-standard-WSL2 #1 SMP PREEMPT_DYNAMIC Thu Jun  5 18:30:46 UTC 2025 x86_64 x86_64 x86_64 GNU/Linux\n```\n\n### Steps to reproduce\n\n- Use Copilot in Agent mode\n- Have it want to run a command\n- Allow that command to run\n- Manually close the terminal \n    - (due to #468, and I thought there was"
+  },
+  {
+    "number": 1399,
+    "title": "after login with github getting the error",
+    "state": "OPEN",
+    "user": "deshmukhnanasab-netizen",
+    "labels": [
+      "bug",
+      "needs more info",
+      "needs log",
+      "no recent activity",
+      "priority: low",
+      "component: authentication",
+      "status: needs-triage",
+      "impact: low",
+      "feature: git-operations"
+    ],
+    "comments": 3,
+    "created_at": "2026-02-19T16:38:55Z",
+    "body_summary": "Error processing command conversation/create"
+  },
+  {
+    "number": 1398,
+    "title": "Copilot does not respect disabled references",
+    "state": "OPEN",
+    "user": "AbitTheGray",
+    "labels": [
+      "bug",
+      "priority: low",
+      "component: context",
+      "platform: clion",
+      "status: needs-triage",
+      "impact: low",
+      "feature: git-operations"
+    ],
+    "comments": 1,
+    "created_at": "2026-02-19T12:26:38Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.65-243\n\n### JetBrains IDE and version\n\nCLion EAP\n\n### Platform\n\nMicrosoft Windows NT 10.0.19045.0 x64\n\n### Steps to reproduce\n\n- Switch to \"Ask\"\n- Turn off the file above input field\n- Ask about something related to the current file\n\nThe AI will have `Using 1 reference` even when it had everything it needed in the prompt.\n\n### Logs (optional)\n\n_No response_\n\n### Expected behavior\n\nRespect the user not wanting to share files implic"
+  },
+  {
+    "number": 1397,
+    "title": "Unable to use GITHUB Copilot chat, getting HTTP 403 Forbidden error",
+    "state": "OPEN",
+    "user": "HP83206",
+    "labels": [
+      "bug",
+      "needs attention",
+      "priority: medium",
+      "component: chat",
+      "component: authentication",
+      "status: needs-triage",
+      "impact: blocking",
+      "feature: git-operations"
+    ],
+    "comments": 2,
+    "created_at": "2026-02-19T10:53:02Z",
+    "body_summary": "Unable to use Copilot chat and getting \"HTTP 403 forbidden\" error, Kindly help"
+  },
+  {
+    "number": 1396,
+    "title": "The IDE failed to install or update some plugins",
+    "state": "OPEN",
+    "user": "unikentmd66",
+    "labels": [
+      "bug",
+      "priority: low",
+      "component: ui",
+      "status: needs-triage",
+      "impact: low",
+      "feature: git-operations"
+    ],
+    "comments": 1,
+    "created_at": "2026-02-19T10:51:18Z",
+    "body_summary": "After installing the copilot plugin to IntelliJ 2025.1 and restarting the IDE, I receive the following error:\n\nThe IDE failed to install or update some plugins.\nPlease try again, and if the problem persists, report it to the support.\n\nThe cause: java.nio.file.DirectoryNotEmptyException: \\\\files.kent.ac.uk\\usersM\\md66\\Home\\Essential-User-Settings\\AppData\\JetBrains\\IntelliJIdea2025.1\\plugins\\github-copilot-intellij\\copilot-agent\\dist\\bin\\linux\\arm64 (children: rg, )\n\nWhat does this mean and how ca"
+  },
+  {
+    "number": 1395,
+    "title": "Agent skill files not readable",
+    "state": "OPEN",
+    "user": "Armando-Vdb",
+    "labels": [
+      "bug",
+      "needs attention",
+      "priority: medium",
+      "priority: low",
+      "component: agent-mode",
+      "component: context",
+      "status: needs-triage",
+      "impact: low",
+      "feature: git-operations"
+    ],
+    "comments": 1,
+    "created_at": "2026-02-19T09:15:40Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.65-243\n\n### JetBrains IDE and version\n\nIntelliJ 2025.3.2\n\n### Platform\n\nMicrosoft Windows NT 10.0.26200.0 x64\n\n### Steps to reproduce\n\n1. Add folder .github>skills>review\n2. Add file SKILL.md (content of file isn't relevant for bug reproduction)\n3. Ask copilot to review a file\n4. Steps copilot will do should say \"Read SKILL.md failed\" in my case\n\n### Logs (optional)\n\nError: Error: Path must not contain a scheme\n    at makeFsUri (C"
+  },
+  {
+    "number": 1393,
+    "title": "Failed to Parse Comment Lines in Code Blocks and Split Code Blocks",
+    "state": "OPEN",
+    "user": "zzyu17",
+    "labels": [
+      "bug",
+      "needs attention",
+      "priority: low",
+      "component: chat",
+      "component: ui",
+      "platform: pycharm",
+      "status: needs-triage",
+      "impact: low",
+      "feature: inline-chat",
+      "feature: git-operations"
+    ],
+    "comments": 2,
+    "created_at": "2026-02-18T14:17:16Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.65-243\n\n### JetBrains IDE and version\n\nPyCharm 2025.3.1.1\n\n### Platform\n\nMicrosoft Windows NT 10.0.19045.0 x64\n\n### Steps to reproduce\n\n*\n\n### Logs (optional)\n\n_No response_\n\n### Expected behavior\n\n*\n\n### Actual behavior\n\n \n\nWhen in Chat mode and Inline Chat mode, issues occur (not every time but more than half of the cases), at least when using Gemini and GPT models (other models are not tested so far).\n\n \n\nAlso the code blocks m"
+  },
+  {
+    "number": 1392,
+    "title": "Copilot agent adds Zero-Width Non Breaking Space (BOM, ZWNBSP) at the beginning of a file",
+    "state": "OPEN",
+    "user": "jwedel",
+    "labels": [
+      "bug",
+      "needs attention",
+      "priority: medium",
+      "priority: low",
+      "component: agent-mode",
+      "component: performance",
+      "impact: low",
+      "feature: git-operations"
+    ],
+    "comments": 15,
+    "created_at": "2026-02-18T13:21:48Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.65-243\n\n### JetBrains IDE and version\n\n2025.3.1\n\n### Platform\n\n24.6.0 Darwin Kernel Version 24.6.0: Mon Jan 19 22:00:55 PST 2026; root:xnu-11417.140.69.708.3~1/RELEASE_ARM64_T6000 arm64\n\n### Steps to reproduce\n\nLet agent mode edit a couple of files (Non-deterministic).\n\n### Logs (optional)\n\n_No response_\n\n### Expected behavior\n\nThere should be no ZWNBSP character at the beginning of a fill added.\n\n### Actual behavior\n\n \n\nVery ofte"
+  },
+  {
+    "number": 1391,
+    "title": "Blank prompt - After Upgrading",
+    "state": "OPEN",
+    "user": "iam-peter-bowes",
+    "labels": [
+      "bug",
+      "priority: low",
+      "component: agent-mode",
+      "status: needs-triage",
+      "impact: high",
+      "impact: low",
+      "feature: git-operations"
+    ],
+    "comments": 7,
+    "created_at": "2026-02-18T10:20:37Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.64-243 and 1.5.65-243\n\n### JetBrains IDE and version\n\n2025.3.2\n\n### Platform\n\nSimilar to https://github.com/microsoft/copilot-intellij-feedback/issues/1045\n\n### Steps to reproduce\n\nUpgrade plugin \n\nReload IDE\n\n \n\n\n### Logs (optional)\n\nUnhandled exception in [Kernel@807gesoitgesvc283md8, Rete(abortOnError=false, commands=capacity=2147483647,data=[onReceive], reteState=kotlinx.coroutines.flow.StateFlowImpl@33f88ab, dbSource=ReteDbSo"
+  },
+  {
+    "number": 1390,
+    "title": "MCP Server OAuth integration is broken",
+    "state": "OPEN",
+    "user": "radovanZRasa",
+    "labels": [
+      "bug",
+      "needs attention",
+      "priority: medium",
+      "priority: low",
+      "component: authentication",
+      "component: mcp",
+      "platform: pycharm",
+      "status: needs-triage",
+      "impact: high",
+      "impact: low",
+      "feature: git-operations"
+    ],
+    "comments": 2,
+    "created_at": "2026-02-18T10:06:25Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.420.0\n\n### JetBrains IDE and version\n\n2025.3.2.1 253.30387.173\n\n### Platform\n\nMCP server usage in PyCharm with any model fails with HTTP 500 error.\n\nServer can be started.\nI was able to perform OAuth with the MCP server (Notion).\nWhen I ask about fetching information from Notion, model sees the tool and tries to use it but server responds with error 500.\n\n### Steps to reproduce\n\nInstall notion MCP server.\nStart it.\nComplete OAuth.\nA"
+  },
+  {
+    "number": 1389,
+    "title": "always show err When chat : An error occurred while processing your request. Please try again later",
+    "state": "OPEN",
+    "user": "inno-view",
+    "labels": [
+      "bug",
+      "needs more info",
+      "priority: low",
+      "component: chat",
+      "platform: pycharm",
+      "status: needs-triage",
+      "impact: medium",
+      "impact: low",
+      "feature: git-operations"
+    ],
+    "comments": 2,
+    "created_at": "2026-02-18T08:16:31Z",
+    "body_summary": "### Feedback source\n\nGitHub Discussion\n\n### GitHub Copilot plugin version\n\n1.5.65-243\n\n### JetBrains IDE and version\n\nPyCharm 2025.3.2.1\n\n### Platform\n\nOS Name\tMicrosoft Windows 11 Enterprise LTSC Evaluation\n\n\n### Steps to reproduce\n\nWindows system use proxy, proxy configured as:\nAutomatic proxy setup-> Use setup script ON, \n\nI can logon the coplit account , but I can't use chat\n\n### Logs (optional)\n\n_No response_\n\n### Expected behavior\n\nfix the chat , I can use coplit in VScode but the Jetbrain"
+  },
+  {
+    "number": 1388,
+    "title": "Can't login in GitHub Copilot in Jetbrains PHPStorm",
+    "state": "OPEN",
+    "user": "DarkL3mon",
+    "labels": [
+      "bug",
+      "needs attention",
+      "priority: medium",
+      "priority: low",
+      "component: authentication",
+      "platform: phpstorm",
+      "status: needs-triage",
+      "impact: blocking",
+      "impact: low",
+      "feature: git-operations"
+    ],
+    "comments": 6,
+    "created_at": "2026-02-17T19:15:24Z",
+    "body_summary": "### Feedback source\n\nOther\n\n### GitHub Copilot plugin version\n\n1.5.65-243\n\n### JetBrains IDE and version\n\n2025.3.2\n\n### Platform\n\nDarwin MacBook-Pro.local 24.5.0 Darwin Kernel Version 24.5.0: Tue Apr 22 19:54:29 PDT 2025; root:xnu-11417.121.6~2/RELEASE_ARM64_T6030 arm64\n\n### Steps to reproduce\n\n1. Install the plugin\n2. Click on login in copilot\n3. opens the wed page\n4. authorize access \n5. then go back to the IDE\n6. and the error pops up\n7. Then try to use the login/device\nSame thing, and there "
+  },
+  {
+    "number": 1386,
+    "title": "NES doesn't clear completition after not interacting with it",
+    "state": "OPEN",
+    "user": "mhfortuna",
+    "labels": [
+      "bug",
+      "needs attention",
+      "priority: low",
+      "component: completions",
+      "status: needs-triage",
+      "impact: low",
+      "feature: git-operations"
+    ],
+    "comments": 1,
+    "created_at": "2026-02-17T07:52:56Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.65-243\n\n### JetBrains IDE and version\n\nWebStorm 2025.3.2\n\n### Platform\n\nDarwin Mathis-MacBook-Pro.local 25.2.0 Darwin Kernel Version 25.2.0: Tue Nov 18 21:07:05 PST 2025; root:xnu-12377.61.12~1/RELEASE_ARM64_T6020 arm64\n\n\n### Steps to reproduce\n\nWith Enable Next Edit Suggestions (NES) ON, and when the NES appears you ignore it and keep writing, then you can't dismiss the NES and stays floating there\n\n \n\nhttps://github.com/user-att"
+  },
+  {
+    "number": 1384,
+    "title": "Inline-chat history on IntelliJ",
+    "state": "OPEN",
+    "user": "samuelgfeller",
+    "labels": [
+      "feature-request",
+      "needs attention",
+      "priority: medium",
+      "component: chat",
+      "status: needs-triage",
+      "feature: inline-chat",
+      "feature: git-operations"
+    ],
+    "comments": 3,
+    "created_at": "2026-02-16T12:19:51Z",
+    "body_summary": "It would be awesome to be able to browse the history of prompts of inline-chats via up and down arrow keys for instance.\nIf I made a draft of a new chat, it would be great if it re-appears when clicking arrow down so that it's not lost on accidental arrow key up press.\n\nAlso amazing would be to have access to the edit mode in the inline chat.\n\nI saw that there is already an [unanswered ticket](https://github.com/orgs/community/discussions/101999) for this from 2 years ago"
+  },
+  {
+    "number": 1382,
+    "title": "[Agent] After a job is done, display (clickable) list of changed files",
+    "state": "OPEN",
+    "user": "samuelgfeller",
+    "labels": [
+      "feature-request",
+      "needs attention",
+      "priority: low",
+      "component: agent-mode",
+      "status: needs-triage",
+      "feature: git-operations"
+    ],
+    "comments": 3,
+    "created_at": "2026-02-16T11:27:12Z",
+    "body_summary": "Coming from Junie, I really appreciated that at the end of a Agent task, it lists all the changed files with the modifications made, with an option to navigate to that file or to see what changes the agent made. \n\nCopilot works a little differently, I have to confirm all the changes (or discard them). Sometimes I want to confirm but then need to adapt it a bit and instead of reading the changed file name in a generated .md, then having to manually search the file, I would LOVE to be able to have"
+  },
+  {
+    "number": 1381,
+    "title": "\"Function call is missing a thought_signature in functionCall parts\" when using Gemini BYOK.",
+    "state": "OPEN",
+    "user": "Eyre-S",
+    "labels": [
+      "bug",
+      "priority: low",
+      "component: agent-mode",
+      "component: model-selection",
+      "status: needs-triage",
+      "impact: high",
+      "impact: low",
+      "feature: git-operations"
+    ],
+    "comments": 2,
+    "created_at": "2026-02-16T04:36:25Z",
+    "body_summary": "### Feedback source\n\nJetBrains Marketplace\n\n### GitHub Copilot plugin version\n\n1.5.65-243\n\n### JetBrains IDE and version\n\nIntelliJ IDEA 2025.3.2\n\n### Platform\n\nMicrosoft Windows NT 10.0.26200.0 x64\n\n### Steps to reproduce\n\n- Get a Gemini API key from Google AI Studio\n- Open \"Manage Models\" on Copilot Chat sidebar.\n- In the Gemini provider page, paste the Gemini key, then select Gemini models.\n- Back to the Copilot Chat page, select Gemini 3 Flash Preview (others may have the same issue?) in Othe"
+  },
+  {
+    "number": 1380,
+    "title": "Oracle DB package body line number is incorrect",
+    "state": "OPEN",
+    "user": "HubKing",
+    "labels": [
+      "bug",
+      "needs attention",
+      "priority: low",
+      "component: agent-mode",
+      "platform: datagrip",
+      "status: needs-triage",
+      "impact: low",
+      "feature: git-operations"
+    ],
+    "comments": 1,
+    "created_at": "2026-02-15T23:46:21Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.65-243\n\n### JetBrains IDE and version\n\nDataGrip 2025.3.5\n\n### Platform\n\nMicrosoft Windows NT 10.0.26200.0 x64\n\nFor Oracle DB, package has \"specification\" and \"body\", and DataGrip shows them separately. If I download the DDL, they are in one file. The problem is that, it seems that the Copilot plugin sees the whole file, including the spec, when referring to an open editor tab for a package body, when DataGrip is showing only the b"
+  },
+  {
+    "number": 1379,
+    "title": "LOCAL agents",
+    "state": "OPEN",
+    "user": "nniicckk6",
+    "labels": [
+      "feature-request",
+      "needs attention",
+      "priority: low",
+      "component: agent-mode",
+      "status: needs-triage"
+    ],
+    "comments": 2,
+    "created_at": "2026-02-15T13:51:16Z",
+    "body_summary": "We really need support for local agents that will use the local MCP configuration, instructions, etc. They will simply perform the task in a separate branch that can be merged.\nSomething like this or similar has already been implemented in VsCode."
+  },
+  {
+    "number": 1378,
+    "title": "Cmd+Left / Cmd + Right Arrows behavior does not respect IDEA settings",
+    "state": "OPEN",
+    "user": "dkBrazz",
+    "labels": [
+      "bug",
+      "priority: low",
+      "component: ui",
+      "platform: intellij",
+      "status: needs-triage",
+      "impact: low",
+      "feature: git-operations"
+    ],
+    "comments": 1,
+    "created_at": "2026-02-14T10:57:16Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.65-243\n\n### JetBrains IDE and version\n\nIntelliJ IDEA 2025.3.2\n\n### Platform\n\nMac OS 15.7.3\n\n### Steps to reproduce\n\nEnsure that in editor you have following settings (standard for MacOS):\n\n- Move Caret to Line Start - `⌘ Cmd + ←` or `⌃ Ctrl + A` or `↖ Home`\n- Move Caret to Line End - `⌘ Cmd + →`  or `⌃ Ctrl + E` or `↘ End`\n\n\nWhen editing multiline input in chat press Cmd+Left / Cmd+Right, Ctrl + A / Ctrl + E, Home / End\n\n### Expec"
+  },
+  {
+    "number": 1376,
+    "title": "login using company sso",
+    "state": "OPEN",
+    "user": "demarz930",
+    "labels": [
+      "bug",
+      "needs attention",
+      "priority: low",
+      "component: authentication",
+      "status: needs-triage",
+      "impact: blocking",
+      "impact: low",
+      "feature: git-operations"
+    ],
+    "comments": 3,
+    "created_at": "2026-02-14T01:18:42Z",
+    "body_summary": "Hi, I'm having difficulty figuring out what to put in the Authentication Provider. \nMy repos are at https://github.com/companyname-innersource/reponame\nI login to GitHub enterprise using https://github.com/enterprises/companyname/sso\nMy company uses okta for SSO.\nI've tried many combinations but none worked. It seems that it just appends \"/login/oauth/authorize?client_id=....\" to whatever I put in the Authentication Provider.\nMy copilot license is active.\nThanks."
+  },
+  {
+    "number": 1375,
+    "title": "Unable to authenticate when running in Devcontainer",
+    "state": "OPEN",
+    "user": "jakub-bochenski",
+    "labels": [
+      "bug",
+      "needs attention",
+      "priority: medium",
+      "component: authentication",
+      "status: needs-triage",
+      "impact: blocking",
+      "impact: medium",
+      "feature: git-operations"
+    ],
+    "comments": 1,
+    "created_at": "2026-02-13T14:44:19Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.65-243\n\n### JetBrains IDE and version\n\nIntelliJ IDEA 2025.3.2\n\n### Platform\n\nmacOs Tahoe\n\n### Steps to reproduce\n\nOpen project in Devcontainer\n\nTry to authenticate\n\nThe authentication does not complete as it tries to reach `http://127.0.0.1:49239/callback`\n\n### Logs (optional)\n\n_No response_\n\n### Expected behavior\n\nThere is a similar issue when using VS Code Devcontainers, but you can work around it using \"URL handler\" method\n\nIJ "
+  },
+  {
+    "number": 1374,
+    "title": "Custom Agents and Plan mode stopped showing after some recent update, and some other issues",
+    "state": "OPEN",
+    "user": "K1ll3rF0x",
+    "labels": [
+      "bug",
+      "needs log",
+      "no recent activity",
+      "priority: low",
+      "component: agent-mode",
+      "status: needs-triage",
+      "impact: high",
+      "impact: low",
+      "feature: git-operations"
+    ],
+    "comments": 11,
+    "created_at": "2026-02-13T14:39:29Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.65-243\n\n### JetBrains IDE and version\n\nIntelliJ IDEA 2025.3.2, Build #IU-253.30387.90, built on January 22, 2026\n\n### Platform\n\nUbuntu 22.04\n\n### Steps to reproduce\n\n* Open the Ask/Edit/Agent dropwdown in Copilot Chat \n   * No custom agents or Plan mode available\n* Open \"Configure Agents...\", or Copilot settings directly\n   * No ability to configure custom agents\n* Start a chat with Agent, write multiple prompts\n   * No ability to"
+  },
+  {
+    "number": 1373,
+    "title": "Disabling agents and agent mode makes ask mode only run as agent",
+    "state": "OPEN",
+    "user": "JoBosAu",
+    "labels": [
+      "bug",
+      "priority: low",
+      "component: agent-mode"
+    ],
+    "comments": 3,
+    "created_at": "2026-02-13T14:14:52Z",
+    "body_summary": "### Feedback source\n\nJetBrains Marketplace\n\n### GitHub Copilot plugin version\n\n1.5.64243\n\n### JetBrains IDE and version\n\n2025.6.1\n\n### Platform\n\nAfter the latest copilot update Agent mode is now defaulted in the chat, which is annoying on its own as I never ever want to use it and since its not possible to force default to be ask I decided to disable all agents and the agent mode entierly.\n\nNow the only option is ask, however it runs as if i've selected agent. The agent option does not even exis"
+  },
+  {
+    "number": 1372,
+    "title": "Unable to use github copilot with webstorm : ERROR- unable to get local issuer certificate",
+    "state": "OPEN",
+    "user": "VishalaNagaraj",
+    "labels": [
+      "bug",
+      "needs attention",
+      "priority: medium",
+      "component: agent-mode",
+      "component: authentication",
+      "status: needs-triage",
+      "impact: blocking",
+      "impact: medium",
+      "feature: git-operations"
+    ],
+    "comments": 3,
+    "created_at": "2026-02-13T06:54:27Z",
+    "body_summary": "I am unable to use github copilot with webstorm.I am unable to understan what certificate I need to trust\n\nHere is the error when I try to ask any question\nunable to get local issuer certificate"
+  },
+  {
+    "number": 1371,
+    "title": "nada",
+    "state": "OPEN",
+    "user": "nezukochang",
+    "labels": [
+      "feature-request",
+      "needs attention",
+      "priority: low",
+      "component: chat",
+      "status: needs-triage",
+      "feature: git-operations"
+    ],
+    "comments": 3,
+    "created_at": "2026-02-13T01:16:56Z",
+    "body_summary": ""
+  },
+  {
+    "number": 1369,
+    "title": "Files not actually saved, even though the agent claims they were",
+    "state": "OPEN",
+    "user": "robinsiebler",
+    "labels": [
+      "bug",
+      "needs more info",
+      "no recent activity",
+      "priority: low",
+      "component: agent-mode",
+      "component: performance",
+      "platform: pycharm",
+      "status: needs-more-info",
+      "impact: high",
+      "impact: low",
+      "feature: git-operations",
+      "feature: file-operations"
+    ],
+    "comments": 3,
+    "created_at": "2026-02-12T19:07:21Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.64-243\n\n### JetBrains IDE and version\n\nPyCharm 2025.3.2.1 - Build #PY-253.30387.173, built on February 1, 2026\n\n### Platform\n\nPlatform: Microsoft Windows NT 10.0.26200.0 x64\n\n### Steps to reproduce\n\nI was playing around with the copilot agent and told it to create 3 files in a specific folder. It _says_ it did, but when I open the folder in File Explorer, it is empty.\n\n> I understand you want to save the previously created portfol"
+  },
+  {
+    "number": 1368,
+    "title": "Run tests within Intellij instead of using maven/gradle",
+    "state": "OPEN",
+    "user": "rupert-jung-mw",
+    "labels": [
+      "feature-request",
+      "needs attention",
+      "priority: low",
+      "component: agent-mode",
+      "status: needs-triage",
+      "feature: terminal-integration"
+    ],
+    "comments": 2,
+    "created_at": "2026-02-12T17:25:18Z",
+    "body_summary": "Copilot always tries to run tests with maven in our project. But as this triggers a full compile each time, it also regenerates OpenAPI-based REST clients, doing license checks and so on. \n\nIt would be great, if it just could run test(s) within Intellij, as configured for the project. Within IntelliJ, I can run a test within seconds. With maven, it runs the whole compile step with OpenAPI, generating QueryDSL classes with (k)apt etc. which takes multiple minutes."
+  },
+  {
+    "number": 1367,
+    "title": "Unable to login into Copilot in CLion/Gateeway",
+    "state": "OPEN",
+    "user": "maxammann",
+    "labels": [
+      "bug",
+      "needs attention",
+      "priority: medium",
+      "component: authentication",
+      "platform: clion",
+      "status: needs-triage",
+      "impact: blocking",
+      "impact: medium",
+      "feature: git-operations"
+    ],
+    "comments": 3,
+    "created_at": "2026-02-12T17:06:24Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n_No response_\n\n### JetBrains IDE and version\n\n_No response_\n\n### Platform\n\nUbuntu 24 host, macOS client\n\n### Steps to reproduce\n\nThe login screen does not open when I click signin. It just hangs.\n\n### Logs (optional)\n\n_No response_\n\n### Expected behavior\n\nLogin works.\n\n### Actual behavior\n\nIt hangs.\n\n### Additional information\n\n_No response_"
+  },
+  {
+    "number": 1365,
+    "title": "Copilot is only proposing one long line completion",
+    "state": "OPEN",
+    "user": "Yann-CV",
+    "labels": [
+      "bug",
+      "needs attention",
+      "priority: low",
+      "component: completions",
+      "platform: pycharm",
+      "status: needs-triage",
+      "impact: low",
+      "feature: git-operations"
+    ],
+    "comments": 4,
+    "created_at": "2026-02-12T15:34:30Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.64-243\n\n### JetBrains IDE and version\n\nPyCharm 2025.3.2\n\n### Platform\n\nLinux yann-laptop 6.14.0-123037-tuxedo #37~24.04.1tux2 SMP PREEMPT_DYNAMIC Fri Jan 23 22:31:21 UTC 2026 x86_64 x86_64 x86_64 GNU/Linux\n\n### Steps to reproduce\n\njust try to apply proposal from copilot\n\n### Logs (optional)\n\n_No response_\n\n### Expected behavior\n\nworking and readable python code\n\n### Actual behavior\n\n \n\n### Additional information\n\n_No response_"
+  },
+  {
+    "number": 1363,
+    "title": "copilot in pycharm (in \"ask\" mode) does not write code with indentation. Not formated",
+    "state": "OPEN",
+    "user": "novo-github",
+    "labels": [
+      "bug",
+      "needs more info",
+      "no recent activity",
+      "priority: low",
+      "component: chat",
+      "component: ui",
+      "platform: pycharm",
+      "status: needs-triage",
+      "impact: low",
+      "feature: git-operations"
+    ],
+    "comments": 2,
+    "created_at": "2026-02-12T12:38:24Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n 1.5.64-243. \n\n### JetBrains IDE and version\n\nBuild #PY-253.29346.308, built on January 9, 2026\n\n### Platform\n\n\nwhen it write python code in “ask” mode, the code does not have any indentation and also at the end there is a  ``` \n\n i updated copilot and even reinstalled it. did not solve the problem.\n\n### Steps to reproduce\n\nAsk it write python code\n\n### Logs (optional)\n\n_No response_\n\n### Expected behavior\n\ncorrect indentation in code"
+  },
+  {
+    "number": 1360,
+    "title": "Copilot autocomplete popup does not dismiss until Rider is restarted",
+    "state": "OPEN",
+    "user": "markylaredo",
+    "labels": [
+      "bug",
+      "needs attention",
+      "priority: low",
+      "component: completions",
+      "platform: rider",
+      "status: needs-triage",
+      "impact: low",
+      "feature: git-operations"
+    ],
+    "comments": 2,
+    "created_at": "2026-02-12T06:05:46Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.64-243\n\n### JetBrains IDE and version\n\nRider 2025.3.2 and also in JetBrains 2026.1 EAP 3\n\n### Platform\n\nLinux debian 6.1.0-28-amd64 #1 SMP PREEMPT_DYNAMIC Debian 6.1.119-1 (2024-11-22) x86_64 GNU/Linux\n\n### Steps to reproduce\n\n1. Open any C# file in JetBrains Rider.\n2. Begin typing a method or statement so that Copilot generates an autocomplete suggestion.\n3. Do not accept the suggestion (do not press Tab or Enter).\n4. Continue ty"
+  },
+  {
+    "number": 1358,
+    "title": "Changing unrelated files and doing arbitrary tasks that were not asked for.",
+    "state": "OPEN",
+    "user": "JoonasLiik",
+    "labels": [
+      "bug",
+      "priority: high",
+      "component: agent-mode",
+      "component: performance",
+      "status: needs-triage",
+      "impact: high",
+      "feature: git-operations"
+    ],
+    "comments": 1,
+    "created_at": "2026-02-11T16:11:36Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.64-243\n\n### JetBrains IDE and version\n\nintelliJ  IDEA 2025.3.2\n\n### Platform\n\nI asked copilot to implement a fix.\n Copilot proceeded to change not just the file itself, but also a .bak file of the same name for \"consistency\". I don't know why there was a backup of this file, but i definitely do not want copilot to change any backup under any circumstances.\n\nI asked copilot to format the change it made as a patch diff.\nIt then proc"
+  },
+  {
+    "number": 1357,
+    "title": "Allow copilot to read resources from explicitly whitelisted locations outside of the current project.",
+    "state": "OPEN",
+    "user": "JoonasLiik",
+    "labels": [
+      "feature-request",
+      "needs attention",
+      "priority: medium",
+      "component: context",
+      "status: needs-triage",
+      "feature: git-operations"
+    ],
+    "comments": 2,
+    "created_at": "2026-02-11T13:28:45Z",
+    "body_summary": "Sometimes when solving a task it is necessary to provide as context access to some resources outside of the currently open project. For example a log file, or another projects sources.\n\nIt would be very helpful if i could explicitly grant copilot targeted access to introspect these specific external resources on my local machine."
+  },
+  {
+    "number": 1350,
+    "title": "Request for Token Refund Due to Frequent Rate Limit Errors (Copilot Premium / Claude Opus 4.5)",
+    "state": "OPEN",
+    "user": "zain07-byte",
+    "labels": [
+      "bug",
+      "needs attention",
+      "priority: high",
+      "component: agent-mode",
+      "component: model-selection",
+      "status: needs-triage",
+      "impact: high",
+      "feature: git-operations"
+    ],
+    "comments": 9,
+    "created_at": "2026-02-11T06:12:40Z",
+    "body_summary": "### Feedback source\n\nJetBrains Marketplace\n\n### GitHub Copilot plugin version\n\n1.5.64-243\n\n### JetBrains IDE and version\n\nWebStorm 2025.3.2 Build #WS-253.30387.83, built on January 21, 2026 Source revision: 953684b7ccf9f Licensed to Muhammad Zain Subscription is active until April 14, 2026. For non-commercial use only. Runtime version: 21.0.9+1-b1163.94 amd64 (JCEF 137.0.17) VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o. Toolkit: sun.awt.windows.WToolkit Windows 11.0 GC: G1 Young Generation, G"
+  },
+  {
+    "number": 1348,
+    "title": "RubyMine Dev Container: Copilot cannot complete GitHub authorization flow",
+    "state": "OPEN",
+    "user": "mariavianello",
+    "labels": [
+      "bug",
+      "needs attention",
+      "priority: high",
+      "component: authentication",
+      "status: needs-triage",
+      "impact: blocking",
+      "feature: git-operations"
+    ],
+    "comments": 3,
+    "created_at": "2026-02-10T21:03:41Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.64-243\n\n### JetBrains IDE and version\n\nRubyMine 2025.3.2\n\n### Platform\n\nOS / Client machine: macOS (ProductVersion: 15.7.3, BuildVersion: 4G419)\nIDE: RubyMine 2025.3.2\nDev environment: JetBrains Dev Containers plugin (253.30387.79 → 253.30387.92) + Docker Desktop (4.59.0 (217644))\nContainer runtime: Docker (Engine version 29.2.0)\nAuth type attempted: GitHub Copilot sign-in from within RubyMine while attached to Dev Container (remo"
+  },
+  {
+    "number": 1347,
+    "title": "If signed in to GHE and GitHub.com accounts with the same username, tokens are generated using the GitHub.com account even if GHE is the authentication provider",
+    "state": "OPEN",
+    "user": "splrs",
+    "labels": [
+      "bug",
+      "needs attention",
+      "priority: medium",
+      "component: authentication",
+      "status: needs-triage",
+      "impact: medium",
+      "feature: git-operations"
+    ],
+    "comments": 1,
+    "created_at": "2026-02-10T17:40:29Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.64-243\n\n### JetBrains IDE and version\n\nIntelliJ IDEA 2025.2.6.1 Community\n\n### Platform\n\nDarwin 24.6.0\n\n### Steps to reproduce\n\n- Set the authentication provider to myorg.ghe.com\n- Sign in using the plugin (this does redirect correctly to the new authN provider)\n- Sign in to GitHub.com with an account that has the same name\n- Chat with Copilot\n- The personal (rather than GHE) security log will show OAuth keys being created. The GH"
+  },
+  {
+    "number": 1346,
+    "title": "No indication if autocomplete is enabled or disabled.",
+    "state": "OPEN",
+    "user": "lev-slinsen",
+    "labels": [
+      "feature-request",
+      "needs attention",
+      "priority: low",
+      "component: completions",
+      "status: needs-triage",
+      "impact: low"
+    ],
+    "comments": 2,
+    "created_at": "2026-02-10T17:12:04Z",
+    "body_summary": "I tend to use autocomplete occasionally, where I need it. I'm using a keyboard shortcut to enable and disable the feature. There's no visual indication when I switch it, and autocomplete itself doesn't always work or takes several seconds to conjure up code, so there's no way to tell if the shortcut has just enabled or disabled the autocomplete feature."
+  },
+  {
+    "number": 1344,
+    "title": "Copying text takes 10+ seconds when Copilot is open",
+    "state": "OPEN",
+    "user": "credmond",
+    "labels": [
+      "bug",
+      "needs more info",
+      "needs log",
+      "priority: high",
+      "component: performance",
+      "status: needs-triage",
+      "impact: high",
+      "feature: git-operations"
+    ],
+    "comments": 6,
+    "created_at": "2026-02-10T10:12:55Z",
+    "body_summary": "If I close Copilot tab, the problem goes away. Using nightly updates."
+  },
+  {
+    "number": 1343,
+    "title": "Allow to set the title for my co-pilot chat in Pycharm IDE",
+    "state": "OPEN",
+    "user": "anmol94-lab",
+    "labels": [
+      "feature-request",
+      "needs more info",
+      "no recent activity",
+      "priority: low",
+      "component: chat",
+      "platform: pycharm",
+      "status: needs-triage",
+      "impact: low",
+      "feature: git-operations"
+    ],
+    "comments": 4,
+    "created_at": "2026-02-10T09:53:29Z",
+    "body_summary": ""
+  },
+  {
+    "number": 1341,
+    "title": "Copying from Inline Chat doesn't copy marked code.",
+    "state": "OPEN",
+    "user": "simonhellweger",
+    "labels": [
+      "bug",
+      "needs attention",
+      "priority: medium",
+      "component: chat",
+      "impact: medium",
+      "feature: inline-chat",
+      "feature: git-operations"
+    ],
+    "comments": 2,
+    "created_at": "2026-02-10T08:03:28Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.64-243\n\n### JetBrains IDE and version\n\nWebStorm 2025.3.2 Build #WS-253.30387.83, built on January 21, 2026\n\n### Platform\n\nLinux simon 6.18.7-200.fc43.x86_64 #1 SMP PREEMPT_DYNAMIC Fri Jan 23 16:42:34 UTC 2026 x86_64 GNU/Linux\n\n### Steps to reproduce\n\n1. Open Inline Chat and ask something.\n2. Highlight Copilots answer with your mouse and press Strg + C\n\n### Logs (optional)\n\n_No response_\n\n### Expected behavior\n\nMarked code is in my"
+  },
+  {
+    "number": 1335,
+    "title": "Copilot-intellij freezes doing a forever loop after running a terminal command (keeps loading, supposed to move on to the next task) bug started after updating from Intellij Community to Unified version",
+    "state": "OPEN",
+    "user": "NinjaZMY",
+    "labels": [
+      "bug",
+      "needs attention",
+      "needs log",
+      "priority: high",
+      "component: agent-mode",
+      "component: performance",
+      "status: needs-triage",
+      "impact: blocking",
+      "feature: terminal-integration",
+      "feature: git-operations"
+    ],
+    "comments": 2,
+    "created_at": "2026-02-09T14:42:45Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.64-243\n\n### JetBrains IDE and version\n\nIntelliJ IDEA 2025.3.2 Build #IU-253.30387.90, built on January 22, 2026\n\n### Platform\n\nMicrosoft Windows NT 10.0.22621.0 x64\n\n### Steps to reproduce\n\nwrite a prompt for copilot that will require copilot to be running terminal commands to resolve/test said prompt\n> Copilot will ask you to run terminal commands\n> after you accept and the command is run (copilot will be stuck running on a forev"
+  },
+  {
+    "number": 1334,
+    "title": "Oops, you reached the rate limit. Please try again later. is happening a lot recently.",
+    "state": "OPEN",
+    "user": "rogierhofboerccv",
+    "labels": [
+      "bug",
+      "needs attention",
+      "priority: high",
+      "component: model-selection",
+      "status: needs-triage",
+      "impact: high",
+      "feature: git-operations"
+    ],
+    "comments": 35,
+    "created_at": "2026-02-09T14:35:42Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.63-243\n\n### JetBrains IDE and version\n\nIntelliJ Ultimate 2025.3 Build #IU-253.30387.90, built on January 22, 2026\n\n### Platform\n\nThe CoPilot plugin for IntelliJ is almost unusable. It constantly returns the error:\n**Oops, you reached the rate limit. Please try again later. Request ID:  **\n\nTyping continue makes it continue, but this is a new prompt, which costs credits (it should not in this case IMHO).\nBut typing continue is need"
+  },
+  {
+    "number": 1333,
+    "title": "Updated Intellij from Community to Unified made my copilot-intellij history vanish (unable to find/load history)",
+    "state": "OPEN",
+    "user": "NinjaZMY",
+    "labels": [
+      "bug",
+      "needs attention",
+      "priority: medium",
+      "component: chat",
+      "component: context",
+      "status: needs-triage",
+      "impact: medium",
+      "feature: git-operations",
+      "feature: session-management"
+    ],
+    "comments": 1,
+    "created_at": "2026-02-09T14:14:22Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.64-243\n\n### JetBrains IDE and version\n\nIntelliJ IDEA 2025.3.2 Build #IU-253.30387.90, built on January 22, 2026\n\n### Platform\n\nMicrosoft Windows NT 10.0.22621.0 x64\n\n### Steps to reproduce\n\nuse copilot on community edition\nupdate to unified\nopen copilot > find out your history is gone\n\n### Logs (optional)\n\n_No response_\n\n### Expected behavior\n\nafter the update to unified version > you are supposed to have access to your history\n(t"
+  },
+  {
+    "number": 1332,
+    "title": "Rate limit is \"acceptable\" but it's impossible resume work after -> we are billed for previous prompts and have to start over",
+    "state": "OPEN",
+    "user": "cpainchaud",
+    "labels": [
+      "bug",
+      "priority: high",
+      "component: agent-mode",
+      "component: model-selection",
+      "status: needs-triage",
+      "impact: high",
+      "feature: git-operations"
+    ],
+    "comments": 6,
+    "created_at": "2026-02-09T13:40:17Z",
+    "body_summary": "### Feedback source\n\nOther\n\n### GitHub Copilot plugin version\n\n1.5.64-243\n\n### JetBrains IDE and version\n\nIntelliJ IDEA 2025.3.2 Build #IU-253.30387.90, built on January 22, 2026\n\n### Platform\n\nMicrosoft Windows NT 10.0.19045.0 x64\n\n### Steps to reproduce\n\nJust use Agent for a midly complex request which is supposed to require several request (so getting billed x times)\n\n### Logs (optional)\n\n_No response_\n\n### Expected behavior\n\nIf a 'Ooops  rate limit ... try again message' happens then I shoul"
+  },
+  {
+    "number": 1329,
+    "title": "Exception in plugin: java.lang.IllegalArgumentException: cannot add to layout",
+    "state": "OPEN",
+    "user": "pampua84",
+    "labels": [
+      "bug",
+      "priority: medium",
+      "component: ui",
+      "component: context",
+      "platform: rider",
+      "status: needs-triage",
+      "impact: medium",
+      "feature: git-operations"
+    ],
+    "comments": 1,
+    "created_at": "2026-02-09T09:37:28Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.64-243\n\n### JetBrains IDE and version\n\nRider 2025.3.2\n\n### Platform\n\nWindows 11\n\nIn Jetbrains Rider on Windows, every time I open the IDE, I have this error related to GitHub Copilot Tool:\n\n> java.lang.IllegalArgumentException: cannot add to layout: constraint must be a string (or null)\n> \tat java.desktop/java.awt.BorderLayout.addLayoutComponent(BorderLayout.java:431)\n> \tat java.desktop/java.awt.Container.addImpl(Container.java:11"
+  },
+  {
+    "number": 1324,
+    "title": "too strict",
+    "state": "OPEN",
+    "user": "felushort",
+    "labels": [
+      "feature-request",
+      "needs attention",
+      "priority: low",
+      "component: completions",
+      "status: needs-triage",
+      "impact: low",
+      "feature: git-operations"
+    ],
+    "comments": 2,
+    "created_at": "2026-02-06T16:51:32Z",
+    "body_summary": "im trying to create a minecraft mod but none of the models let me, the guidelines are too strict"
+  },
+  {
+    "number": 1323,
+    "title": "Ask copilot to review an already committed changeset or a PR",
+    "state": "OPEN",
+    "user": "nik-localstack",
+    "labels": [
+      "feature-request",
+      "needs attention",
+      "priority: medium",
+      "component: agent-mode",
+      "status: needs-triage",
+      "impact: medium",
+      "feature: git-operations"
+    ],
+    "comments": 3,
+    "created_at": "2026-02-06T16:15:38Z",
+    "body_summary": "Currently the only way to make copilot review the code is from the commit side-panel. \nIt would be nice to have this option in the Pull Requests panel and also to be able to make it review a past commit from the commit log"
+  },
+  {
+    "number": 1322,
+    "title": "IDEA plugin & Vs Code plugin Change Font Size!!!",
+    "state": "OPEN",
+    "user": "alanyears",
+    "labels": [
+      "feature-request",
+      "needs attention",
+      "priority: low",
+      "component: ui",
+      "status: needs-triage",
+      "impact: low",
+      "feature: git-operations"
+    ],
+    "comments": 2,
+    "created_at": "2026-02-06T13:42:52Z",
+    "body_summary": "IDEA plugin & Vs Code plugin Change Font Size!!!\n\n\nIDEA plugin & Vs Code plugin Change Font Size!!!"
+  },
+  {
+    "number": 1321,
+    "title": "Context Attachment is very Limited on Jetbrains",
+    "state": "OPEN",
+    "user": "akshat-townhall",
+    "labels": [
+      "feature-request",
+      "needs attention",
+      "priority: medium",
+      "component: context",
+      "status: needs-triage",
+      "impact: medium",
+      "feature: git-operations"
+    ],
+    "comments": 3,
+    "created_at": "2026-02-06T10:24:39Z",
+    "body_summary": "The context attachment in jetbrains github copilot chat is very limited. Only file attachment is possible even with the latest update. We should definitely have at par features with vs code. Better context attachment means better responses."
+  },
+  {
+    "number": 1315,
+    "title": "[Windows ARM] Unable to login to GitHub after updating plugin to version 1.5.64-243",
+    "state": "OPEN",
+    "user": "ibap-ksatria",
+    "labels": [
+      "bug",
+      "priority: medium",
+      "component: authentication",
+      "status: fixed-pending-release"
+    ],
+    "comments": 9,
+    "created_at": "2026-02-05T22:50:10Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.64-243\n\n### JetBrains IDE and version\n\nIntelliJ IDEA 2025.3.2 Build #IU-253.30387.90, aarch64\n\n### Platform\n\nMicrosoft Windows NT 10.0.26200.0 x64\nWindows 11 arm64\n\n### Steps to reproduce\n\nUpdate to version 1.5.64-243, restart IDE. Click the Github Copilot Icon, login, it stuck, the browser doesn't open. \n\n### Logs (optional)\n\nUpdated to plugin version \n\n### Expected behavior\n\nI can sign in to github from the IDE then use the exte"
+  },
+  {
+    "number": 1312,
+    "title": "Hint Windows stay around forever",
+    "state": "OPEN",
+    "user": "rburgst",
+    "labels": [
+      "bug",
+      "ux",
+      "needs attention",
+      "priority: high",
+      "component: ui",
+      "status: needs-triage",
+      "impact: high",
+      "feature: terminal-integration",
+      "feature: git-operations"
+    ],
+    "comments": 4,
+    "created_at": "2026-02-05T16:13:29Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.63\n\n### JetBrains IDE and version\n\nIntelliJ IDEA 2025.3.2 Build #IU-253.30387.90, built on January 22, 2026 Source revision: 61f1e2a0a8f30 Licensed to Gofore Oy / Rainer Burgstaller Subscription is active until April 27, 2026. Runtime version: 21.0.9+10-b1163.94 aarch64 (JCEF 137.0.17) VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o. Toolkit: sun.lwawt.macosx.LWCToolkit macOS 26.2 GC: G1 Young Generation, G1 Concurrent GC, G1 Old "
+  },
+  {
+    "number": 1311,
+    "title": "Copilot does not recognize the locally running MCPs and labels to start/stop the serves dissapears very often",
+    "state": "OPEN",
+    "user": "Motirck",
+    "labels": [
+      "bug",
+      "reliability",
+      "needs attention",
+      "priority: medium",
+      "component: mcp",
+      "platform: rider",
+      "status: needs-triage",
+      "impact: medium",
+      "feature: git-operations"
+    ],
+    "comments": 1,
+    "created_at": "2026-02-05T13:38:12Z",
+    "body_summary": "### Feedback source\n\nJetBrains Marketplace\n\n### GitHub Copilot plugin version\n\n1.5.63-243\n\n### JetBrains IDE and version\n\nJetBrains Rider 2025.3.2\n\n### Platform\n\n_No response_\n\n### Steps to reproduce\n\n1) Open mcp.json of GitHub Copilot, add the MCP server, and click to start. Then go to chat, change to agent in the dropdown, and try to use the MCP.\n\n2) Second issue: Very often the labels to start/stop the server in mcp.json disappear, and you see just a raw json\n\n### Logs (optional)\n\n_No respons"
+  },
+  {
+    "number": 1309,
+    "title": "Stop button not available after clicking continue",
+    "state": "OPEN",
+    "user": "ryanmurf",
+    "labels": [
+      "bug",
+      "priority: medium",
+      "component: agent-mode",
+      "component: ui",
+      "status: needs-triage",
+      "impact: medium",
+      "feature: git-operations"
+    ],
+    "comments": 1,
+    "created_at": "2026-02-05T04:07:42Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.63-243\n\n### JetBrains IDE and version\n\n2025.3.2\n\n### Platform\n\nmacOs: 15.7.3 (24G419)\n\n### Steps to reproduce\n\nonce max tool requests is reached in a session when you click continue you can't stop it.\n\n### Logs (optional)\n\n_No response_\n\n### Expected behavior\n\nThe stop button remains\n\n### Actual behavior\n\nNo stop button\n\n### Additional information\n\n_No response_"
+  },
+  {
+    "number": 1307,
+    "title": "AI support please",
+    "state": "OPEN",
+    "user": "anlide",
+    "labels": [
+      "feature-request",
+      "needs attention",
+      "priority: medium",
+      "component: agent-mode",
+      "component: chat",
+      "component: context",
+      "type: question",
+      "platform: phpstorm",
+      "status: needs-triage"
+    ],
+    "comments": 2,
+    "created_at": "2026-02-04T17:33:21Z",
+    "body_summary": "I have been a continuous PhpStorm user since September 2019, and for many years it has been my primary and favorite tool for PHP development. PhpStorm set a very high standard for what a professional IDE should be, and for a long time it fully covered all my needs.\n\nWith the rapid emergence of modern AI tools, however, my workflow has changed. Today I am forced to actively use Cursor alongside PhpStorm — literally keeping the same project open in both tools at the same time. This is not because "
+  },
+  {
+    "number": 1306,
+    "title": "Check for uncommitted changes and not pushed commits before delegating to copilot agent",
+    "state": "OPEN",
+    "user": "ptandler",
+    "labels": [
+      "feature-request",
+      "needs attention",
+      "priority: low",
+      "component: agent-mode",
+      "status: needs-triage",
+      "feature: git-operations"
+    ],
+    "comments": 2,
+    "created_at": "2026-02-04T15:40:45Z",
+    "body_summary": "I often use the \"delegate to copilot agent\" from the IDE. It happened a couple of times that I forgot to commit changes I had made or push local commits, so the agent started work on outdated code.\n\nTherefore, I suggest that the extension performs checks for\n- uncommitted changes\n- not pushed local commits in the branch\n\nand ask for confirmation before delegating to the copilot agent."
+  },
+  {
+    "number": 1453,
+    "title": "Plugin Crash - chat sidepanel blank",
+    "state": "CLOSED",
+    "user": "discountscott",
+    "labels": [
+      "bug",
+      "needs attention",
+      "priority: critical",
+      "component: agent-mode"
+    ],
+    "comments": 3,
+    "created_at": "2026-03-05T21:46:44Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.66-243\n\n### JetBrains IDE and version\n\n2025.3.3\n\n### Platform\n\nMicrosoft Windows NT 10.0.26200.0 x64\n\n### Steps to reproduce\n\nLaunch PHP storm. Immediately receive a crash notice that copilot plugin has crashed\n```\nUnhandled exception in [Kernel@hb9ugu0n17utpfp9q8va, Rete(abortOnError=false, commands=capacity=2147483647,data=[onReceive], reteState=kotlinx.coroutines.flow.StateFlowImpl@6f195bc3, dbSource=ReteDbSource(reteState=kotl"
+  },
+  {
+    "number": 1449,
+    "title": "Claude Opus 4.6 returns missing characters in words",
+    "state": "CLOSED",
+    "user": "jamieb22",
+    "labels": [
+      "bug",
+      "needs attention",
+      "priority: high",
+      "component: chat"
+    ],
+    "comments": 4,
+    "created_at": "2026-03-05T07:48:18Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.6-243\n\n### JetBrains IDE and version\n\n2025.2.6.1\n\n### Platform\n\nMac OS 15.6\n11:30:40 PDT 2025; root:xnu-11417.140.69~1/RELEASE_ARM64_T6041 arm64\n\n### Steps to reproduce\n\nAfter a while, the Opus model starts outputting text with missing characters. Initially, it works fine, but some times it gets into a weird state where it starts to miss characters in words. See screenshot for illustration of the problem.\n\n \n\n### Logs (optional)\n\n"
+  },
+  {
+    "number": 1443,
+    "title": "It is not possible to stop when it loops.",
+    "state": "CLOSED",
+    "user": "hebrayah",
+    "labels": [
+      "bug",
+      "needs attention",
+      "priority: high",
+      "component: agent-mode"
+    ],
+    "comments": 3,
+    "created_at": "2026-03-03T23:04:31Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.66.-243\n\n### JetBrains IDE and version\n\n2025.3.3\n\n### Platform\n\nwindows\n\n### Steps to reproduce\n\nRandom tasks which are more complicated. Claude Sonet 4.6\n\n### Logs (optional)\n\n_No response_\n\n### Expected behavior\n\nIT is always this red button to stop model from working. It should not disappear!\n\n### Actual behavior\n\nSometimes red square used to stop model disappears and IDE has to be closed antirely in order to get out of the loo"
+  },
+  {
+    "number": 1439,
+    "title": "GPT 5.3-codex still not available in JetBrains IDEs (Rider in particular)",
+    "state": "CLOSED",
+    "user": "RogerDerekWeiss",
+    "labels": [
+      "bug",
+      "needs attention",
+      "priority: medium",
+      "component: model-selection"
+    ],
+    "comments": 2,
+    "created_at": "2026-03-02T07:15:12Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.66-243\n\n### JetBrains IDE and version\n\nRider 2025.3.3\n\n### Platform\n\nMacOS\n\n### Steps to reproduce\n\nUsing the latest Jebrains Rider and GitHub CoPilot Plugin, log into GitHub CoPilot. \nNavigate to the Models dropdown in the GitHubCoPilot Chat.\nView the models available\nCompare this with the Models avaialable in VS Code.\n\n### Logs (optional)\n\n_No response_\n\n### Expected behavior\n\nTo see all the available models listed, and to match"
+  },
+  {
+    "number": 1438,
+    "title": "Enable Inline chat for Diff",
+    "state": "CLOSED",
+    "user": "hangwan97",
+    "labels": [
+      "feature-request",
+      "needs attention"
+    ],
+    "comments": 1,
+    "created_at": "2026-03-02T02:25:42Z",
+    "body_summary": "When opening git diff view, I would like to give that diff as context to copilot. Also inline chat does not work inside diff views"
+  },
+  {
+    "number": 1434,
+    "title": "JetBrains plugin cannot sign in to copilot",
+    "state": "CLOSED",
+    "user": "ReenigneArcher",
+    "labels": [
+      "bug",
+      "needs attention"
+    ],
+    "comments": 2,
+    "created_at": "2026-02-27T15:08:19Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.55.66-243\n\n### JetBrains IDE and version\n\nPyCharm and CLion, 2025.3.3\n\n### Platform\n\nMicrosoft Windows NT 10.0.26200.0 x64\n\n### Steps to reproduce\n\n1. Open IDE with copilot plugin installed\n2. Copilot is not logged in\n3. Try to login, website says Authentication Successful, return to IDE\n4. IDE says \"Sign in failed. Reason: OAuth authentication failed for unknown reasons. Please try again later., request id: 9, error code: 1004... a"
+  },
+  {
+    "number": 1416,
+    "title": "It is not possible to use the GPT‑5.3 Codex model",
+    "state": "CLOSED",
+    "user": "funky-eyes",
+    "labels": [
+      "bug",
+      "needs attention",
+      "priority: medium",
+      "component: model-selection",
+      "status: needs-triage",
+      "impact: medium",
+      "feature: git-operations"
+    ],
+    "comments": 6,
+    "created_at": "2026-02-25T01:22:42Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.65-243\n\n### JetBrains IDE and version\n\n2025.3.3\n\n### Platform\n\nmacos 26.3 (25D125)\n\n### Steps to reproduce\n\n  \nI can't select 5.3codex or Gemini 3.1 Pro because they don't show up here at all, even though they are available in VS Code.\n\n### Logs (optional)\n\n_No response_\n\n### Expected behavior\n\nShow the same list of models that are available in VS Code.\n\n### Actual behavior\n\n  \nI can't select 5.3codex or Gemini 3.1 Pro because the"
+  },
+  {
+    "number": 1409,
+    "title": "Rider Copilot suddenly can't look up files",
+    "state": "CLOSED",
+    "user": "perholmes",
+    "labels": [
+      "bug",
+      "needs attention"
+    ],
+    "comments": 3,
+    "created_at": "2026-02-22T16:09:08Z",
+    "body_summary": "### Feedback source\n\nJetBrains Marketplace\n\n### GitHub Copilot plugin version\n\n1.5.64-243\n\n### JetBrains IDE and version\n\nRider 2025.3.2\n\n### Platform\n\nThe very latest version (1.5.65-243) crashes on startup, so this is about 1.5.64-243.\n\nThe Rider version running in AGENT mode will suddenly not navigate the project at all. I can mention things that are clearly defined in include files, or fully qualified method names in other classes, and it'll just guess at those functions, or start creating t"
+  },
+  {
+    "number": 1408,
+    "title": "Participation",
+    "state": "CLOSED",
+    "user": "m-markov",
+    "labels": [
+      "needs attention"
+    ],
+    "comments": 1,
+    "created_at": "2026-02-22T12:22:08Z",
+    "body_summary": ""
+  },
+  {
+    "number": 1403,
+    "title": "Phpstorm - lost the ability to select premium model after upgrade",
+    "state": "CLOSED",
+    "user": "howdu",
+    "labels": [
+      "bug",
+      "needs attention"
+    ],
+    "comments": 1,
+    "created_at": "2026-02-20T05:50:19Z",
+    "body_summary": "### Feedback source\n\nJetBrains Marketplace\n\n### GitHub Copilot plugin version\n\n1.5.65-243\n\n### JetBrains IDE and version\n\n2025.3.2\n\n### Platform\n\nDarwin MacBook-Pro-2.local 25.3.0 Darwin Kernel Version 25.3.0: Wed Jan 28 20:53:05 PST 2026; root:xnu-12377.81.4~5/RELEASE_ARM64_T6020 arm64\n\n### Steps to reproduce\n\nSince upgrading plugin unable to use the premium models\n\nBefore:\n \n\nAfter:\n \n\n\n### Logs (optional)\n\n_No response_\n\n### Expected behavior\n\nSelect GTP5\n\n\n\n### Actual behavior\n\nBefore the up"
+  },
+  {
+    "number": 1394,
+    "title": "Chat text disappear on \"up button\" click.",
+    "state": "CLOSED",
+    "user": "PatrykKuniczak",
+    "labels": [
+      "bug",
+      "priority: low",
+      "component: chat",
+      "component: ui"
+    ],
+    "comments": 4,
+    "created_at": "2026-02-18T16:48:44Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.65-243\n\n### JetBrains IDE and version\n\n2025.3.2\n\n### Platform\n\nMicrosoft Windows NT 10.0.26200.0 x64\n\n### Steps to reproduce\n\n1. Type sth and accept to model be able to process it\n2. When model ends work, let's type new, multiline prompt, but not accept it.\n3. Click up button to navigate to the top\n4. When you'll be on the first line, and you'll click up, then previous prompt will appear in the textarea\n5. THERE'S NOT ESCAPE - You"
+  },
+  {
+    "number": 1387,
+    "title": "Doesnt complete request, prints \"2\" at the end and stops suddenly",
+    "state": "CLOSED",
+    "user": "okansarica",
+    "labels": [
+      "bug",
+      "component: agent-mode"
+    ],
+    "comments": 5,
+    "created_at": "2026-02-17T09:04:33Z",
+    "body_summary": "### Feedback source\n\nJetBrains Marketplace\n\n### GitHub Copilot plugin version\n\n1.5.65-243\n\n### JetBrains IDE and version\n\nBuild #RD-253.30387.148, built on January 29, 2026\n\n### Platform\n\n \n\n### Steps to reproduce\n\nThis is intermittent but occurs more than ever. Just  give a command and it stops \n\n### Logs (optional)\n\n[rider-logs-20260217-090320696908318151825055.zip](https://github.com/user-attachments/files/25360411/rider-logs-20260217-090320696908318151825055.zip)\n\n### Expected behavior\n\nshou"
+  },
+  {
+    "number": 1385,
+    "title": "[Plan]  Plan mode gives incomplete and inadequate answer",
+    "state": "CLOSED",
+    "user": "ffffionn",
+    "labels": [
+      "bug",
+      "needs attention",
+      "priority: low",
+      "component: agent-mode",
+      "status: needs-triage",
+      "impact: low",
+      "feature: git-operations"
+    ],
+    "comments": 10,
+    "created_at": "2026-02-16T14:39:07Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.65-243\n\n### JetBrains IDE and version\n\nIntelliJ 2025.3.2 - Linux\n\n### Platform\n\nLinux AVD-8W-FO-0 6.6.87.2-microsoft-standard-WSL2 #1 SMP PREEMPT_DYNAMIC Thu Jun  5 18:30:46 UTC 2025 x86_64 x86_64 x86_64 GNU/Linux\n\n### Steps to reproduce\n\nI dont have a way to reproduce it, but this has happened over half a dozen times in the last week or two. \n\n\n### Logs (optional)\n\n_No response_\n\n### Expected behavior\n\nThe planning output is writ"
+  },
+  {
+    "number": 1383,
+    "title": "Promt dissapearing - unsupported chat mode",
+    "state": "CLOSED",
+    "user": "samuelgfeller",
+    "labels": [
+      "bug",
+      "needs more info",
+      "priority: low",
+      "component: agent-mode",
+      "component: chat",
+      "platform: phpstorm",
+      "status: needs-triage",
+      "impact: medium",
+      "impact: low",
+      "feature: git-operations"
+    ],
+    "comments": 3,
+    "created_at": "2026-02-16T12:07:53Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.65-243\n\n### JetBrains IDE and version\n\nPHPStorm\n\n### Platform\n\nMicrosoft Windows NT 10.0.26200.0 x64\n\n### Steps to reproduce\n\nI'm currently using the free version of copilot, opened a new chat and selected edit mode.\nThen I wrote a prompt and pressed send. \n\nIt dissapeared and the following exception was shown in IntelliJ PHPStorm:\n\njava.lang.IllegalArgumentException: Unsupported chat mode: Edit\n\tat com.github.copilot.agent.sessio"
+  },
+  {
+    "number": 1377,
+    "title": "Hack",
+    "state": "CLOSED",
+    "user": "antoniohcarmo23-hub",
+    "labels": [
+      "needs attention"
+    ],
+    "comments": 3,
+    "created_at": "2026-02-14T02:54:35Z",
+    "body_summary": "> They hack my cell \n\n _Originally posted by @antoniohcarmo23-hub in [#1376](https://github.com/microsoft/copilot-intellij-feedback/issues/1376#issuecomment-3900531162)_"
+  },
+  {
+    "number": 1370,
+    "title": "GitHub Copilot delegates simple questions to the coding agent instead of answering them in 'Ask' mode",
+    "state": "CLOSED",
+    "user": "xxfast",
+    "labels": [
+      "needs more info",
+      "component: chat"
+    ],
+    "comments": 4,
+    "created_at": "2026-02-12T21:42:18Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.63-243\n\n### JetBrains IDE and version\n\nJetBrains Rider 2025.3.2 Build #RD-253.30387.148, (2025.04.8412)\n\n### Platform\n\nDarwin 24.6.0 Darwin Kernel Version 24.6.0: Wed Nov  5 21:33:58 PST 2025; root:xnu-11417.140.69.705.2~1/RELEASE_ARM64_T6000 arm64\n\n### Steps to reproduce\n\nAsk Copilot any simple question\n\n### Logs (optional)\n\n_No response_\n\n### Expected behavior\n\nCopilot to answer the simple question in chat \n\n### Actual behavior\n"
+  },
+  {
+    "number": 1366,
+    "title": "Copilot is not generating the answers properly when Using ASK mode on all models (premium or included)",
+    "state": "CLOSED",
+    "user": "anharb",
+    "labels": [
+      "bug",
+      "needs attention"
+    ],
+    "comments": 2,
+    "created_at": "2026-02-12T15:43:42Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.64-243\n\n### JetBrains IDE and version\n\nIntelliJ IDEA 2025.3.2\n\n### Platform\n\n_No response_\n\n### Steps to reproduce\n\nTry to ask a question in the ASK mode regardless of the model being used when generating code snippets it generates only the first few lines and leaves the rest incomplete in chat and the you ask again and waste credits. LLM apologizes and does the same thing again. \n\n### Logs (optional)\n\n_No response_\n\n### Expected "
+  },
+  {
+    "number": 1364,
+    "title": "GitHub Copilot plugin sets GIT_PAGER=cat environment variable, breaking interactive pager in IntelliJ terminal",
+    "state": "CLOSED",
+    "user": "szczurmys",
+    "labels": [
+      "bug",
+      "priority: low",
+      "component: agent-mode"
+    ],
+    "comments": 2,
+    "created_at": "2026-02-12T12:51:22Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.65.17099-243-nightly\n\n### JetBrains IDE and version\n\nIntelliJ IDEA 2025.3.2\n\n### Platform\n\nDarwin macbook_pro_m4 25.2.0 Darwin Kernel Version 25.2.0: Tue Nov 18 21:09:56 PST 2025; root:xnu-12377.61.12~1/RELEASE_ARM64_T6041 arm64\n\n### Steps to reproduce\n\n1. Open IntelliJ IDEA with GitHub Copilot plugin disabled\n2. Open the integrated terminal\n3. Run `env | grep GIT_PAGER` → result should match what is configured in an external term"
+  },
+  {
+    "number": 1362,
+    "title": "Copilot plugin for IntelliJ IDEA generates incomplete and uncompilable code, repeatedly consuming premium requests",
+    "state": "CLOSED",
+    "user": "crif-nhan-tran",
+    "labels": [
+      "bug"
+    ],
+    "comments": 3,
+    "created_at": "2026-02-12T09:52:04Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.64-243\n\n### JetBrains IDE and version\n\nIntelliJ IDEA 2025.3.2. Build #IU-253.30387.90, built on January 22, 2026\n\n### Platform\n\nMicrosoft Windows NT 10.0.26200.0 x64 (windows 11 25H2)\n\n### Steps to reproduce\n\n1. Use GitHub Copilot plugin in IntelliJ IDEA\n2. Ask Copilot to generate a non-trivial code block (e.g. class, service, or function with logic)\n3. Observe that the generated code is incomplete or uncompilable\n4. Ask Copilot t"
+  },
+  {
+    "number": 1361,
+    "title": "copilot is not at working",
+    "state": "CLOSED",
+    "user": "sanket-jain25",
+    "labels": [
+      "bug",
+      "needs more info",
+      "needs log",
+      "no recent activity"
+    ],
+    "comments": 5,
+    "created_at": "2026-02-12T06:34:56Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n_No response_\n\n### JetBrains IDE and version\n\n_No response_\n\n### Platform\n\n_No response_\n\n### Steps to reproduce\n\ncopilot is not at all working, An error occurred while processing your request. Please try again later.__\n\n### Logs (optional)\n\n_No response_\n\n### Expected behavior\n\nShould answer\n\n### Actual behavior\n\nAn error occurred while processing your request. Please try again later.\n\n### Additional information\n\n_No response_"
+  },
+  {
+    "number": 1359,
+    "title": "Inline chat does not remember much",
+    "state": "CLOSED",
+    "user": "ipsips",
+    "labels": [
+      "bug",
+      "needs more info",
+      "no recent activity",
+      "priority: medium",
+      "component: chat",
+      "feature: inline-chat"
+    ],
+    "comments": 4,
+    "created_at": "2026-02-11T17:05:33Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n_No response_\n\n### JetBrains IDE and version\n\n_No response_\n\n### Platform\n\n_No response_\n\n### Steps to reproduce\n\nchat with it\n\n### Logs (optional)\n\n_No response_\n\n### Expected behavior\n\nshould remember the chat history\n\n### Actual behavior\n\nit does not remember chat history\n\n### Additional information\n\n_No response_"
+  },
+  {
+    "number": 1356,
+    "title": "copilot chat bug since update -incomplete code blocks",
+    "state": "CLOSED",
+    "user": "derekhowedotcom",
+    "labels": [
+      "bug",
+      "needs attention",
+      "component: chat",
+      "component: ui"
+    ],
+    "comments": 3,
+    "created_at": "2026-02-11T11:17:41Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.64-243\n\n### JetBrains IDE and version\n\nPhp storm 2025.3.2\n\n### Platform\n\nI’m experiencing an issue in PhpStorm related to GitHub Copilot Chat in the tool window sidebar.\n\n\n\nThere appear to be two related problems:\n\n\n\nSometimes Copilot generates a full response, but the code block in the Copilot Chat panel is not scrollable or resizable, causing large parts of the generated code to be hidden or clipped. Closing and reopening PhpSto"
+  },
+  {
+    "number": 1354,
+    "title": "Code suggestions are shown in incomplete in Ask mode",
+    "state": "CLOSED",
+    "user": "jindale33",
+    "labels": [
+      "bug",
+      "needs attention"
+    ],
+    "comments": 2,
+    "created_at": "2026-02-11T07:59:14Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.64-243\n\n### JetBrains IDE and version\n\nIntelliJ IDEA 2025.3.2 Build #IU-253.30387.90, built on January 22, 2026 Source revision: 61f1e2a0a8f30 Runtime version: 21.0.9+1-b1163.94 amd64 (JCEF 137.0.17) VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o. Toolkit: sun.awt.windows.WToolkit Windows 11.0 GC: G1 Young Generation, G1 Concurrent GC, G1 Old Generation Memory: 2048M Cores: 16 Registry:   debugger.new.tool.window.layout=true   id"
+  },
+  {
+    "number": 1353,
+    "title": "Copilot chat inside IntelliJ breaks code snippet window when resizing",
+    "state": "CLOSED",
+    "user": "anharb",
+    "labels": [
+      "bug",
+      "priority: medium",
+      "component: chat",
+      "component: ui",
+      "platform: intellij"
+    ],
+    "comments": 1,
+    "created_at": "2026-02-11T07:35:53Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.64-243\n\n### JetBrains IDE and version\n\nIntelliJ IDEA 2025.3.2 \n\n### Platform\n\n_No response_\n\n### Steps to reproduce\n\nWhen asking a question in the ask chat window and receiving a code snippet. Then trying to resize up and down the chat window will break the code snippet windows and make them look weird and overlap.\n\n### Logs (optional)\n\n_No response_\n\n### Expected behavior\n\nCode snippets should shrink and expand without causing th"
+  },
+  {
+    "number": 1352,
+    "title": "Code suggestions in Copilot are no longer displayed in full",
+    "state": "CLOSED",
+    "user": "ringcake",
+    "labels": [
+      "bug",
+      "needs attention",
+      "component: chat"
+    ],
+    "comments": 7,
+    "created_at": "2026-02-11T07:04:33Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.64-243\n\n### JetBrains IDE and version\n\nIntelliJ IDEA 2025.3.2 Build #IU-253.30387.90, built on January 22, 2026\n\n### Platform\n\nMicrosoft Windows NT 10.0.26200.0 x64\n\n### Steps to reproduce\n\nEnter in Github Copilot Chat:\ncreate new fun in kotlin to show properties as string\n\nSettings:\nAsk GPT-5 mini\n\n\n### Logs (optional)\n\n_No response_\n\n### Expected behavior\n\nCode suggestions should be complete\n\n### Actual behavior\n\nCode suggestion"
+  },
+  {
+    "number": 1351,
+    "title": "In chat on Ask  breaks",
+    "state": "CLOSED",
+    "user": "ionutrusenL",
+    "labels": [
+      "bug",
+      "needs attention"
+    ],
+    "comments": 2,
+    "created_at": "2026-02-11T06:48:24Z",
+    "body_summary": "### Feedback source\n\nJetBrains Marketplace\n\n### GitHub Copilot plugin version\n\n1.5.64-243\n\n### JetBrains IDE and version\n\nPhpStorm\n\n### Platform\n\nIn Ask mode, it s generate a part of the answer and then gets stuck \n\n### Steps to reproduce\n\nAsk to refactor a function. You will get just a part of the answer. Its keeps loading for few seconds without generating anything. If you ask it to redo it, the same thing happens\n\n### Logs (optional)\n\n_No response_\n\n### Expected behavior\n\nGenerate the full an"
+  },
+  {
+    "number": 1349,
+    "title": "[Rider] Chat UI rendering issue: Code block invisible until tab switch",
+    "state": "CLOSED",
+    "user": "you3957987",
+    "labels": [
+      "bug",
+      "priority: medium",
+      "component: chat",
+      "component: ui",
+      "platform: rider"
+    ],
+    "comments": 5,
+    "created_at": "2026-02-11T05:15:13Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.64-243\n\n### JetBrains IDE and version\n\n2025.3.2\n\n### Platform\n\n_No response_\n\n### Steps to reproduce\n\nAsk a question that generates a long code response (e.g., \"Implement a complex wave attack function\").\n Wait for the response to finish. The output appears cut off or invisible at the end.\nSwitch tabs (e.g., click 'Agent' tab or 'Edit' tab).\nSwitch back to the 'Ask' tab.\nObserve that the previously invisible code block suddenly ap"
+  },
+  {
+    "number": 1345,
+    "title": "Copilot doesn't show the full generate code response in Android Studio",
+    "state": "CLOSED",
+    "user": "sulaimankhan7",
+    "labels": [
+      "bug",
+      "needs attention",
+      "priority: medium",
+      "platform: android-studio",
+      "impact: medium"
+    ],
+    "comments": 14,
+    "created_at": "2026-02-10T10:51:21Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.64-243\n\n### JetBrains IDE and version\n\nAndroid Studio Otter 3 Feature Drop | 2025.2.3 - Build #AI-252.28238.7.2523.14688667\n\n### Platform\n\nMac OS 26.2 (25C56)\n\n### Steps to reproduce\n\nAsk Copilot to implement something. It will generate the response but the codes are truncated / unfinished.\n\n\n \n \n \n \n \n\n### Logs (optional)\n\n_No response_\n\n### Expected behavior\n\nIt should show the full response / generated code. \n\n### Actual behavi"
+  },
+  {
+    "number": 1342,
+    "title": "phpstorm bug with copilot ask mode",
+    "state": "CLOSED",
+    "user": "achedon12",
+    "labels": [
+      "bug",
+      "priority: medium",
+      "platform: phpstorm",
+      "impact: medium"
+    ],
+    "comments": 4,
+    "created_at": "2026-02-10T08:40:27Z",
+    "body_summary": "### Feedback source\n\nJetBrains Marketplace\n\n### GitHub Copilot plugin version\n\n1.5.64-243\n\n### JetBrains IDE and version\n\nPhpstorm 2025.3\n\n### Platform\n\nxubuntu 24\n\n### Steps to reproduce\n\nWhen I use Copilot, it generates a response for me, but I cannot see it in its entirety. I am forced to close my PHPStorm and then reopen it. Regardless of the model.\n\n### Logs (optional)\n\n_No response_\n\n### Expected behavior\n\ni have to close the IDE and reopen it to get the full response.\n\n### Actual behavior"
+  },
+  {
+    "number": 1340,
+    "title": "更新到 1.5.64-243 版本之后，回答的内容要么显示不全，要么是输出不全",
+    "state": "CLOSED",
+    "user": "lwcla",
+    "labels": [
+      "bug",
+      "priority: critical",
+      "priority: high",
+      "component: ui",
+      "type: regression",
+      "impact: high"
+    ],
+    "comments": 3,
+    "created_at": "2026-02-10T07:28:57Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.64-243\n\n### JetBrains IDE and version\n\nandroid studio Narwhal 4 Feature Drop 2025.1.4\n\n### Platform\n\nmac mini\nApple M4\n16GB\nmacos Sequoia 15.3.1\n\n### Steps to reproduce\n\n不用特殊的步骤，只是正常的询问ai，它输出的内容只能只能显示一部分，偶尔能拖动进度条，但也只能拖动一点点。\n\n### Logs (optional)\n\n_No response_\n\n### Expected behavior\n\n看起来是限制了回答内容的显示框的高度，导致它输出的内容不全\n\n### Actual behavior\n\nhttps://github.com/user-attachments/assets/75a28ad1-eeef-4184-8eed-129f57faf94d\n\n可以看到，有一部分的问答是不全的，"
+  },
+  {
+    "number": 1339,
+    "title": "not able to use github copilot",
+    "state": "CLOSED",
+    "user": "ShivamSharma008",
+    "labels": [
+      "bug",
+      "priority: critical",
+      "component: authentication",
+      "component: ui",
+      "impact: blocking"
+    ],
+    "comments": 3,
+    "created_at": "2026-02-10T06:34:25Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n_No response_\n\n### JetBrains IDE and version\n\n_No response_\n\n### Platform\n\nava.lang.IllegalArgumentException: Argument for @NotNull parameter 'fileType' of com/intellij/ide/highlighter/HighlighterFactory.createHighlighter must not be null\n\tat com.intellij.ide.highlighter.HighlighterFactory.$$$reportNull$$$0(HighlighterFactory.java)\n\tat com.intellij.ide.highlighter.HighlighterFactory.createHighlighter(HighlighterFactory.java)\n\tat com.i"
+  },
+  {
+    "number": 1338,
+    "title": "Cannot dismiss Next Edit Suggestion from screen",
+    "state": "CLOSED",
+    "user": "hackel",
+    "labels": [
+      "bug",
+      "needs attention"
+    ],
+    "comments": 2,
+    "created_at": "2026-02-10T00:27:27Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.64-243\n\n### JetBrains IDE and version\n\nPhpStorm 2025.3.2\n\n### Platform\n\nLinux xps15 6.8.0-90-generic #91-Ubuntu SMP PREEMPT_DYNAMIC Tue Nov 18 14:14:30 UTC 2025 x86_64 x86_64 x86_64 GNU/Linux\n\n### Steps to reproduce\n\nI am unable to reproduce this directly on-demand, but it happens quite frequently at random while coding.\n\n### Logs (optional)\n\n[idea.log](https://github.com/user-attachments/files/25196817/idea.log)\n\n### Expected beh"
+  },
+  {
+    "number": 1337,
+    "title": "typing up arrow at the 0th position of the 'github copilot chat' window loses whatever I just typed as a prompt",
+    "state": "CLOSED",
+    "user": "draycasejr",
+    "labels": [
+      "bug",
+      "needs attention",
+      "priority: high",
+      "component: chat",
+      "impact: high"
+    ],
+    "comments": 7,
+    "created_at": "2026-02-09T16:13:33Z",
+    "body_summary": "### Feedback source\n\nOther\n\n### GitHub Copilot plugin version\n\n1.5.63-243\n\n### JetBrains IDE and version\n\nIntelliJ IDEA 2025.3 RC Build #IU-253.28294.251, built on November 28, 2025\n\n### Platform\n\nosx  15.6.1 on apple silicon\n\n### Steps to reproduce\n\ntype in a prompt. hit enter.\ntype another prompt. move to the beginning of the line. hit up arrow.\nprompt disappears forever.\n\n### Logs (optional)\n\n_No response_\n\n### Expected behavior\n\nI should be able to hit down arrow till I see my prompt again\n\n"
+  },
+  {
+    "number": 1336,
+    "title": "Loop on \"Error report\" modal window",
+    "state": "CLOSED",
+    "user": "marcelorodrigo",
+    "labels": [
+      "needs more info",
+      "priority: critical",
+      "impact: blocking"
+    ],
+    "comments": 7,
+    "created_at": "2026-02-09T14:59:30Z",
+    "body_summary": "### Feedback source\n\nOther\n\n### GitHub Copilot plugin version\n\n1.5.64-243\n\n### JetBrains IDE and version\n\nIntelliJ IDEA 2025.3.2\n\n### Platform\n\nPlatform: Darwin MacBook-Pro.local 25.2.0 Darwin Kernel Version 25.2.0: Tue Nov 18 21:09:55 PST 2025; root:xnu-12377.61.12~1/RELEASE_ARM64_T8103 arm64\n\n### Steps to reproduce\n\nWhen a new project is opened in IntelliJ, the error report modal window appears in loop, repeatedly thanking for submitting a report, not allowing the user to use the IDE anymore.\n"
+  },
+  {
+    "number": 1331,
+    "title": "GitHub plugin blocks Android Studio from workin",
+    "state": "CLOSED",
+    "user": "ravapeeuropa-design",
+    "labels": [
+      "needs more info",
+      "needs log",
+      "no recent activity",
+      "priority: critical",
+      "component: performance",
+      "platform: android-studio",
+      "impact: blocking"
+    ],
+    "comments": 8,
+    "created_at": "2026-02-09T12:51:45Z",
+    "body_summary": "Since February 7th when I try to open GitHub plugin in Android Studio the whole program got frezzed and didn't respond to any command. The only solution I have found is to close it from task manager. I have try to erase the cache, to reinstal the plugin, the whole android studio... I have delete .gradle and any other folder could have any corrupt file or bad code or something... still the situation did not change a bit: open android studio and works perfect, open the project and works perfect, o"
+  },
+  {
+    "number": 1330,
+    "title": "The agent was frequently interrupted by code \"2\" and \"no choices...\".",
+    "state": "CLOSED",
+    "user": "g129512",
+    "labels": [
+      "bug",
+      "needs attention",
+      "component: performance"
+    ],
+    "comments": 4,
+    "created_at": "2026-02-09T09:55:40Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.64-243\n\n### JetBrains IDE and version\n\nIntelliJ IDEA 2025.3.1\nBuild #IU-253.29346.138, built on December 18, 2025\nSource revision: 9478cb03fae44\nRuntime version: 21.0.9+1-b1163.86 amd64 (JCEF 137.0.17)\nVM: OpenJDK 64-Bit Server VM by JetBrains s.r.o.\nToolkit: sun.awt.windows.WToolkit\nWindows 10.0\nGC: G1 Young Generation, G1 Concurrent GC, G1 Old Generation\nMemory: 25008M\nCores: 28\nRegistry:\n  debugger.watches.in.variables=false\n  "
+  },
+  {
+    "number": 1328,
+    "title": "Chat window scroll randomly by itself when changing focus from input box to chat results",
+    "state": "CLOSED",
+    "user": "cpainchaud",
+    "labels": [
+      "bug",
+      "priority: medium",
+      "component: chat",
+      "component: ui",
+      "impact: medium"
+    ],
+    "comments": 4,
+    "created_at": "2026-02-08T20:13:57Z",
+    "body_summary": "### Feedback source\n\nOther\n\n### GitHub Copilot plugin version\n\n1.5.64-243\n\n### JetBrains IDE and version\n\nIntelliJ IDEA 2025.3.2 Build #IU-253.30387.90, built on January 22, 2026\n\n### Platform\n\nMicrosoft Windows NT 10.0.19045.0 x64\n\n### Steps to reproduce\n\n- open Github Copilot Chat window \n- make prompt and responses until it's a few pages long and allows scrolling.\n- then with your mouse click in the last lines if you were going to select text for copy/pasting\n\nsuddendly the window scroll up f"
+  },
+  {
+    "number": 1327,
+    "title": "Code generation is cut off when Ask Agent uses selected text",
+    "state": "CLOSED",
+    "user": "fackerlee",
+    "labels": [
+      "bug",
+      "priority: high",
+      "component: agent-mode",
+      "impact: high"
+    ],
+    "comments": 2,
+    "created_at": "2026-02-08T15:36:21Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.64-243\n\n### JetBrains IDE and version\n\nPyCharm 2025.3.2.1\n\n### Platform\n\n_No response_\n\n### Steps to reproduce\n\n1. Highlight an existing block of code or text.\n2. Use Ask Agent and request a code example or modification.\n3. Observe that the generated code stops midway and does not include the full implementation.\n\n### Logs (optional)\n\n_No response_\n\n### Expected behavior\n\nShowing Full Code\n\n### Actual behavior\n\n \n\n### Additional i"
+  },
+  {
+    "number": 1326,
+    "title": "Cannot Stop Request After Clicking \"Continue\"",
+    "state": "CLOSED",
+    "user": "darraghd493",
+    "labels": [
+      "bug",
+      "needs attention"
+    ],
+    "comments": 1,
+    "created_at": "2026-02-07T21:09:36Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.64-243\n\n### JetBrains IDE and version\n\nIntelliJ 2025.3.1\n\n### Platform\n\nMicrosoft Windows NT 10.0.26200.0 x64\n\n### Steps to reproduce\n\n1. Write and execute a request in agent mode, which must trigger a timeout(?).\n2. Click on \"Continue\". **Don't send this as a message.**\n3. You cannot stop the prompt without sending a new message.\n\n### Logs (optional)\n\n_No response_\n\n### Expected behavior\n\nYou should be able to stop the request.\n\n"
+  },
+  {
+    "number": 1325,
+    "title": "https://github.com/microsoft/copilot-intellij-feedback/issues/529",
+    "state": "CLOSED",
+    "user": "matiasgonzalezmiguel73-arch",
+    "labels": [
+      "feature-request",
+      "needs attention"
+    ],
+    "comments": 2,
+    "created_at": "2026-02-07T01:38:40Z",
+    "body_summary": ">- [ ] >1. >- [ ] >- >- [ ] >1. >- [ ] >"
+  },
+  {
+    "number": 1320,
+    "title": "Chat output - code block stops after 20-25 lines",
+    "state": "CLOSED",
+    "user": "roncitrus",
+    "labels": [
+      "bug",
+      "priority: high",
+      "component: chat",
+      "impact: high"
+    ],
+    "comments": 3,
+    "created_at": "2026-02-06T10:21:22Z",
+    "body_summary": "Rider: Build #RD-253.30387.148, built on January 29, 2026\nCopilot version 1.5.64-243\n\nHere's an example - \nmy prompt (edited) \n\"... Write unit tests that cover error catching, and the redirection, using the TLControllerSelectActivitiesTests file.\"\n\nChat output :\n\n```\nI'll add two unit tests to TLControllerSelectActivitiesTests.cs covering:\nRedirection to ReportSummaryEmpty when TL has no responsible responsibilities\nError catching when NotFoundException is thrown\nLooking at the ReportSummary met"
+  },
+  {
+    "number": 1317,
+    "title": "Pasting into text field doesn't work.",
+    "state": "CLOSED",
+    "user": "cihadturhan",
+    "labels": [
+      "bug",
+      "priority: medium",
+      "component: ui",
+      "impact: medium"
+    ],
+    "comments": 14,
+    "created_at": "2026-02-06T07:30:03Z",
+    "body_summary": "### Feedback source\n\nJetBrains Marketplace\n\n### GitHub Copilot plugin version\n\n1.5.64.16665-243-nightly\n\n### JetBrains IDE and version\n\nJetBrains Rider 2025.3.1\n\n### Platform\n\nMac OS\n\n### Steps to reproduce\n\nPasting to text field (CMD + V) does not work.\n\n### Logs (optional)\n\n_No response_\n\n### Expected behavior\n\nPASTE\n\n### Actual behavior\n\nDoes not paste\n\n### Additional information\n\n_No response_"
+  },
+  {
+    "number": 1316,
+    "title": "Bug après MAJ",
+    "state": "CLOSED",
+    "user": "Jauresk",
+    "labels": [
+      "bug",
+      "needs more info",
+      "needs log",
+      "no recent activity",
+      "priority: medium",
+      "component: ui",
+      "component: performance"
+    ],
+    "comments": 5,
+    "created_at": "2026-02-06T00:55:13Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n_No response_\n\n### JetBrains IDE and version\n\n_No response_\n\n### Platform\n\n_No response_\n\n### Steps to reproduce\n\n \n\n### Logs (optional)\n\nPas moyen d'accéder à la moindre fonctionnalité Copilote fait figer l'écran\n\n### Expected behavior\n\nDevrait être capable de fonctionner sans figer l'IDE Intellij idea\n\n### Actual behavior\n\nDevrait être capable de fonctionner sans figer l'IDE Intellij idea\n\n### Additional information\n\nDevrait être ca"
+  },
+  {
+    "number": 1314,
+    "title": "Opus 4.6 not available after enabling on GitHub",
+    "state": "CLOSED",
+    "user": "kelvinmatheus",
+    "labels": [
+      "bug",
+      "needs attention",
+      "priority: medium",
+      "component: model-selection",
+      "status: needs-triage",
+      "impact: medium",
+      "feature: git-operations"
+    ],
+    "comments": 39,
+    "created_at": "2026-02-05T20:50:45Z",
+    "body_summary": "## Description\nOpus 4.6 was released today. I can enable it on GitHub, but it does not load or appear as available in RubyMine or WebStorm.\n\n## Update\nAfter enabling **Opus 4.5**, it is displayed correctly in both RubyMine and WebStorm.\n\n## Details\n- Opus 4.6: enabled on GitHub, not available in IDEs\n- Opus 4.5: enabled on GitHub, available in IDEs\n- RubyMine: Opus 4.6 not available\n- WebStorm: Opus 4.6 not available\n\n## Notes\nThis suggests there may be a delay or rollout issue specific to Opus "
+  },
+  {
+    "number": 1313,
+    "title": "An error occurred while processing your request. Please try again later.",
+    "state": "CLOSED",
+    "user": "Alison9527",
+    "labels": [
+      "bug",
+      "reliability",
+      "needs log",
+      "no recent activity",
+      "priority: medium"
+    ],
+    "comments": 4,
+    "created_at": "2026-02-05T17:47:48Z",
+    "body_summary": "### Feedback source\n\nJetBrains Marketplace\n\n### GitHub Copilot plugin version\n\n1.5.63-243\n\n### JetBrains IDE and version\n\nRider 2025.3.2\n\n### Platform\n\nNow the conversation is completely impossible. An error occurred while processing your request. Please try again later.\n\n### Steps to reproduce\n\nNow the conversation is completely impossible. An error occurred while processing your request. Please try again later.\n\n### Logs (optional)\n\n_No response_\n\n### Expected behavior\n\nNow the conversation is"
+  },
+  {
+    "number": 1310,
+    "title": "Not getting agent list after clicking on Agent",
+    "state": "CLOSED",
+    "user": "suvasmit",
+    "labels": [
+      "bug",
+      "needs more info",
+      "no recent activity",
+      "priority: medium",
+      "component: agent-mode"
+    ],
+    "comments": 4,
+    "created_at": "2026-02-05T08:39:21Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n_No response_\n\n### JetBrains IDE and version\n\n_No response_\n\n### Platform\n\n_No response_\n\n### Steps to reproduce\n\n1. Open Intellij\n2. Open GitHub Copilot \n3. After clicking on Agent\n4. Unable to see Agents\n\n \n\n### Logs (optional)\n\n_No response_\n\n### Expected behavior\n\nI should able to see agents list so that can use it based on my need.\n\n### Actual behavior\n\nNothing is showing\n\n \n\n### Additional information\n\n_No response_"
+  },
+  {
+    "number": 1308,
+    "title": "Copilot cannot properly use gpt5.2 gpt5.1-code-x",
+    "state": "CLOSED",
+    "user": "funky-eyes",
+    "labels": [
+      "bug",
+      "priority: medium",
+      "component: performance",
+      "platform: intellij"
+    ],
+    "comments": 13,
+    "created_at": "2026-02-05T01:16:36Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.63-243\n\n### JetBrains IDE and version\n\n2025.3.2\n\n### Platform\n\nDarwin MacBook-Air.local 25.2.0 Darwin Kernel Version 25.2.0: Tue Nov 18 21:08:48 PST 2025; root:xnu-12377.61.12~1/RELEASE_ARM64_T8132 arm64\n\n### Steps to reproduce\n\nIn IDEA 2025.3.2, when the latest Copilot uses the GPT-5.2 or GPT-5.1-codex-max models, neither agent nor ask can be used properly.\n\n \n\n### Logs (optional)\n\n2 is request; must start response with task rece"
+  },
+  {
+    "number": 1303,
+    "title": "GIthub copilot logged in even chat window not coming",
+    "state": "CLOSED",
+    "user": "kailash-elivaas",
+    "labels": [
+      "bug",
+      "needs attention",
+      "component: authentication"
+    ],
+    "comments": 3,
+    "created_at": "2026-02-04T06:28:59Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.63-243\n\n### JetBrains IDE and version\n\nAndroid Studio Otter 3 Feature Drop | 2025.2.3\n\n### Platform\n\n\nEven the user is logged in I am facing issue. Not able to get chat or agent mode. When moved from paid to free and again paid\n\n### Steps to reproduce\n\n \n\n### Logs (optional)\n\n_No response_\n\n### Expected behavior\n\nchat and agent mode should work\n\n### Actual behavior\n\nchat and agent mode is not visible \n\n### Additional information\n\n"
+  },
+  {
+    "number": 1298,
+    "title": "503 service unavailable issue",
+    "state": "CLOSED",
+    "user": "Meghana-Vishwanatha",
+    "labels": [
+      "bug",
+      "needs log",
+      "no recent activity"
+    ],
+    "comments": 4,
+    "created_at": "2026-02-02T06:29:09Z",
+    "body_summary": "### Feedback source\n\nOther\n\n### GitHub Copilot plugin version\n\n1.5.63-243\n\n### JetBrains IDE and version\n\nIntellij 21.0.9+10-b1038.78 aarch64 (JCEF 122.1.9) VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o.\n\n### Platform\n\n_No response_\n\n### Steps to reproduce\n\nNot working in intelliJ\n\n### Logs (optional)\n\n_No response_\n\n### Expected behavior\n\nIt should be working fine\n\n### Actual behavior\n\n%)# -servcie unavailable issue\n\n\n### Additional information\n\n_No response_"
+  },
+  {
+    "number": 1288,
+    "title": "Inifinitly calling terminal issue - Copilot keeps asking the same questions in a loop",
+    "state": "CLOSED",
+    "user": "littlezabi",
+    "labels": [
+      "bug",
+      "needs attention",
+      "priority: high",
+      "component: agent-mode"
+    ],
+    "comments": 2,
+    "created_at": "2026-01-29T07:13:24Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n253.29346.308\n\n### JetBrains IDE and version\n\nPyCharm - Build #PY-253.29346.308, built on January 9, 2026\n\n### Platform\n\nLinux littlezabi 6.14.0-37-generic #37~24.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Nov 20 10:25:38 UTC 2 x86_64 x86_64 x86_64 GNU/Linux\n\n\n### Steps to reproduce\n\nI encountered an issue where the IDE repeatedly asks for terminal access. Here are the steps to reproduce the problem:\n\n1. I asked the IDE to update something.\n"
+  },
+  {
+    "number": 1284,
+    "title": "THE USER THAT IS DISPLAYED ITS MY USER(cm999club),BUT i have buy the git hub copilot pro with the other account(gennagcodebase)",
+    "state": "CLOSED",
+    "user": "GennaGcodebase",
+    "labels": [
+      "needs more info",
+      "no recent activity"
+    ],
+    "comments": 4,
+    "created_at": "2026-01-28T15:52:19Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.63-243\n\n### JetBrains IDE and version\n\nAndroidSttudio lotter patch 1\n\n### Platform\n\nTHE USER THAT IS DISPLAYED ITS MY USER(cm999club),BUT i have buy the git hub copilot pro with the other account(gennagcodebase)\n\n### Steps to reproduce\n\nhelp me please\n\n\n### Logs (optional)\n\n_No response_\n\n### Expected behavior\n\nhelp please\n\n \n\n### Actual behavior\n\n \n\n \n\n### Additional information\n\n_No response_"
+  },
+  {
+    "number": 1280,
+    "title": "Copilot JetBrains login fails with \"Bad credentials\" after OAuth callback (GHE)",
+    "state": "CLOSED",
+    "user": "bumyoung001",
+    "labels": [
+      "bug",
+      "needs attention"
+    ],
+    "comments": 13,
+    "created_at": "2026-01-28T02:05:09Z",
+    "body_summary": "### Feedback source\n\nInternal Enterprise Feedback\n\n### GitHub Copilot plugin version\n\n1.5.63-243\n\n### JetBrains IDE and version\n\n2025.3.2\n\n### Platform\n\nmacOS (macOS 26.x )\n\n### Steps to reproduce\n\n1. Configure Copilot with GitHub Enterprise host (self-hosted)\n2. Sign in via browser\n3. Browser shows success and returns to local callback\n4. IDE remains NotSignedIn\n\n### Logs (optional)\n\n2026-01-28 ... WARN - [OAuth Code Flow] Failed to fetch user info: Bad credentials\n2026-01-28 ... INFO - OAuth c"
+  },
+  {
+    "number": 1279,
+    "title": "for me facing the issue at the time of using copilet in intellij ide",
+    "state": "CLOSED",
+    "user": "deshmukhnanasab-netizen",
+    "labels": [
+      "needs more info",
+      "no recent activity"
+    ],
+    "comments": 4,
+    "created_at": "2026-01-27T16:42:48Z",
+    "body_summary": "Hi team ,\n\nHelp me to resolve this issue. \n\nThanks"
+  },
+  {
+    "number": 1274,
+    "title": "Incorrect API endpoint used for fetching user info after OAuth authentication",
+    "state": "CLOSED",
+    "user": "sxz799",
+    "labels": [
+      "bug",
+      "needs attention"
+    ],
+    "comments": 3,
+    "created_at": "2026-01-27T05:42:29Z",
+    "body_summary": "### Feedback source\n\nJetBrains Marketplace\n\n### GitHub Copilot plugin version\n\n1.5.63-243\n\n### JetBrains IDE and version\n\nGoLand 2025.3.1\n\n### Platform\n\nMacOS\n\n### Steps to reproduce\n\nUse version of plugin 1.5.63-243, set Authentication provider in plugin settings. Try to log in.\n\n### Logs (optional)\n\n_No response_\n\n### Expected behavior\n\nIDE should recognize login in browser.\n\n### Actual behavior\n\nGithub Login action from plugin invokes correctly authentication in a browser. Authentication in b"
+  },
+  {
+    "number": 1265,
+    "title": "Can't Accept Inline Completions",
+    "state": "CLOSED",
+    "user": "dwhite44",
+    "labels": [
+      "bug",
+      "needs attention",
+      "priority: critical",
+      "priority: medium",
+      "component: completions",
+      "component: authentication",
+      "impact: blocking"
+    ],
+    "comments": 4,
+    "created_at": "2026-01-24T00:52:55Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.63-243\n\n### JetBrains IDE and version\n\nRider 2025.3.1 and IntelliJ Idea 2025.3.1.1\n\n### Platform\n\nMicrosoft Windows NT 10.0.26100.0 x64\n\n### Steps to reproduce\n\nstart typing code, wait for inline completion suggestion to come up, then hit the shortcut to accept the completion (shift+enter) for me\n\n \n\n### Logs (optional)\n\n[idea.log](https://github.com/user-attachments/files/24832601/idea.log)\n\n### Expected behavior\n\nsuggestion woul"
+  },
+  {
+    "number": 1264,
+    "title": "Cannot join",
+    "state": "CLOSED",
+    "user": "radhikamupparaju",
+    "labels": [
+      "bug",
+      "needs log",
+      "no recent activity",
+      "priority: critical",
+      "component: authentication",
+      "impact: blocking"
+    ],
+    "comments": 5,
+    "created_at": "2026-01-23T20:30:34Z",
+    "body_summary": "Hi, when i try to use github copilot, it says the 403 Forbidden error. Kindly assist with the help to use copliot in my IntellijIDEA"
+  },
+  {
+    "number": 1260,
+    "title": "Intellij IDEA does not recognize login with custom Authentication provider",
+    "state": "CLOSED",
+    "user": "lavor",
+    "labels": [
+      "bug",
+      "needs attention",
+      "priority: critical",
+      "component: authentication",
+      "impact: blocking"
+    ],
+    "comments": 18,
+    "created_at": "2026-01-23T12:35:47Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.63-243\n\n### JetBrains IDE and version\n\nIntelliJ IDEA 2025.3.1.1\n\n### Platform\n\nMacOS\n\n### Steps to reproduce\n\nUse version of plugin 1.5.63-243, set Authentication provider in plugin settings. Try to log in.\n\n### Logs (optional)\n\n_No response_\n\n### Expected behavior\n\nIDE should recognize login in browser.\n\n### Actual behavior\n\nGithub Login action from plugin invokes correctly authentication in a browser. Authentication in browser f"
+  },
+  {
+    "number": 1258,
+    "title": "logout when trying code completion ",
+    "state": "CLOSED",
+    "user": "Sanqsua1994",
+    "labels": [
+      "bug",
+      "needs attention",
+      "priority: critical",
+      "component: authentication",
+      "impact: blocking"
+    ],
+    "comments": 3,
+    "created_at": "2026-01-23T08:33:19Z",
+    "body_summary": "whenever I try to use Completions (in Java).\n- Login works flawlessly, but when the problem occurs and I get logged out:\n- If I use the chat, for example to generate Javadoc in the code, it works without any issues.\n\nThe issue:\nCopilot is encountering temporary issues: Last response was a 401 error: bad request: invalid token: unknown stamp \"prod-sdc-01\""
+  },
+  {
+    "number": 1257,
+    "title": "Extremely frustrating copilot chat interactions",
+    "state": "CLOSED",
+    "user": "dhicken-testout",
+    "labels": [
+      "bug",
+      "needs-fix",
+      "working-on-fix",
+      "needs attention",
+      "priority: high",
+      "component: agent-mode",
+      "feature: file-operations"
+    ],
+    "comments": 11,
+    "created_at": "2026-01-22T22:39:32Z",
+    "body_summary": "I use copilot chat for software development work every day.  There are two things that cause me a lot of frustration.  \n\n1. With some level of frequency I spent 5-10 minutes crafting a prompt because I need to explain in detail what I need the AI to understand then do.  I will often hit the up arrow to move up the lines so I can review what I've written and see if there are any changes I need to make to my prompt.  When I get to the top of the prompt and hit the up arrow one more time, it erases"
+  },
+  {
+    "number": 1253,
+    "title": "GitHub Copilot loses the first message in the chat with a model in Agent mode.",
+    "state": "CLOSED",
+    "user": "SabirAliyev",
+    "labels": [
+      "bug",
+      "priority: medium",
+      "component: chat",
+      "component: ui",
+      "platform: phpstorm",
+      "status: needs-triage",
+      "impact: high",
+      "root-cause: state-management",
+      "feature: git-operations"
+    ],
+    "comments": 2,
+    "created_at": "2026-01-22T11:01:19Z",
+    "body_summary": "### Feedback source\n\nPhpStorm GitHub Copilot chat.\n\n### GitHub Copilot plugin version\n\n1.5.62-243\n\n### JetBrains IDE and version\n\nPhpStorm (2025.3.1)\n\n### Platform\n\nFull information from PhpStrom:\n\nPhpStorm 2025.3.1\nBuild #PS-253.29346.151, built on December 19, 2025\nSource revision: 266020cb797a8\nLicensed to SabirAliyev\nSubscription is active until April 1, 2026.\nRuntime version: 21.0.9+10-b1163.86 amd64 (JCEF 137.0.17)\nVM: OpenJDK 64-Bit Server VM by JetBrains s.r.o.\nToolkit: sun.awt.X11.XTool"
+  },
+  {
+    "number": 1248,
+    "title": "unable to login and get agents",
+    "state": "CLOSED",
+    "user": "PoojaSagarGupta",
+    "labels": [
+      "bug",
+      "needs more info",
+      "no recent activity",
+      "priority: critical",
+      "component: authentication",
+      "impact: blocking"
+    ],
+    "comments": 4,
+    "created_at": "2026-01-21T19:59:38Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n_No response_\n\n### JetBrains IDE and version\n\n_No response_\n\n### Platform\n\n_No response_\n\n### Steps to reproduce\n\ninstalled plugin but no agent available not able to login\n\n### Logs (optional)\n\n_No response_\n\n### Expected behavior\n\nlogin and agents available\n\n### Actual behavior\n\nno agents\n\n### Additional information\n\n_No response_"
+  },
+  {
+    "number": 1237,
+    "title": "Copilot plugin causes PhpStorm 2025.3 to freeze",
+    "state": "CLOSED",
+    "user": "GitAaron4",
+    "labels": [
+      "bug",
+      "needs more info",
+      "no recent activity",
+      "priority: critical",
+      "priority: medium",
+      "component: performance",
+      "platform: phpstorm",
+      "impact: high",
+      "root-cause: threading"
+    ],
+    "comments": 9,
+    "created_at": "2026-01-20T13:43:16Z",
+    "body_summary": "### Feedback source\n\nOther\n\n### GitHub Copilot plugin version\n\n1.5.63-243\n\n### JetBrains IDE and version\n\nPhpStorm\n\n### Platform\n\nmacOS Ventura 13.7.8 (22H730)\n\n### Steps to reproduce\n\nOpen PhpStorm\n\n### Logs (optional)\n\n_No response_\n\n### Expected behavior\n\nA working app\n\n### Actual behavior\n\nApp is completely frozen\n\n### Additional information\n\n_No response_"
+  },
+  {
+    "number": 1235,
+    "title": "Login with custom authentication provider does not work anymore",
+    "state": "CLOSED",
+    "user": "stephan-strate",
+    "labels": [
+      "bug",
+      "priority: critical",
+      "component: authentication",
+      "impact: blocking"
+    ],
+    "comments": 3,
+    "created_at": "2026-01-20T08:07:16Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.63.15740-243-nightly\n\n### JetBrains IDE and version\n\n2025.3.1.1 (IntelliJ)\n\n### Platform\n\n_No response_\n\n### Steps to reproduce\n\n1. Sign in for GitHub Copilot\n2. Login in browser\n\n### Logs (optional)\n\n2026-01-20 08:58:48,017 [ 238408]   FINE - #com.github.copilot.lang.agent.CopilotAgentProcessServiceImpl - Registering result for request ID: 14, command: signOut\n2026-01-20 08:58:48,018 [ 238409]  FINER - #com.github.copilot.lang.ag"
+  },
+  {
+    "number": 1232,
+    "title": "No Option to Logout or Switch GitHub Account in Copilot (PhpStorm)",
+    "state": "CLOSED",
+    "user": "AmeerHamza-AH",
+    "labels": [
+      "bug",
+      "needs more info",
+      "no recent activity",
+      "priority: medium",
+      "platform: phpstorm"
+    ],
+    "comments": 4,
+    "created_at": "2026-01-19T11:27:38Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\nStable\n\n### JetBrains IDE and version\n\nPhpStorm (JetBrains IDEs)  2025.3\n\n### Platform\n\nThere is currently no visible or documented way to log out or switch GitHub accounts used by GitHub Copilot within PhpStorm (JetBrains IDEs).\n\nOnce a GitHub account is authenticated, Copilot remains permanently bound to that account. This creates problems when:\n\nSwitching between personal and company GitHub accounts\nAccessing Copilot via different "
+  },
+  {
+    "number": 1229,
+    "title": "I must type ## to attach file to chat",
+    "state": "CLOSED",
+    "user": "mfaron-ra",
+    "labels": [
+      "bug",
+      "priority: medium",
+      "component: context",
+      "status: needs-triage",
+      "impact: medium",
+      "feature: git-operations"
+    ],
+    "comments": 2,
+    "created_at": "2026-01-18T20:45:55Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.63.15733-243-nigtly\n\n### JetBrains IDE and version\n\n2025.3.1.1\n\n### Platform\n\nMicrosoft Windows NT 10.0.22631.0 x64\n\n### Steps to reproduce\n\n- Open the chat\n- type `#` - nothing happens\n- type `#` again - now file selection field is openning\n\n### Logs (optional)\n\n_No response_\n\n### Expected behavior\n\nI have to type `#` **twice** to open the selection file menu\n\n### Actual behavior\n\nType `#` **once** to open the selection file fiel"
+  },
+  {
+    "number": 1209,
+    "title": "Repeatedly lost first message in new chat session",
+    "state": "CLOSED",
+    "user": "alexmensak",
+    "labels": [
+      "bug",
+      "needs more info",
+      "priority: medium",
+      "component: chat",
+      "component: ui",
+      "platform: pycharm",
+      "status: needs-triage",
+      "impact: high",
+      "root-cause: state-management",
+      "feature: git-operations"
+    ],
+    "comments": 2,
+    "created_at": "2026-01-14T15:32:15Z",
+    "body_summary": "### Feedback source\n\nGitHub Discussion\n\n### GitHub Copilot plugin version\n\n1.5.62-243\n\n### JetBrains IDE and version\n\nPyCharm 2025.3.1.1 Build #PY-253.29346.308, built on January 9, 2026\n\n### Platform\n\nDarwin Alexs-MacBook-Pro.local 25.2.0 Darwin Kernel Version 25.2.0: Tue Nov 18 21:09:40 PST 2025; root:xnu-12377.61.12~1/RELEASE_ARM64_T6000 arm64\n\n### Steps to reproduce\n\n1. Open new copilot chat in new session. \n2. Submit message.\n3. Response is loading, then my message disappears, and I'm left "
+  },
+  {
+    "number": 1204,
+    "title": "Cannot complete sign on",
+    "state": "CLOSED",
+    "user": "mhaiderWx",
+    "labels": [
+      "bug",
+      "needs attention"
+    ],
+    "comments": 20,
+    "created_at": "2026-01-13T23:57:38Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.62-243\n\n### JetBrains IDE and version\n\nJetBrains Rider 2025.3.0.4\n\n### Platform\n\nMicrosoft Windows NT 10.0.26200.0 x64\n\n\n### Steps to reproduce\n\nUnknown\n \n\n### Logs (optional)\n\n[idea.log](https://github.com/user-attachments/files/24602116/idea.log)\n\n### Expected behavior\n\nAuthenticate and start using copilot. \n\n### Actual behavior\n\n\nCannot get past the sign on screen even after successfully authorizing rider in Github . The plugin"
+  },
+  {
+    "number": 1196,
+    "title": "initial request crashes and disappears  - 20 minutes prompt work gone",
+    "state": "CLOSED",
+    "user": "waynetheron",
+    "labels": [
+      "bug",
+      "needs attention"
+    ],
+    "comments": 5,
+    "created_at": "2026-01-12T08:33:09Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\nlatest\n\n### JetBrains IDE and version\n\nlatest RustRover\n\n### Platform\n\n_No response_\n\n### Steps to reproduce\n\nseems to only happen when first opening RustRover and typing in a prompt\n\n### Logs (optional)\n\n_No response_\n\n### Expected behavior\n\nthe prompt should not be lost. the UI resets and everything is gone\n\n### Actual behavior\n\ncrash report and copilot prompt gone\n\n### Additional information\n\n_No response_"
+  },
+  {
+    "number": 1194,
+    "title": "Exception: Unsupported chat mode: Edit",
+    "state": "CLOSED",
+    "user": "gy-mate",
+    "labels": [
+      "bug",
+      "needs attention",
+      "priority: low",
+      "component: chat"
+    ],
+    "comments": 2,
+    "created_at": "2026-01-11T20:02:58Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n`1.5.62-243`\n\n### JetBrains IDE and version\n\nPyCharm `2025.3` Build `#PY-253.28294.336`\n\n### Platform\n\n`Darwin MacBook.local 25.2.0 Darwin Kernel Version 25.2.0: Tue Nov 18 21:09:40 PST 2025; root:xnu-12377.61.12~1/RELEASE_ARM64_T6000 arm64`\n\n### Steps to reproduce\n\n1. Open PyCharm\n2. Open a file with ~1000 lines of Python code\n3. Send two prompts in _Edit_ mode using GPT-5.2\n4. Wait for 30 minutes\n5. Send a prompt in the same way\n\n##"
+  },
+  {
+    "number": 1182,
+    "title": "Extreme Terminal Output Delay in WSL Environment",
+    "state": "CLOSED",
+    "user": "ale4ko69",
+    "labels": [
+      "bug",
+      "priority: high",
+      "component: agent-mode",
+      "status: needs-triage",
+      "impact: high",
+      "feature: terminal-integration",
+      "feature: git-operations"
+    ],
+    "comments": 2,
+    "created_at": "2026-01-07T14:58:05Z",
+    "body_summary": "### Feedback source\n\nOther\n\n### GitHub Copilot plugin version\n\n1.5.62-243\n\n### JetBrains IDE and version\n\nWebStorm 2025.2.1\n\n### Platform\n\n- Linux HON-G6MQL94 6.6.87.2-microsoft-standard-WSL2 #1 SMP PREEMPT_DYNAMIC Thu Jun  5 18:30:46 UTC 2025 x86_64 x86_64 x86_64 GNU/Linux\n- Microsoft Windows NT 10.0.22631.0 x64\n\n### Steps to reproduce\n\n# Bug Report: Extreme Terminal Output Delay in WSL Environment\n\n**Date:** January 7, 2026  \n**Reporter:** Developer using GitHub Copilot in WebStorm  \n**Severit"
+  },
+  {
+    "number": 1177,
+    "title": "First chat in new IDE instance immediately disappears forever after hit \"send\"",
+    "state": "CLOSED",
+    "user": "tobyherrmann",
+    "labels": [
+      "bug",
+      "priority: medium",
+      "component: chat",
+      "component: ui",
+      "status: needs-triage",
+      "impact: high",
+      "root-cause: state-management",
+      "feature: git-operations"
+    ],
+    "comments": 5,
+    "created_at": "2026-01-06T13:43:30Z",
+    "body_summary": "### Feedback source\n\nJetBrains Marketplace\n\n### GitHub Copilot plugin version\n\n1.5.62-243\n\n### JetBrains IDE and version\n\nIntelliJ IDEA 2025.3.1\n\n### Platform\n\n6.14.0-37-generic #37~24.04.1-Ubuntu\n\n### Steps to reproduce\n\n- Reboot your machine\n- Open fresh IDE instance\n- Type your well crafted prompt\n- Hit enter\n- See it vanish\n- Type all again\n- Second time works\n\n### Logs (optional)\n\n026-01-06 14:16:31,113 [1260897]   INFO - #com.github.copilot.context.listeners.DragAndDropCoordinator$Companio"
+  },
+  {
+    "number": 1167,
+    "title": "Copilot chat window scrolls to beginning of chat response each time the chat is focused",
+    "state": "CLOSED",
+    "user": "HeylonNHP",
+    "labels": [
+      "bug",
+      "completion",
+      "needs-fix",
+      "working-on-fix",
+      "pending-stable-release",
+      "priority: medium",
+      "component: chat",
+      "component: ui",
+      "impact: low"
+    ],
+    "comments": 10,
+    "created_at": "2026-01-05T05:56:36Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.62-243\n\n### JetBrains IDE and version\n\nJetbrains Rider 2025.3.1\n\n### Platform\n\nMicrosoft Windows NT 10.0.26200.0 x64\n\n### Steps to reproduce\n\nAsk the copilot AI something in the chat. Ideally something that generates a long response that's taller than your screen height. Each time you click away from the chat window (e.g. to edit your code, or change code files, etc.), then click back into the chat window, the scroll position ALWA"
+  },
+  {
+    "number": 1116,
+    "title": "Is Node.js a requirement for Copilot in JetBrains IDE's",
+    "state": "CLOSED",
+    "user": "mellson",
+    "labels": [
+      "needs log",
+      "no recent activity"
+    ],
+    "comments": 12,
+    "created_at": "2025-12-17T18:58:22Z",
+    "body_summary": "We're having trouble logging in to GitHub Copilot from JetBrains IDEs on some of our Windows laptops at work. When we click sign in, it fails with \"Failed to initiate the GitHub login process, please try again.\" I'm wondering if the plugin requires Node.js to be installed to initiate the login process. The machines in question are under strict lockdown, so I can't install Node to verify if that might be the problem."
+  },
+  {
+    "number": 1093,
+    "title": "Copilot deleted whole chat",
+    "state": "CLOSED",
+    "user": "twojnarowski",
+    "labels": [
+      "bug",
+      "needs log",
+      "no recent activity",
+      "priority: medium",
+      "component: chat",
+      "component: ui",
+      "impact: high",
+      "root-cause: state-management"
+    ],
+    "comments": 11,
+    "created_at": "2025-12-11T20:23:12Z",
+    "body_summary": "### Feedback source\n\nOther\n\n### GitHub Copilot plugin version\n\n1.5.61-243\n\n### JetBrains IDE and version\n\nIntelliJ IDEA Community  2025.1.3\n\n### Platform\n\n_No response_\n\n### Steps to reproduce\n\nI used Claude Sonnet and given him a task, he didn't do it. I asked him again, with clearer instructions. He didn't do it again. Then I asked him \"Are you blind? Use this logic: [and pasted here the code frament I wanted him to use]\" and when I sent that, the chat got cleared, and reverted to original sta"
+  },
+  {
+    "number": 1087,
+    "title": "Pycharm github copilot chat no model select combox, bug vs code nomal",
+    "state": "CLOSED",
+    "user": "jcyhtgzb",
+    "labels": [
+      "bug",
+      "needs more info",
+      "no recent activity",
+      "priority: high",
+      "priority: medium",
+      "component: agent-mode",
+      "component: model-selection",
+      "platform: pycharm"
+    ],
+    "comments": 4,
+    "created_at": "2025-12-11T03:26:52Z",
+    "body_summary": "### Feedback source\n\nNone\n\n### GitHub Copilot plugin version\n\n1.5.61-243\n\n### JetBrains IDE and version\n\nBuild #PY-253.28294.336, built on December 6, 2025 Licensed to NIO Co. Ltd. Runtime version: 21.0.8+9-b1163.69 amd64 (JCEF 137.0.17) VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o.\n\n### Platform\n\nwindows 10\n\n\n### Steps to reproduce\n\nno\n\n### Logs (optional)\n\n_No response_\n\n### Expected behavior\n\nno\n\n### Actual behavior\n\nno\n\n### Additional information\n\n_No response_"
+  },
+  {
+    "number": 1060,
+    "title": "Project Isolation Missing: Copilot runs terminal commands and tools from the active project window instead of the project window it was started",
+    "state": "CLOSED",
+    "user": "spenserhale",
+    "labels": [
+      "bug",
+      "needs more info",
+      "priority: high",
+      "component: agent-mode",
+      "component: context"
+    ],
+    "comments": 6,
+    "created_at": "2025-12-08T08:49:32Z",
+    "body_summary": "### Feedback source\n\nJetBrains Marketplace\n\n### GitHub Copilot plugin version\n\n1.5.61-243\n\n### JetBrains IDE and version\n\nPhpStorm 2025.2.5 Build #PS-252.28238.9, built on November 19, 2025 Source revision: 7059016f3609e Licensed to Spenser Hale You have a perpetual fallback license for this version. Subscription is active until August 22, 2026. Runtime version: 21.0.9+10-b1038.76 aarch64 (JCEF 122.1.9) VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o. Toolkit: sun.lwawt.macosx.LWCToolkit macOS 1"
+  },
+  {
+    "number": 998,
+    "title": "Copilot plugin shows 'An error occurred while processing your request' error while other devices on same network work fine",
+    "state": "CLOSED",
+    "user": "Inaglyite",
+    "labels": [
+      "bug",
+      "needs log",
+      "no recent activity",
+      "priority: critical",
+      "component: authentication",
+      "impact: blocking"
+    ],
+    "comments": 5,
+    "created_at": "2025-11-25T09:37:45Z",
+    "body_summary": "- Versions (plugin, IDE, OS):pycharm 2024.3.4 windows11 and ubuntu 22.04 plugin version:1.5.61-234\n\n\n- Debug-level Log Files ([How to collect log](https://github.com/microsoft/copilot-intellij-feedback/wiki/Enable-debug-logging#log-file)):\n\nSteps to Reproduce:\n\n1.\n2.\n\nScreenshots/Recording:"
+  },
+  {
+    "number": 911,
+    "title": "GitHub Copilot UI flickers a lot while running a prompt.",
+    "state": "CLOSED",
+    "user": "anandagirish2",
+    "labels": [
+      "bug",
+      "needs-fix"
+    ],
+    "comments": 7,
+    "created_at": "2025-11-09T21:49:09Z",
+    "body_summary": "- Versions (plugin, IDE, OS):\n\n\n- Debug-level Log Files ([How to collect log](https://github.com/microsoft/copilot-intellij-feedback/wiki/Enable-debug-logging#log-file)):\n\nSteps to Reproduce:\n\n1.\n2.\n\nScreenshots/Recording:"
+  },
+  {
+    "number": 849,
+    "title": "None of the following work in the chat window: page-up, page-down, home, end",
+    "state": "CLOSED",
+    "user": "credmond",
+    "labels": [
+      "bug"
+    ],
+    "comments": 2,
+    "created_at": "2025-10-27T23:48:45Z",
+    "body_summary": "None of the following keys work in the chat window: page-up, page-down, home, end.\n\nThis is unacceptable, frankly."
+  },
+  {
+    "number": 848,
+    "title": "Scrolling in chat doesn't honour IntelliJ settings or defaults, is painfully slow",
+    "state": "CLOSED",
+    "user": "credmond",
+    "labels": [
+      "needs attention"
+    ],
+    "comments": 2,
+    "created_at": "2025-10-27T22:27:54Z",
+    "body_summary": "Scrolling in the chat output pane, is painfully slow. It takes so much time.\n\nScrolling in IntelliJ is a) by default, 3 lines per registered scroll event and b) configurable.\n\nThe Copilot plugin isn't, it's one line per scroll event. It behaves different to the rest of the IDE and is very frustrating to traverse basic text, as we're used to in the rest of the IDE.\n\nCopilot should/could behave like the rest of the host IDE.\n\nIf you ask a question, and it spits out several classes and text, you al"
+  },
+  {
+    "number": 845,
+    "title": "Can't copy various texts from chat",
+    "state": "CLOSED",
+    "user": "credmond",
+    "labels": [
+      "feature-request"
+    ],
+    "comments": 6,
+    "created_at": "2025-10-27T14:27:02Z",
+    "body_summary": "As per screenshot, you cannot copy paragraphs of text from the chat -- often errors.\n\nThis is frustrating and a needless obstacle to productivity and collaboration."
+  },
+  {
+    "number": 788,
+    "title": "run_in_terminal tool hangs indefinitely on WSL Ubuntu paths in PHPStorm",
+    "state": "CLOSED",
+    "user": "mxkyu",
+    "labels": [
+      "bug",
+      "needs attention"
+    ],
+    "comments": 20,
+    "created_at": "2025-10-14T10:38:50Z",
+    "body_summary": "## Problem Description\nThe `run_in_terminal` tool in GitHub Copilot Chat hangs indefinitely when executing commands in WSL Ubuntu environment through PHPStorm.\n\n## Environment\n- **IDE:** PHPStorm (JetBrains)\n- **Plugin:** GitHub Copilot\n- **OS:** Windows 11/10 with WSL Ubuntu\n- **Shell:** bash (WSL Ubuntu)\n- **Date:** 2025-01-14\n\n## Steps to Reproduce\n1. Open GitHub Copilot Chat in PHPStorm\n2. Request AI to execute terminal command using `run_in_terminal` tool\n3. Command attempted: `cd /home/dan"
+  },
+  {
+    "number": 772,
+    "title": "Missing models - GPT-5-Codex",
+    "state": "CLOSED",
+    "user": "jehadassaf",
+    "labels": [
+      "bug",
+      "needs attention"
+    ],
+    "comments": 15,
+    "created_at": "2025-10-09T07:40:13Z",
+    "body_summary": "Models are missing, for example GPT-5-Codex. Models working just fine in VSCode.\n\n- Versions (plugin, IDE, OS):\nPhpStorm 2025.2.3\nBuild #PS-252.26830.95, built on October 2, 2025\nSource revision: 676087dd469c2\nWindows 11.0\n  com.github.copilot (1.5.57-243)"
+  },
+  {
+    "number": 757,
+    "title": "Claude Sonnet 4.5 not available, despite being enabled in account settings",
+    "state": "CLOSED",
+    "user": "mr483",
+    "labels": [
+      "bug",
+      "needs attention"
+    ],
+    "comments": 19,
+    "created_at": "2025-10-01T12:22:43Z",
+    "body_summary": "- Versions (plugin, IDE, OS):\nIDE: PyCharm 2025.2.2\nPlugin: 1.5.57-243\n\n\n- Debug-level Log Files ([How to collect log](https://github.com/microsoft/copilot-intellij-feedback/wiki/Enable-debug-logging#log-file)):\n\nSteps to Reproduce:\n\n1. Open CoPilot chat, check available models; 4.5 not listed. \n\nScreenshots/Recording:\n\n \n\nAccount settings shows enabled:"
+  },
+  {
+    "number": 600,
+    "title": "Chat response showing truncated code snippets",
+    "state": "CLOSED",
+    "user": "ScottHinrichsFS",
+    "labels": [
+      "bug"
+    ],
+    "comments": 24,
+    "created_at": "2025-08-29T17:46:02Z",
+    "body_summary": "- Versions (plugin, IDE, OS):\n- IntelliJ IDEA 2025.2.1 Build #IU-252.25557.131, built on August 27, 2025\n- Runtime version: 21.0.8+9-b1038.68 aarch64 (JCEF 122.1.9)\n- VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o.\n- GitHub Copilot plugin: 1.5.54-243\n- MacBook Pro, macOS Sequoia version 15.6.1\n\nGitHub Copilot Chat plugin is responding with only 28-30 lines of the code it produces.\n\nSteps to Reproduce:\n\n1. In IntelliJ IDEA, open the GitHub Copilot Chat sidebar.\n2. Create a prompt that should pro"
+  },
+  {
+    "number": 276,
+    "title": "Easy to exceed max input token in agent mode",
+    "state": "CLOSED",
+    "user": "jiec-msft",
+    "labels": [
+      "bug",
+      "agentmode"
+    ],
+    "comments": 13,
+    "created_at": "2025-06-03T12:08:56Z",
+    "body_summary": "> no longer occurs with the latest nightly, but the agent blocks very quickly due to long prompts and then aborts in the middle of processing and leaves behind corrupt files. -_-\n> \n> ![Image](https://github.com/user-attachments/assets/e74a4ccf-c326-4255-be66-e0bd2493821b) \n\n _Originally posted by @jWeck-Software in [#254](https://github.com/microsoft/copilot-intellij-feedback/issues/254#issuecomment-2934830144)_"
+  }
+]

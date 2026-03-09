@@ -1,0 +1,666 @@
+[
+  {
+    "id": 135741,
+    "rating": 2,
+    "date": "2026-03-09",
+    "author": "王王文",
+    "comment": "感觉不好用的可以试试通义千问…",
+    "replies": 0
+  },
+  {
+    "id": 135739,
+    "rating": 1,
+    "date": "2026-03-09",
+    "author": "niko.riccitelli",
+    "comment": "Full of persistent bugs.\nAfter 6 months of use (since September 2025), I'm disappointed by the consistent technical issues: \n \n Terminal outputs not returning to the agent \n Frequent chat history loss \n Scrolling and navigation issues \n Severe performance problems (10-20 second IDE freezes on good hardware) \n Limited features compared to competitors\nThe lower price point is the only advantage, but these issues have driven me (crazy) to seek alternatives.",
+    "replies": 2
+  },
+  {
+    "id": 135634,
+    "rating": 2,
+    "date": "2026-03-07",
+    "author": "rich_wagenknecht",
+    "comment": "This plugin is essential yet has so many broken features: \n \n Constant lock ups of whatever Jetbrains IDE you're using. Jetbrains will flag this component as causing performance problems constantly. \n Ignores whether you're in Agent mode or Ask mode (sometimes Agent requests will get spit into Chat instead of acted upon).",
+    "replies": 1
+  },
+  {
+    "id": 135632,
+    "rating": 1,
+    "date": "2026-03-07",
+    "author": "Tim Seever",
+    "comment": "Completely broken with current version of DataGrip",
+    "replies": 1
+  },
+  {
+    "id": 135627,
+    "rating": 1,
+    "date": "2026-03-06",
+    "author": "timlg07",
+    "comment": "Fundamentally broken.",
+    "replies": 1
+  },
+  {
+    "id": 135617,
+    "rating": 1,
+    "date": "2026-03-06",
+    "author": "Dennis Kaiser",
+    "comment": "This is by far the worst agent experience I've had with any of the tools: \n \n Every time I start a new chat, multiple old and unrelated files are opened in the editor \n I don't see any option to completely disable the automatic \"add file to context\" feature. I have to turn them off manually every time. I do not want to automatically add files to the context. This has led to unrelated files being added to the context numerous times which is a huge waste of tokens and context space. Just give me an option to disable this feature entirely, especially in agent mode. \n The agent is still unable to read the terminal output most of the time \n For about a week the model's output is missing characters, making it almost impossible to properly read what the model is telling me \n I do not see any option to show me how full the current context is. This is super relevant to effectively work with the agent \n I did not manage to configure skills in a way where the agent picks them up reliably \n The feature to accept/decline edits made by the agent triggers so many edge cases it's hilarious. Make the agent change a file and then make the agent move it using a terminal command? The Changes are gone. Numerous bugs with the accept/decline buttons not rendering properly or rendering on top of completely unrelated UI elements (even on top of other/unrelated applications) \n Configuring auto accepts for certain terminal calls is extremely cumbersome and hard to debug. I have not found any documentation for that and was forced to enable intellij logs to find out what the problem was. \n When asked to accept a terminal command, there is no easy way to say \"allow all uses of...\". I have to open the settings (which is a modal, btw. I can't change the settings and use the agent at the same time) and manually add some regex to the table of allowed terminal commands. This is super cumbersome.",
+    "replies": 2
+  },
+  {
+    "id": 135535,
+    "rating": 1,
+    "date": "2026-03-05",
+    "author": "horia.vitcu",
+    "comment": "How it's still so crap after so long is beyond me... Please introduce negative star reviews. 2 star average is too high.",
+    "replies": 1
+  },
+  {
+    "id": 135533,
+    "rating": 5,
+    "date": "2026-03-05",
+    "author": "Jonathan Gonçalves",
+    "comment": "I think that Github Copilot is getting decent now. Everything works properly, but I'm still missing some features and there's some improvements that could help: \n \n In PLAN mode, will be much better if we can answer the questions selecting something, or a better way, because when I plan something and answer some questions, the agent tries to start editing, using tokens to it. \n We can see how many tokens the context are using, to know when its better to reset the context. \n Some way to natively interate loops and tasks. Idk how the PLAN or AGENT mode works, but now there's no clear way to track the progress. \n Sometimes it tries to access some access denied directory and tries to run \"cat\" commands, and this is bad. I tried a workaround, but its not the best way.",
+    "replies": 1
+  },
+  {
+    "id": 135519,
+    "rating": 1,
+    "date": "2026-03-05",
+    "author": "Aleksei Krasnov",
+    "comment": "I am fed up with the constant technical glitches / pitfalls in Copilot; it’s making my work impossible.\nI have been using Copilot since mid 2025, and it worked perfectly.\nAfter new releases in 2026, it becomes impossible to use.  Basically, it freezes DataSpell completely when I'm trying to open Copilot/or write something there, and the only solution is to kill DataSpell.\nNow I switched to the previous release of Copilot 1.5.62-243 together with DataSpell 2025.2.3, and it works more or less better, still running intensively CPU when I'm trying to write in Copilot chat.",
+    "replies": 0
+  },
+  {
+    "id": 135494,
+    "rating": 1,
+    "date": "2026-03-05",
+    "author": "JayR",
+    "comment": "This plugin is broken far more often than it's working. It's really making me regret getting accustomed to JetBrains IDE's. There must be zero QA going on with this major plugin, just awful work being pushed.",
+    "replies": 1
+  },
+  {
+    "id": 135492,
+    "rating": 0,
+    "date": "2026-03-05",
+    "author": "DanielFallerGrass",
+    "comment": "The AI ​​can't read the output result!!! Fix this, you're already way behind in terms of AI integration quality.",
+    "replies": 1
+  },
+  {
+    "id": 135473,
+    "rating": 2,
+    "date": "2026-03-04",
+    "author": "thomasedv1996",
+    "comment": "Awfully unreliable. \n Can't reliably read terminal output. Wasted token, time and interrupted dev process. Seems to have been an issue for a long time.",
+    "replies": 1
+  },
+  {
+    "id": 135463,
+    "rating": 0,
+    "date": "2026-03-04",
+    "author": "Joaquim Quadrada Jané",
+    "comment": "Fatal experience",
+    "replies": 1
+  },
+  {
+    "id": 135411,
+    "rating": 3,
+    "date": "2026-03-04",
+    "author": "saad.benbouzid.ext",
+    "comment": "Overall useful but the main pain points are : \n \n impossible to copy code from the prompt result with Ctrl-C (why ??!!), you have to hit right-click>Copy like a boomer. \n no chat history or possibility to navigate through prompts (like a jetbrains evaluate Alt-F8 / arrows). This is particularly painful when the prompt issues an error and you have to resubmit but since your prompt is always deleted after a search you have to retype it from scratch. Of course there's no context history and if you just ask \"please reprocess my previous prompt\" it's completely lost...",
+    "replies": 1
+  },
+  {
+    "id": 135408,
+    "rating": 1,
+    "date": "2026-03-03",
+    "author": "Roman Deev",
+    "comment": "Half of the basic functions stop working at random, and restarting the IDE helps. Edit mode falls off especially often. Adding files to the context was done by a sadist. Automatic file addition works every other time. Adding the current selection also doesn't always work. The feeling that the developers didn't even try to use the basic features of the plugin for at least one day.",
+    "replies": 2
+  },
+  {
+    "id": 135402,
+    "rating": 1,
+    "date": "2026-03-03",
+    "author": "atsalkitzis",
+    "comment": "Surpsingly slow, it almost takes 10 seconds to open the chat",
+    "replies": 1
+  },
+  {
+    "id": 135398,
+    "rating": 1,
+    "date": "2026-03-03",
+    "author": "Code.Nascher",
+    "comment": "Since installing the latest version (1.5.66-243), the entire IDE (Rider) crashes almost every time. Even detached CoPilot windows can only be moved with considerable effort and patience. The functionality is currently virtually non-existent. An update is urgently needed.",
+    "replies": 1
+  },
+  {
+    "id": 135341,
+    "rating": 1,
+    "date": "2026-03-02",
+    "author": "Ruslan Pavlov",
+    "comment": "500-x error while reading files in agent mode\nError: startLineNumberBaseOne must be a number, received: undefined",
+    "replies": 1
+  },
+  {
+    "id": 135325,
+    "rating": 3,
+    "date": "2026-03-02",
+    "author": "Yuchen Liu",
+    "comment": "I really wonder why GPT 5.3-codex and Gemini 3.1 Pro are still not available in Android Studio while they can be accessed in VS Code long ago?",
+    "replies": 1
+  },
+  {
+    "id": 135225,
+    "rating": 1,
+    "date": "2026-02-28",
+    "author": "Amine",
+    "comment": "This plugin causes my Mac to overheat and is very unstable.\nMost models work fine with other plugins, but with this one, even Claude 4.5 gets stuck in response loops and freezes.",
+    "replies": 1
+  },
+  {
+    "id": 135210,
+    "rating": 5,
+    "date": "2026-02-28",
+    "author": "demawi",
+    "comment": "I have a very good experience with it. Writing tests, writing documentation, altering code. Currently a very productive partner without much issues. So currently nothing against the agent itself.\nThe UI could be better configurable. Can't even set the font size. And the IDE integration could be better. E.g.: prompting for every test run, because the agent can't run tests within the IDE and have to use the terminal",
+    "replies": 1
+  },
+  {
+    "id": 135189,
+    "rating": 1,
+    "date": "2026-02-27",
+    "author": "Hamza BELMELLOUKI",
+    "comment": "horrible product. they are so behind in the competition.",
+    "replies": 1
+  },
+  {
+    "id": 135177,
+    "rating": 1,
+    "date": "2026-02-27",
+    "author": "Sameer Kulkarni",
+    "comment": "Plugin 'GitHub Copilot - Your AI Pair Programmer' (version '1.5.66-242') is not compatible with the current version of the IDE, because it requires build 242.* or older but the current build is IU-252.26830.84",
+    "replies": 1
+  },
+  {
+    "id": 135167,
+    "rating": 1,
+    "date": "2026-02-27",
+    "author": "Grace under pressure",
+    "comment": "The code completion experience of the plugin is very poor, and the displayed position of the prompt will obscure the current code. If you do not adopt the prompt completion, the UI of the prompt will permanently remain on the page and cannot be eliminated. After using it for a little longer, the screen will be full of residual completion prompts, which is very disgusting.",
+    "replies": 1
+  },
+  {
+    "id": 135133,
+    "rating": 0,
+    "date": "2026-02-26",
+    "author": "rajat shah",
+    "comment": "Sorry, an error occurred while generating a response. Details: unhandled status from server: 502  <!-- Hello future GitHubber! I bet you're here to remove those nasty inline styles, DRY up these templates and make 'em nice and re-usable, right? Please, don't.  https://github.com/styleguid ... Read more from logs. Request ID: eb0a590e-b2c5-4f52-abe7-89de7799139f -- One or ther issue ..Today i updated plugin now chat is not working properly",
+    "replies": 3
+  },
+  {
+    "id": 135132,
+    "rating": 0,
+    "date": "2026-02-26",
+    "author": "Steve Loughran",
+    "comment": "use a search engine in your browser -it'll save RAM and stop the IDE from crashing. I keep updating the IDE and plugin in the hope this is fixed, but I'm giving up now.",
+    "replies": 1
+  },
+  {
+    "id": 135123,
+    "rating": 1,
+    "date": "2026-02-26",
+    "author": "snaumosk",
+    "comment": "Horrific experience",
+    "replies": 1
+  },
+  {
+    "id": 135117,
+    "rating": 1,
+    "date": "2026-02-26",
+    "author": "Bram",
+    "comment": "Horrible. Always broken. Stupid agent mode is primary.\nThe window is always in the way etc etc i really unfriendly plugin",
+    "replies": 1
+  },
+  {
+    "id": 135115,
+    "rating": 0,
+    "date": "2026-02-26",
+    "author": "dsanchez",
+    "comment": "Terrible UX and integration. Constant \"Sorry, an error occurred while generating a response\" errors and stupid UI limitations.",
+    "replies": 1
+  },
+  {
+    "id": 135039,
+    "rating": 1,
+    "date": "2026-02-25",
+    "author": "Олександр Марікуца",
+    "comment": "Code suggestions doesn't work for Android Studio Panda 1",
+    "replies": 1
+  },
+  {
+    "id": 135006,
+    "rating": 1,
+    "date": "2026-02-25",
+    "author": "Grace under pressure",
+    "comment": "Too many problems",
+    "replies": 1
+  },
+  {
+    "id": 134991,
+    "rating": 1,
+    "date": "2026-02-25",
+    "author": "Dharma KC",
+    "comment": "Guys, this needs to be fixed asap: I updated the pycharm and github copilot and it doesn't work anymore: it hangs: I have given 8gb ram to pycharm and still hangs everytime.",
+    "replies": 1
+  },
+  {
+    "id": 134984,
+    "rating": 1,
+    "date": "2026-02-25",
+    "author": "lakshithasl",
+    "comment": "Completely unusable in Jetbrains IDE. Doesn't even follow the instructions and doing its hypothetical problem solving for a non exiting issues like when I ask a question related to a code in it talks and try to  fix  a dependency issue that I never even mentioned. Copilot has no understanding of what its doing just doing random stuff like a moroon",
+    "replies": 1
+  },
+  {
+    "id": 134970,
+    "rating": 1,
+    "date": "2026-02-25",
+    "author": "Davidgomesdev",
+    "comment": "This plugin is really bad, it crashes a lot of times, my IDE has started to not responding every now and then and I'm sure it's due to this plugin. \n The UI is really bad to interact with, namely the scroll, it overscrolls with the smallest movement. \n ALSO there are code format typos (a missing bracket for instance) done in the generated code that I'm sure it's due to the extension and not the models.",
+    "replies": 1
+  },
+  {
+    "id": 134969,
+    "rating": 2,
+    "date": "2026-02-25",
+    "author": "Brian Reischl",
+    "comment": "Just a really buggy plugin at this point. I've had it just throw away or ignore my prompts so often that I now compose them in a separate editor. Also, switching modes (eg, Ask -> Edit) is apparently an entirely different thing, so it loses all your context including files added and whatnot. It's pretty stark how much worse this is than Claude Code, even when using the same underlying LLM models. Which is unfortunate, it seems like the potential is there for it to be better, but instead it's just a buggy mess.",
+    "replies": 1
+  },
+  {
+    "id": 134967,
+    "rating": 1,
+    "date": "2026-02-24",
+    "author": "Alexandre",
+    "comment": "This is utter garbage. Giving a prompt in full english, it answers in french ??? While providing nothing useful. Scroll is trash. Functionalities are not up to date, available models are not updated in real time",
+    "replies": 1
+  },
+  {
+    "id": 134946,
+    "rating": 2,
+    "date": "2026-02-24",
+    "author": "Tamas Bela",
+    "comment": "It works, but it's not usable and may be a good enough reason at this point for switching from PyCharm to VS Code altogether. It's sad that this doesn't get more attention to get it on par with what VS code can do, or at least close to it.\nWhy is auto-approve not working? it's annoying to get prompted for every little thing to continue. The text editor is broken: it doesn't handle multi lines properly, it acts like one single line. Pressing end will not go to the end of line, but instead at the end of the whole text. When adding new lines at the end, it takes a fragment from the last part and there's no way to really navigate to the end. It's riddled with bugs overall.",
+    "replies": 1
+  },
+  {
+    "id": 134933,
+    "rating": 4,
+    "date": "2026-02-24",
+    "author": "Darko Krišan",
+    "comment": "I like the plugin, but there are some things that are really annoying. For instance it cannot read the console all the time. Sometimes it works flawlessly and couple of minutes later it loops same things in cli so i have to stop it, copy-paste the output into agent chat and then it continues normally. Also i have a feeling that models are dumbed down for some reason. I use cursor in parallel because of this. Claude 4.6 in cursor behaves much better than same model in Copilot. Things that Claude does fast and properly in Cursor, Copilot version reasons completely different and needs more time to do it right. There must be something in the implementation of models that causes behavior like this.",
+    "replies": 1
+  },
+  {
+    "id": 134931,
+    "rating": 2,
+    "date": "2026-02-24",
+    "author": "Pawel Milosz",
+    "comment": "GitHub Copilot for PhpStorm – Great Idea, Rough Execution  \n ★★☆☆☆ \n I really wanted to love this plugin. The concept is solid, and when it works, it genuinely helps with day-to-day development. But after a few weeks of daily use in PhpStorm, the list of frustrations has grown long enough that I feel obligated to warn others. \n  Terminal blindness \nThe most baffling issue: Copilot Chat happily runs commands in the terminal — php -l, cd, you name it — but then acts as if nothing happened. It executes the command and completely ignores the output, leaving you to manually copy-paste results back into the chat just to continue the conversation. For an AI assistant that's supposed to streamline your workflow, this is a pretty fundamental failure. Agent mode helps slightly, but it's inconsistent. \n  Text selection goes haywire \nSelecting code in the editor while the Copilot panel is active is an exercise in frustration. The selection frequently jumps, shifts, or ends up somewhere entirely unintended. Simple actions like highlighting a method or a block of code become unreliable, which in a tool you use dozens of times per hour is genuinely disruptive. \n  The cursor teleports \nRelated to the above — the plugin has a habit of moving the editor cursor to seemingly random locations on its own. You're working in one file, Copilot does something in the background, and suddenly your view or cursor position has jumped somewhere else entirely. It breaks focus and flow constantly. \n  System freezes \nThis one is the dealbreaker. Periodically — and unpredictably — the plugin freezes the entire IDE and sometimes the whole system for 20 to 40 seconds. No warning, no spinner, just a complete lockup. On a machine that handles Docker, Kubernetes and multiple services without breaking a sweat, this is hard to excuse. It appears to happen most often when the chat is processing or when switching between files rapidly. \n  Bottom line \nThe underlying AI capabilities are promising, and I can see where this is headed. But right now the plugin feels like it shipped too early. The terminal integration is broken by design, the editor interactions are glitchy, and the freezes make it actively harmful to productivity at times. I'll revisit when these basics are fixed — until then, I can't recommend it for serious daily use.",
+    "replies": 2
+  },
+  {
+    "id": 134875,
+    "rating": 1,
+    "date": "2026-02-23",
+    "author": "henning.sprang",
+    "comment": "crashes every 2 minutes when using the IDE.",
+    "replies": 0
+  },
+  {
+    "id": 134862,
+    "rating": 1,
+    "date": "2026-02-23",
+    "author": "badura.denis",
+    "comment": "In comparision with GitHub CLI, Cursor and many other AI tools, this one is quarter baked at best. Slow, small context, constantly looping, need to manually add files in which AI should be searching for.",
+    "replies": 0
+  },
+  {
+    "id": 134792,
+    "rating": 1,
+    "date": "2026-02-21",
+    "author": "Damian Drygiel",
+    "comment": "For real? Inline code completions are all pure gray? Have you ever heared about syntax highlighting? ;D Ridicules",
+    "replies": 1
+  },
+  {
+    "id": 134786,
+    "rating": 4,
+    "date": "2026-02-21",
+    "author": "Marcin Gadziński",
+    "comment": "after recent updates works much better, sometimes modal with keep all / undo all buttons glitches and is displayed over other apps",
+    "replies": 1
+  },
+  {
+    "id": 134769,
+    "rating": 0,
+    "date": "2026-02-20",
+    "author": "Yan",
+    "comment": "Unfortunately, glitches and constant freezing prevent me from taking full advantage of the features.\nUnable-to-close pop-up windows appear, and I regularly lose the ability to interact with the IDE until I restart it.\nThe first impression is terrible.",
+    "replies": 1
+  },
+  {
+    "id": 134746,
+    "rating": 1,
+    "date": "2026-02-20",
+    "author": "kumohamm",
+    "comment": "Scrolling and formatting is very bad.",
+    "replies": 1
+  },
+  {
+    "id": 134711,
+    "rating": 0,
+    "date": "2026-02-19",
+    "author": "rajat shah",
+    "comment": "I have corporate licenses .new models are getting enabled like claude opus 4.6 but same is not visible in Intellij while it is visible in VsCode and working fine..Not happy with this and there is no support",
+    "replies": 2
+  },
+  {
+    "id": 134692,
+    "rating": 2,
+    "date": "2026-02-18",
+    "author": "Lakshay Verma",
+    "comment": "Too slow for the IDE, in fact ever since recent updates the UI keeps freezing every time, we open the chat or switch modes in any order. \n \n Agent - Ask - Agent \n Ask - Agent - Edit \n Edit - Plan \n \n Also it has started hallucinating more in last couple of days, with same code and instruction set I originally have used.",
+    "replies": 1
+  },
+  {
+    "id": 134665,
+    "rating": 5,
+    "date": "2026-02-18",
+    "author": "Louis",
+    "comment": "TL;DR \n 1.5.64 = freeze UI \n 1.5.63 = OK \n It happens on my Win11 PCs with Intellij IDEA 2025.3.2.",
+    "replies": 1
+  },
+  {
+    "id": 134646,
+    "rating": 1,
+    "date": "2026-02-17",
+    "author": "evgeny.kuntsevich-ext",
+    "comment": "nightmare, absolutely dead",
+    "replies": 1
+  },
+  {
+    "id": 134645,
+    "rating": 1,
+    "date": "2026-02-17",
+    "author": "Serhii Hultiaiev",
+    "comment": "Garbage plugin. Scrolling chat window using touchpad on macOS is the ultimately worst out there I've ever seen. How it can be that bad is simply unimaginable to me.\nCompletely freezes the IDE when an agent runs.\nTerrible UI overall.\nChanges overlay (buttons to navigate between changes) does not know which IDE has the agent running and haunts you everywhere just in case.",
+    "replies": 1
+  },
+  {
+    "id": 134617,
+    "rating": 0,
+    "date": "2026-02-16",
+    "author": "David Brouse",
+    "comment": "Overall, the plugin is really good.  They just have a quality control issue with their releases. \n In DataGrip 2025.3.5, I had auto-update turned on, and when the newest version of the Copilot plugin 1.5.65-243  (from 2026/02/12) got installed, the plugin crashed on startup.  I turned off auto-update, and downgraded to version 1.5.63-243 (from 2020/01/15) using the \"Install from disk\" process, and everything is working again.",
+    "replies": 1
+  },
+  {
+    "id": 134615,
+    "rating": 1,
+    "date": "2026-02-16",
+    "author": "Manoj Kumar",
+    "comment": "All I get is “Oops, you reached the rate limit. Please try again later.” even after paying every single month! This is the level of service you give paying users? Hire some better developers for freaking sake!",
+    "replies": 1
+  },
+  {
+    "id": 134607,
+    "rating": 1,
+    "date": "2026-02-16",
+    "author": "Bram",
+    "comment": "Utterly annoying and broken. \n Responses are cut of. The ui is horrible.\nIncredibly buggy and unstable",
+    "replies": 1
+  },
+  {
+    "id": 134604,
+    "rating": 2,
+    "date": "2026-02-16",
+    "author": "Run Fast",
+    "comment": "1.5.65-243\nMacBook M4 Max, macOS Sequoia. Pycharm unpredictable scrolling behavior, UI is jittering heavily.",
+    "replies": 1
+  },
+  {
+    "id": 134580,
+    "rating": 4,
+    "date": "2026-02-15",
+    "author": "Per Holm-Petersen",
+    "comment": "I see a lot of negative reviews, so I thought I'd give positive feedback. I use this A LOT. While the VS Code implementation is the best, the JetBrains implementation isn't half bad. I'd wish that updates came out faster. You can wait weeks or months waiting for an update that's already out in VS Code. I'd also love to see more of the deliberations, which as shown in VS Code. And the Rider implementation keeps inserting byte order marks near the top of my files that have to be manually discarded. I've also seen more misfired in Rider, where it for example deletes most of a file and then complains that it's missing. It's OK, and can just cancel it, but that never happens in VS Code. The personality also seems different. Claude Opus 4.5 is more of a clear thinker in VS Code than it is in Rider, where I get more ready-fire-aim. You should tell the model that it's OK to be unsure or need more info. Being overconfident to the point of gaslighting is ChatGPT's job.",
+    "replies": 1
+  },
+  {
+    "id": 134558,
+    "rating": 1,
+    "date": "2026-02-15",
+    "author": "Artyom Sovetnikov",
+    "comment": "When I click \"Copilot Chat\" icon, the whole WebStorm application freezes indefinitely. So it's not only useless, but also breaks the editor. Malware, basically. Good job, Microslop!",
+    "replies": 1
+  },
+  {
+    "id": 134557,
+    "rating": 1,
+    "date": "2026-02-14",
+    "author": "David Lee",
+    "comment": "Login doesn't work. We got an expensive GitHub Copilot subscription specifically to use this in PHPStorm and the login does nothing. We get a message that authentication worked but the plugin stays stuck on the Sign in for GitHub Copilot page.",
+    "replies": 2
+  },
+  {
+    "id": 134496,
+    "rating": 1,
+    "date": "2026-02-13",
+    "author": "jackgouldingay",
+    "comment": "Unable to login to a Github Enterprise Account - followed steps on github how to do this and it doesn't save my credentials.",
+    "replies": 1
+  },
+  {
+    "id": 134479,
+    "rating": 1,
+    "date": "2026-02-13",
+    "author": "Petr Beloborodov",
+    "comment": "In agent mode, it stops unexpectedly — I have to prompt it several times to finish generating the files. It’s awful.",
+    "replies": 1
+  },
+  {
+    "id": 134475,
+    "rating": 1,
+    "date": "2026-02-13",
+    "author": "shouruyang",
+    "comment": "The generated code is incomplete, and the code block cannot copy. After two updates the issues remain. I wonder if the bugs were caused by AI programmer in the plugin dev team.",
+    "replies": 2
+  },
+  {
+    "id": 134457,
+    "rating": 1,
+    "date": "2026-02-13",
+    "author": "JayR",
+    "comment": "It seems like every other release is badly broken. \n For now I have turned off the \"update plugins automatically\" setting and have manually installed (Plugins > Settings > Install Plugin from Disk)  an older version that works better.",
+    "replies": 1
+  },
+  {
+    "id": 134455,
+    "rating": 3,
+    "date": "2026-02-13",
+    "author": "rupert.jung",
+    "comment": "Works better than in the past. But I still have to press \"Continue\" all the time just to edit files. Also it always to to run tests with maven instead of using the IntelliJ runner for this which slows down things dramatically. Also, the IDE becomes very slow when the agent is active.",
+    "replies": 1
+  },
+  {
+    "id": 134429,
+    "rating": 1,
+    "date": "2026-02-12",
+    "author": "Oliver",
+    "comment": "Agent mode is suddenly forced onto users by setting this to default and resetting it back from the selection menu on every startup.  At least before, it remembered my selection between IDE restarts. The only way to avoid this by completely disable Agent mode entirely. Feels like an attempt to get users to use more tokens unnecessarily.",
+    "replies": 1
+  },
+  {
+    "id": 134425,
+    "rating": 1,
+    "date": "2026-02-12",
+    "author": "Gökçe ASOVA",
+    "comment": "code suggestions are often truncated and incomplete in chat window",
+    "replies": 1
+  },
+  {
+    "id": 134418,
+    "rating": 0,
+    "date": "2026-02-12",
+    "author": "kiviuq",
+    "comment": "PyCharm (latest as of 12 Feb 2026) / MacOS Tahoe 26. The Copilot UI is a total mess. Code that it generates in Chat mode gets truncated midway. I have to restart PyCharm to restore the Chat View and be able to see the full code snippet. It's not the model's fault, it's the plugin that cuts off the result in half. Also: Totally erratic and unpredictable scrolling behavior, UI is jittering like crazy.",
+    "replies": 1
+  },
+  {
+    "id": 134394,
+    "rating": 0,
+    "date": "2026-02-12",
+    "author": "piotr",
+    "comment": "Compared to VS Code version this plugin is a disaster. Constant issues, agent mode does not work when doing remote dev, models selection dissapears, you need to relogin to fix, do not see files in remote dev, copilot instructions not detected in agent mode, etc. The bugs list goes on and on…",
+    "replies": 1
+  },
+  {
+    "id": 134380,
+    "rating": 0,
+    "date": "2026-02-11",
+    "author": "vitazema",
+    "comment": "I've been fan of Copilot for years,\nbut now it's become unusable and I'm cancelling subscription as I can't see improvement for years.\nToo buggy, to slow, slopy suggestions (better not to suggest at all). Sorry, but caused issues for so long and broke projects several times, so it deserves lowest score.",
+    "replies": 1
+  },
+  {
+    "id": 134373,
+    "rating": 1,
+    "date": "2026-02-11",
+    "author": "Oscar",
+    "comment": "Far too buggy. The text truncating issue has come back in the most recent release. Do better Microslop.",
+    "replies": 2
+  },
+  {
+    "id": 134358,
+    "rating": 1,
+    "date": "2026-02-11",
+    "author": "Dawid Dyrcz",
+    "comment": "This plugin is completely broken. The text in the chat jumps around while scrolling, it generates way too many .md files, even for simple answers, it shows 'rate limit' errors despite having plenty of tokens left, chat sometimes resets after I send a prompt, causing my prompt to disappear. I’ve switched to VS Code for AI programming.",
+    "replies": 1
+  },
+  {
+    "id": 134348,
+    "rating": 1,
+    "date": "2026-02-11",
+    "author": "Divyansh Dabral",
+    "comment": "Hitting constant rate limits on opus models, even with a pro plan. Pretty much useless for anything even slightly more complex than quick code completion",
+    "replies": 1
+  },
+  {
+    "id": 134336,
+    "rating": 1,
+    "date": "2026-02-11",
+    "author": "Ayush Jaiswal",
+    "comment": "Everything is broken with this plugin; every next update they make it worse - as of now the response generate by it have incomplete code snippets",
+    "replies": 1
+  },
+  {
+    "id": 134300,
+    "rating": 0,
+    "date": "2026-02-11",
+    "author": "info",
+    "comment": "As of today, Github Copilot only displays suggestions that are interrupted in the middle of the code. The tool is no longer usable.",
+    "replies": 2
+  },
+  {
+    "id": 134293,
+    "rating": 1,
+    "date": "2026-02-11",
+    "author": "jacopobartolini",
+    "comment": "The quality of this product is shameful, especially when you compare it to what is available on other IDEs. Every usage is basically a coin toss, it may work perfectly or it may give you a random problem (random responses filtered out, incomplete responses, not enough token problems when you've got plenty, etc.)",
+    "replies": 1
+  },
+  {
+    "id": 134259,
+    "rating": 2,
+    "date": "2026-02-10",
+    "author": "Kenneth Aalberg",
+    "comment": "Although good when it works, the unpredictable behavior breaks usability completely. Rate limiting while still having plenty of tokens left interrupts context and produces unstable or completely broken code. Context retainment even in an agent session is dubious, and instructions need to be reiterated multiple times. \n But most annoying at all? Agent mode can happily produce 3-4 .md files summarizing and explaining code changes for the simplest of tasks.",
+    "replies": 1
+  },
+  {
+    "id": 134248,
+    "rating": 2,
+    "date": "2026-02-10",
+    "author": "MaxPayen Venic",
+    "comment": "I never have big complained about this plugin, I'm usually using just ask question and ignore other feature, but every new update it keeps breaking stuff and feel worse somehow, and now with the newest update which I regrade upgrade, cut off the answer before the reply is full complete",
+    "replies": 1
+  },
+  {
+    "id": 134243,
+    "rating": 5,
+    "date": "2026-02-10",
+    "author": "Enes Oscar",
+    "comment": "Overall, it provides a great experience. I get especially impressive results with the Sonnet and Opus models. Recently, I also integrated my database via MCP, which helped complete my development ecosystem. Kudos to the IntelliJ developers for their great work. \n There are occasional rate-limit issues, but I use GitHub Copilot across multiple editors and see the same limitation elsewhere as well. I’m confident this will be resolved in the near future. I will continue using GitHub Copilot with IntelliJ.",
+    "replies": 1
+  },
+  {
+    "id": 134239,
+    "rating": 2,
+    "date": "2026-02-10",
+    "author": "lwcla",
+    "comment": "上次更新之后，回答的内容要么是显示不全，要么是输出不全",
+    "replies": 1
+  },
+  {
+    "id": 134208,
+    "rating": 0,
+    "date": "2026-02-10",
+    "author": "Hosein Mirian",
+    "comment": "I donot see the context menu of copilot in webstorm as well as chat menu! what happened to the update",
+    "replies": 1
+  },
+  {
+    "id": 134199,
+    "rating": 0,
+    "date": "2026-02-09",
+    "author": "Andrii Bednarskyi",
+    "comment": "Unusable, unpredictable, without even knowing of code formating and rules of braces and quotes",
+    "replies": 1
+  },
+  {
+    "id": 134193,
+    "rating": 0,
+    "date": "2026-02-09",
+    "author": "Ionut Rusen",
+    "comment": "After last update is not give you a complete response. And some of the models are just throws. Sorry",
+    "replies": 1
+  },
+  {
+    "id": 134191,
+    "rating": 1,
+    "date": "2026-02-09",
+    "author": "KEVIN TIAKOUANG DJOU",
+    "comment": "Since my last update everything crashes, the chat window also opens very slowly.",
+    "replies": 1
+  },
+  {
+    "id": 134186,
+    "rating": 1,
+    "date": "2026-02-09",
+    "author": "aperhaite-ergometra",
+    "comment": "Unfortunately Copilot has become unusable for me. I’m constantly hitting rate limits; roughly every 1–2 prompts  even on a Pro plan. I also tried switching to an Enterprise setup for work and saw the same issue. At this point I’m forced to stop using Copilot and pay for another tool, because a paid product that rate-limits after the first couple of prompts isn’t reliable for daily development.",
+    "replies": 1
+  },
+  {
+    "id": 134156,
+    "rating": 1,
+    "date": "2026-02-09",
+    "author": "rockhw_huang",
+    "comment": "GitHub Copilot's sign-in feature isn't working properly on Windows 11 ARM, and the chat page just keeps spinning/loading forever. I've tried it on both IntelliJ IDEA 2023 and IDEA 2025 (ARM versions), and both have the same issues.",
+    "replies": 2
+  }
+]

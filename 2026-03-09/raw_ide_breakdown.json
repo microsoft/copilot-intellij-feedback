@@ -1,0 +1,2156 @@
+{
+  "IntelliJ IDEA": {
+    "issues": [
+      {
+        "number": 1448,
+        "title": "Github copilot chat",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "needs attention",
+          "priority: high",
+          "component: chat"
+        ],
+        "created_at": "2026-03-04T17:24:33Z"
+      },
+      {
+        "number": 1445,
+        "title": "Glitch in chat output when the single quotation mark character is used",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "needs attention",
+          "priority: medium",
+          "component: chat"
+        ],
+        "created_at": "2026-03-04T12:54:21Z"
+      },
+      {
+        "number": 1442,
+        "title": "Premium request usage data reports oddly from intellij plugin when viewed from Github APIs",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "priority: medium",
+          "component: model-selection"
+        ],
+        "created_at": "2026-03-03T20:12:59Z"
+      },
+      {
+        "number": 1441,
+        "title": "Support project‑local MCP configuration (workspace‑scoped MCP servers) in IntelliJ",
+        "state": "OPEN",
+        "labels": [
+          "feature-request",
+          "needs attention",
+          "priority: medium",
+          "component: mcp"
+        ],
+        "created_at": "2026-03-03T16:33:51Z"
+      },
+      {
+        "number": 1436,
+        "title": "Error when use github copilot plugin in idea",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "priority: medium",
+          "component: chat"
+        ],
+        "created_at": "2026-02-28T12:21:00Z"
+      },
+      {
+        "number": 1432,
+        "title": "Copilot plugin is incompatible with latest IntelliJ update",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "needs more info",
+          "priority: high",
+          "component: ui"
+        ],
+        "created_at": "2026-02-27T08:44:17Z"
+      },
+      {
+        "number": 1431,
+        "title": "Formatting swallows up some characters when Claude is selected",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "needs attention",
+          "priority: high",
+          "component: chat"
+        ],
+        "created_at": "2026-02-27T04:35:47Z"
+      },
+      {
+        "number": 1429,
+        "title": "Inline chat suggestions are displayed in two overlapping windows",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "priority: medium",
+          "component: ui"
+        ],
+        "created_at": "2026-02-26T12:36:03Z"
+      },
+      {
+        "number": 1424,
+        "title": "\"Apply next word\" gone from keymap settings",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "priority: medium",
+          "component: chat",
+          "component: completions"
+        ],
+        "created_at": "2026-02-25T23:02:45Z"
+      },
+      {
+        "number": 1421,
+        "title": "[BYOK] Azure Responses API endpoint not supported (gpt-5.1-codex-max returns 400 OperationNotSupported)",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "feature-request",
+          "priority: high",
+          "component: model-selection"
+        ],
+        "created_at": "2026-02-25T14:07:19Z"
+      },
+      {
+        "number": 1420,
+        "title": "PETITION - Open source the code for this intellij plugin",
+        "state": "OPEN",
+        "labels": [
+          "feature-request",
+          "needs attention",
+          "priority: low",
+          "component: chat"
+        ],
+        "created_at": "2026-02-25T12:58:17Z"
+      },
+      {
+        "number": 1419,
+        "title": "`user.home` var not used to get the home dir path",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "needs attention",
+          "priority: medium",
+          "component: authentication",
+          "component: context"
+        ],
+        "created_at": "2026-02-25T12:54:57Z"
+      },
+      {
+        "number": 1418,
+        "title": "Copilot Edit Overlay Appears on Top of Other Applications (macOS)",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "priority: medium",
+          "component: ui"
+        ],
+        "created_at": "2026-02-25T06:58:17Z"
+      },
+      {
+        "number": 1406,
+        "title": "Gemini 3 kept repeating \"I'll call,\" but didn't execute it.",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "priority: low",
+          "component: agent-mode",
+          "component: performance",
+          "status: needs-triage",
+          "impact: low",
+          "feature: git-operations"
+        ],
+        "created_at": "2026-02-22T01:55:38Z"
+      },
+      {
+        "number": 1404,
+        "title": "Plan mode tries to edit / start implementation and becomes confused in the process",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "needs more info",
+          "priority: medium",
+          "priority: low",
+          "component: agent-mode",
+          "component: performance",
+          "status: needs-more-info",
+          "impact: low",
+          "feature: git-operations"
+        ],
+        "created_at": "2026-02-21T16:53:43Z"
+      },
+      {
+        "number": 1402,
+        "title": "Constantly getting \"request timed out from lsp server\" for large modifications",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "needs log",
+          "priority: medium",
+          "priority: low",
+          "component: performance",
+          "status: needs-triage",
+          "impact: medium",
+          "impact: low",
+          "feature: git-operations"
+        ],
+        "created_at": "2026-02-20T02:49:42Z"
+      },
+      {
+        "number": 1396,
+        "title": "The IDE failed to install or update some plugins",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "priority: low",
+          "component: ui",
+          "status: needs-triage",
+          "impact: low",
+          "feature: git-operations"
+        ],
+        "created_at": "2026-02-19T10:51:18Z"
+      },
+      {
+        "number": 1395,
+        "title": "Agent skill files not readable",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "needs attention",
+          "priority: medium",
+          "priority: low",
+          "component: agent-mode",
+          "component: context",
+          "status: needs-triage",
+          "impact: low",
+          "feature: git-operations"
+        ],
+        "created_at": "2026-02-19T09:15:40Z"
+      },
+      {
+        "number": 1391,
+        "title": "Blank prompt - After Upgrading",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "priority: low",
+          "component: agent-mode",
+          "status: needs-triage",
+          "impact: high",
+          "impact: low",
+          "feature: git-operations"
+        ],
+        "created_at": "2026-02-18T10:20:37Z"
+      },
+      {
+        "number": 1384,
+        "title": "Inline-chat history on IntelliJ",
+        "state": "OPEN",
+        "labels": [
+          "feature-request",
+          "needs attention",
+          "priority: medium",
+          "component: chat",
+          "status: needs-triage",
+          "feature: inline-chat",
+          "feature: git-operations"
+        ],
+        "created_at": "2026-02-16T12:19:51Z"
+      },
+      {
+        "number": 1381,
+        "title": "\"Function call is missing a thought_signature in functionCall parts\" when using Gemini BYOK.",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "priority: low",
+          "component: agent-mode",
+          "component: model-selection",
+          "status: needs-triage",
+          "impact: high",
+          "impact: low",
+          "feature: git-operations"
+        ],
+        "created_at": "2026-02-16T04:36:25Z"
+      },
+      {
+        "number": 1378,
+        "title": "Cmd+Left / Cmd + Right Arrows behavior does not respect IDEA settings",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "priority: low",
+          "component: ui",
+          "platform: intellij",
+          "status: needs-triage",
+          "impact: low",
+          "feature: git-operations"
+        ],
+        "created_at": "2026-02-14T10:57:16Z"
+      },
+      {
+        "number": 1375,
+        "title": "Unable to authenticate when running in Devcontainer",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "needs attention",
+          "priority: medium",
+          "component: authentication",
+          "status: needs-triage",
+          "impact: blocking",
+          "impact: medium",
+          "feature: git-operations"
+        ],
+        "created_at": "2026-02-13T14:44:19Z"
+      },
+      {
+        "number": 1374,
+        "title": "Custom Agents and Plan mode stopped showing after some recent update, and some other issues",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "needs log",
+          "no recent activity",
+          "priority: low",
+          "component: agent-mode",
+          "status: needs-triage",
+          "impact: high",
+          "impact: low",
+          "feature: git-operations"
+        ],
+        "created_at": "2026-02-13T14:39:29Z"
+      },
+      {
+        "number": 1368,
+        "title": "Run tests within Intellij instead of using maven/gradle",
+        "state": "OPEN",
+        "labels": [
+          "feature-request",
+          "needs attention",
+          "priority: low",
+          "component: agent-mode",
+          "status: needs-triage",
+          "feature: terminal-integration"
+        ],
+        "created_at": "2026-02-12T17:25:18Z"
+      },
+      {
+        "number": 1358,
+        "title": "Changing unrelated files and doing arbitrary tasks that were not asked for.",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "priority: high",
+          "component: agent-mode",
+          "component: performance",
+          "status: needs-triage",
+          "impact: high",
+          "feature: git-operations"
+        ],
+        "created_at": "2026-02-11T16:11:36Z"
+      },
+      {
+        "number": 1347,
+        "title": "If signed in to GHE and GitHub.com accounts with the same username, tokens are generated using the GitHub.com account even if GHE is the authentication provider",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "needs attention",
+          "priority: medium",
+          "component: authentication",
+          "status: needs-triage",
+          "impact: medium",
+          "feature: git-operations"
+        ],
+        "created_at": "2026-02-10T17:40:29Z"
+      },
+      {
+        "number": 1335,
+        "title": "Copilot-intellij freezes doing a forever loop after running a terminal command (keeps loading, supposed to move on to the next task) bug started after updating from Intellij Community to Unified version",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "needs attention",
+          "needs log",
+          "priority: high",
+          "component: agent-mode",
+          "component: performance",
+          "status: needs-triage",
+          "impact: blocking",
+          "feature: terminal-integration",
+          "feature: git-operations"
+        ],
+        "created_at": "2026-02-09T14:42:45Z"
+      },
+      {
+        "number": 1334,
+        "title": "Oops, you reached the rate limit. Please try again later. is happening a lot recently.",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "needs attention",
+          "priority: high",
+          "component: model-selection",
+          "status: needs-triage",
+          "impact: high",
+          "feature: git-operations"
+        ],
+        "created_at": "2026-02-09T14:35:42Z"
+      },
+      {
+        "number": 1333,
+        "title": "Updated Intellij from Community to Unified made my copilot-intellij history vanish (unable to find/load history)",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "needs attention",
+          "priority: medium",
+          "component: chat",
+          "component: context",
+          "status: needs-triage",
+          "impact: medium",
+          "feature: git-operations",
+          "feature: session-management"
+        ],
+        "created_at": "2026-02-09T14:14:22Z"
+      },
+      {
+        "number": 1332,
+        "title": "Rate limit is \"acceptable\" but it's impossible resume work after -> we are billed for previous prompts and have to start over",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "priority: high",
+          "component: agent-mode",
+          "component: model-selection",
+          "status: needs-triage",
+          "impact: high",
+          "feature: git-operations"
+        ],
+        "created_at": "2026-02-09T13:40:17Z"
+      },
+      {
+        "number": 1315,
+        "title": "[Windows ARM] Unable to login to GitHub after updating plugin to version 1.5.64-243",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "priority: medium",
+          "component: authentication",
+          "status: fixed-pending-release"
+        ],
+        "created_at": "2026-02-05T22:50:10Z"
+      },
+      {
+        "number": 1312,
+        "title": "Hint Windows stay around forever",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "ux",
+          "needs attention",
+          "priority: high",
+          "component: ui",
+          "status: needs-triage",
+          "impact: high",
+          "feature: terminal-integration",
+          "feature: git-operations"
+        ],
+        "created_at": "2026-02-05T16:13:29Z"
+      },
+      {
+        "number": 1385,
+        "title": "[Plan]  Plan mode gives incomplete and inadequate answer",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "needs attention",
+          "priority: low",
+          "component: agent-mode",
+          "status: needs-triage",
+          "impact: low",
+          "feature: git-operations"
+        ],
+        "created_at": "2026-02-16T14:39:07Z"
+      },
+      {
+        "number": 1383,
+        "title": "Promt dissapearing - unsupported chat mode",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "needs more info",
+          "priority: low",
+          "component: agent-mode",
+          "component: chat",
+          "platform: phpstorm",
+          "status: needs-triage",
+          "impact: medium",
+          "impact: low",
+          "feature: git-operations"
+        ],
+        "created_at": "2026-02-16T12:07:53Z"
+      },
+      {
+        "number": 1377,
+        "title": "Hack",
+        "state": "CLOSED",
+        "labels": [
+          "needs attention"
+        ],
+        "created_at": "2026-02-14T02:54:35Z"
+      },
+      {
+        "number": 1366,
+        "title": "Copilot is not generating the answers properly when Using ASK mode on all models (premium or included)",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "needs attention"
+        ],
+        "created_at": "2026-02-12T15:43:42Z"
+      },
+      {
+        "number": 1364,
+        "title": "GitHub Copilot plugin sets GIT_PAGER=cat environment variable, breaking interactive pager in IntelliJ terminal",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "priority: low",
+          "component: agent-mode"
+        ],
+        "created_at": "2026-02-12T12:51:22Z"
+      },
+      {
+        "number": 1362,
+        "title": "Copilot plugin for IntelliJ IDEA generates incomplete and uncompilable code, repeatedly consuming premium requests",
+        "state": "CLOSED",
+        "labels": [
+          "bug"
+        ],
+        "created_at": "2026-02-12T09:52:04Z"
+      },
+      {
+        "number": 1354,
+        "title": "Code suggestions are shown in incomplete in Ask mode",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "needs attention"
+        ],
+        "created_at": "2026-02-11T07:59:14Z"
+      },
+      {
+        "number": 1353,
+        "title": "Copilot chat inside IntelliJ breaks code snippet window when resizing",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "priority: medium",
+          "component: chat",
+          "component: ui",
+          "platform: intellij"
+        ],
+        "created_at": "2026-02-11T07:35:53Z"
+      },
+      {
+        "number": 1352,
+        "title": "Code suggestions in Copilot are no longer displayed in full",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "needs attention",
+          "component: chat"
+        ],
+        "created_at": "2026-02-11T07:04:33Z"
+      },
+      {
+        "number": 1339,
+        "title": "not able to use github copilot",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "priority: critical",
+          "component: authentication",
+          "component: ui",
+          "impact: blocking"
+        ],
+        "created_at": "2026-02-10T06:34:25Z"
+      },
+      {
+        "number": 1337,
+        "title": "typing up arrow at the 0th position of the 'github copilot chat' window loses whatever I just typed as a prompt",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "needs attention",
+          "priority: high",
+          "component: chat",
+          "impact: high"
+        ],
+        "created_at": "2026-02-09T16:13:33Z"
+      },
+      {
+        "number": 1336,
+        "title": "Loop on \"Error report\" modal window",
+        "state": "CLOSED",
+        "labels": [
+          "needs more info",
+          "priority: critical",
+          "impact: blocking"
+        ],
+        "created_at": "2026-02-09T14:59:30Z"
+      },
+      {
+        "number": 1330,
+        "title": "The agent was frequently interrupted by code \"2\" and \"no choices...\".",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "needs attention",
+          "component: performance"
+        ],
+        "created_at": "2026-02-09T09:55:40Z"
+      },
+      {
+        "number": 1328,
+        "title": "Chat window scroll randomly by itself when changing focus from input box to chat results",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "priority: medium",
+          "component: chat",
+          "component: ui",
+          "impact: medium"
+        ],
+        "created_at": "2026-02-08T20:13:57Z"
+      },
+      {
+        "number": 1326,
+        "title": "Cannot Stop Request After Clicking \"Continue\"",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "needs attention"
+        ],
+        "created_at": "2026-02-07T21:09:36Z"
+      },
+      {
+        "number": 1325,
+        "title": "https://github.com/microsoft/copilot-intellij-feedback/issues/529",
+        "state": "CLOSED",
+        "labels": [
+          "feature-request",
+          "needs attention"
+        ],
+        "created_at": "2026-02-07T01:38:40Z"
+      },
+      {
+        "number": 1316,
+        "title": "Bug après MAJ",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "needs more info",
+          "needs log",
+          "no recent activity",
+          "priority: medium",
+          "component: ui",
+          "component: performance"
+        ],
+        "created_at": "2026-02-06T00:55:13Z"
+      },
+      {
+        "number": 1310,
+        "title": "Not getting agent list after clicking on Agent",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "needs more info",
+          "no recent activity",
+          "priority: medium",
+          "component: agent-mode"
+        ],
+        "created_at": "2026-02-05T08:39:21Z"
+      },
+      {
+        "number": 1308,
+        "title": "Copilot cannot properly use gpt5.2 gpt5.1-code-x",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "priority: medium",
+          "component: performance",
+          "platform: intellij"
+        ],
+        "created_at": "2026-02-05T01:16:36Z"
+      },
+      {
+        "number": 1298,
+        "title": "503 service unavailable issue",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "needs log",
+          "no recent activity"
+        ],
+        "created_at": "2026-02-02T06:29:09Z"
+      },
+      {
+        "number": 1279,
+        "title": "for me facing the issue at the time of using copilet in intellij ide",
+        "state": "CLOSED",
+        "labels": [
+          "needs more info",
+          "no recent activity"
+        ],
+        "created_at": "2026-01-27T16:42:48Z"
+      },
+      {
+        "number": 1265,
+        "title": "Can't Accept Inline Completions",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "needs attention",
+          "priority: critical",
+          "priority: medium",
+          "component: completions",
+          "component: authentication",
+          "impact: blocking"
+        ],
+        "created_at": "2026-01-24T00:52:55Z"
+      },
+      {
+        "number": 1264,
+        "title": "Cannot join",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "needs log",
+          "no recent activity",
+          "priority: critical",
+          "component: authentication",
+          "impact: blocking"
+        ],
+        "created_at": "2026-01-23T20:30:34Z"
+      },
+      {
+        "number": 1260,
+        "title": "Intellij IDEA does not recognize login with custom Authentication provider",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "needs attention",
+          "priority: critical",
+          "component: authentication",
+          "impact: blocking"
+        ],
+        "created_at": "2026-01-23T12:35:47Z"
+      },
+      {
+        "number": 1235,
+        "title": "Login with custom authentication provider does not work anymore",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "priority: critical",
+          "component: authentication",
+          "impact: blocking"
+        ],
+        "created_at": "2026-01-20T08:07:16Z"
+      },
+      {
+        "number": 1177,
+        "title": "First chat in new IDE instance immediately disappears forever after hit \"send\"",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "priority: medium",
+          "component: chat",
+          "component: ui",
+          "status: needs-triage",
+          "impact: high",
+          "root-cause: state-management",
+          "feature: git-operations"
+        ],
+        "created_at": "2026-01-06T13:43:30Z"
+      },
+      {
+        "number": 1093,
+        "title": "Copilot deleted whole chat",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "needs log",
+          "no recent activity",
+          "priority: medium",
+          "component: chat",
+          "component: ui",
+          "impact: high",
+          "root-cause: state-management"
+        ],
+        "created_at": "2025-12-11T20:23:12Z"
+      },
+      {
+        "number": 998,
+        "title": "Copilot plugin shows 'An error occurred while processing your request' error while other devices on same network work fine",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "needs log",
+          "no recent activity",
+          "priority: critical",
+          "component: authentication",
+          "impact: blocking"
+        ],
+        "created_at": "2025-11-25T09:37:45Z"
+      },
+      {
+        "number": 911,
+        "title": "GitHub Copilot UI flickers a lot while running a prompt.",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "needs-fix"
+        ],
+        "created_at": "2025-11-09T21:49:09Z"
+      },
+      {
+        "number": 848,
+        "title": "Scrolling in chat doesn't honour IntelliJ settings or defaults, is painfully slow",
+        "state": "CLOSED",
+        "labels": [
+          "needs attention"
+        ],
+        "created_at": "2025-10-27T22:27:54Z"
+      },
+      {
+        "number": 757,
+        "title": "Claude Sonnet 4.5 not available, despite being enabled in account settings",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "needs attention"
+        ],
+        "created_at": "2025-10-01T12:22:43Z"
+      },
+      {
+        "number": 600,
+        "title": "Chat response showing truncated code snippets",
+        "state": "CLOSED",
+        "labels": [
+          "bug"
+        ],
+        "created_at": "2025-08-29T17:46:02Z"
+      },
+      {
+        "number": 276,
+        "title": "Easy to exceed max input token in agent mode",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "agentmode"
+        ],
+        "created_at": "2025-06-03T12:08:56Z"
+      }
+    ],
+    "reviews": [
+      {
+        "id": 135617,
+        "rating": 1,
+        "date": "2026-03-06",
+        "author": "Dennis Kaiser",
+        "comment": "This is by far the worst agent experience I've had with any of the tools: \n \n Every time I start a new chat, multiple old and unrelated files are opened in the editor \n I don't see any option to completely disable the automatic \"add file to context\" feature. I have to turn them off manually every time. I do not want to automatically add files to the context. This has led to unrelated files being added to the context numerous times which is a huge waste of tokens and context space. Just give me an option to disable this feature entirely, especially in agent mode. \n The agent is still unable to read the terminal output most of the time \n For about a week the model's output is missing characters, making it almost impossible to properly read what the model is telling me \n I do not see any option to show me how full the current context is. This is super relevant to effectively work with the agent \n I did not manage to configure skills in a way where the agent picks them up reliably \n The feature to accept/decline edits made by the agent triggers so many edge cases it's hilarious. Make the agent change a file and then make the agent move it using a terminal command? The Changes are gone. Numerous bugs with the accept/decline buttons not rendering properly or rendering on top of completely unrelated UI elements (even on top of other/unrelated applications) \n Configuring auto accepts for certain terminal calls is extremely cumbersome and hard to debug. I have not found any documentation for that and was forced to enable intellij logs to find out what the problem was. \n When asked to accept a terminal command, there is no easy way to say \"allow all uses of...\". I have to open the settings (which is a modal, btw. I can't change the settings and use the agent at the same time) and manually add some regex to the table of allowed terminal commands. This is super cumbersome.",
+        "replies": 2
+      },
+      {
+        "id": 134711,
+        "rating": 0,
+        "date": "2026-02-19",
+        "author": "rajat shah",
+        "comment": "I have corporate licenses .new models are getting enabled like claude opus 4.6 but same is not visible in Intellij while it is visible in VsCode and working fine..Not happy with this and there is no support",
+        "replies": 2
+      },
+      {
+        "id": 134665,
+        "rating": 5,
+        "date": "2026-02-18",
+        "author": "Louis",
+        "comment": "TL;DR \n 1.5.64 = freeze UI \n 1.5.63 = OK \n It happens on my Win11 PCs with Intellij IDEA 2025.3.2.",
+        "replies": 1
+      },
+      {
+        "id": 134455,
+        "rating": 3,
+        "date": "2026-02-13",
+        "author": "rupert.jung",
+        "comment": "Works better than in the past. But I still have to press \"Continue\" all the time just to edit files. Also it always to to run tests with maven instead of using the IntelliJ runner for this which slows down things dramatically. Also, the IDE becomes very slow when the agent is active.",
+        "replies": 1
+      },
+      {
+        "id": 134243,
+        "rating": 5,
+        "date": "2026-02-10",
+        "author": "Enes Oscar",
+        "comment": "Overall, it provides a great experience. I get especially impressive results with the Sonnet and Opus models. Recently, I also integrated my database via MCP, which helped complete my development ecosystem. Kudos to the IntelliJ developers for their great work. \n There are occasional rate-limit issues, but I use GitHub Copilot across multiple editors and see the same limitation elsewhere as well. I’m confident this will be resolved in the near future. I will continue using GitHub Copilot with IntelliJ.",
+        "replies": 1
+      },
+      {
+        "id": 134156,
+        "rating": 1,
+        "date": "2026-02-09",
+        "author": "rockhw_huang",
+        "comment": "GitHub Copilot's sign-in feature isn't working properly on Windows 11 ARM, and the chat page just keeps spinning/loading forever. I've tried it on both IntelliJ IDEA 2023 and IDEA 2025 (ARM versions), and both have the same issues.",
+        "replies": 2
+      }
+    ],
+    "stats": {
+      "issue_count": 66,
+      "review_count": 6,
+      "avg_review_rating": 2.5
+    }
+  },
+  "PyCharm": {
+    "issues": [
+      {
+        "number": 1427,
+        "title": "MCP missing parameters following OAuth authentication to Azure EntraID based tenant",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "needs attention",
+          "priority: high",
+          "component: mcp"
+        ],
+        "created_at": "2026-02-26T09:16:10Z"
+      },
+      {
+        "number": 1415,
+        "title": "Copilot settings plugin uses wrong GitHub copilot account settings for github enterprise",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "needs attention",
+          "priority: low",
+          "component: authentication",
+          "platform: pycharm",
+          "status: needs-triage",
+          "impact: low",
+          "feature: git-operations"
+        ],
+        "created_at": "2026-02-24T19:19:16Z"
+      },
+      {
+        "number": 1401,
+        "title": "Copilot suggestion in floating edit box don´t disappear",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "needs attention",
+          "priority: low",
+          "component: ui",
+          "platform: pycharm",
+          "status: needs-triage",
+          "impact: low",
+          "feature: git-operations"
+        ],
+        "created_at": "2026-02-19T21:34:20Z"
+      },
+      {
+        "number": 1393,
+        "title": "Failed to Parse Comment Lines in Code Blocks and Split Code Blocks",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "needs attention",
+          "priority: low",
+          "component: chat",
+          "component: ui",
+          "platform: pycharm",
+          "status: needs-triage",
+          "impact: low",
+          "feature: inline-chat",
+          "feature: git-operations"
+        ],
+        "created_at": "2026-02-18T14:17:16Z"
+      },
+      {
+        "number": 1390,
+        "title": "MCP Server OAuth integration is broken",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "needs attention",
+          "priority: medium",
+          "priority: low",
+          "component: authentication",
+          "component: mcp",
+          "platform: pycharm",
+          "status: needs-triage",
+          "impact: high",
+          "impact: low",
+          "feature: git-operations"
+        ],
+        "created_at": "2026-02-18T10:06:25Z"
+      },
+      {
+        "number": 1389,
+        "title": "always show err When chat : An error occurred while processing your request. Please try again later",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "needs more info",
+          "priority: low",
+          "component: chat",
+          "platform: pycharm",
+          "status: needs-triage",
+          "impact: medium",
+          "impact: low",
+          "feature: git-operations"
+        ],
+        "created_at": "2026-02-18T08:16:31Z"
+      },
+      {
+        "number": 1369,
+        "title": "Files not actually saved, even though the agent claims they were",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "needs more info",
+          "no recent activity",
+          "priority: low",
+          "component: agent-mode",
+          "component: performance",
+          "platform: pycharm",
+          "status: needs-more-info",
+          "impact: high",
+          "impact: low",
+          "feature: git-operations",
+          "feature: file-operations"
+        ],
+        "created_at": "2026-02-12T19:07:21Z"
+      },
+      {
+        "number": 1365,
+        "title": "Copilot is only proposing one long line completion",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "needs attention",
+          "priority: low",
+          "component: completions",
+          "platform: pycharm",
+          "status: needs-triage",
+          "impact: low",
+          "feature: git-operations"
+        ],
+        "created_at": "2026-02-12T15:34:30Z"
+      },
+      {
+        "number": 1363,
+        "title": "copilot in pycharm (in \"ask\" mode) does not write code with indentation. Not formated",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "needs more info",
+          "no recent activity",
+          "priority: low",
+          "component: chat",
+          "component: ui",
+          "platform: pycharm",
+          "status: needs-triage",
+          "impact: low",
+          "feature: git-operations"
+        ],
+        "created_at": "2026-02-12T12:38:24Z"
+      },
+      {
+        "number": 1343,
+        "title": "Allow to set the title for my co-pilot chat in Pycharm IDE",
+        "state": "OPEN",
+        "labels": [
+          "feature-request",
+          "needs more info",
+          "no recent activity",
+          "priority: low",
+          "component: chat",
+          "platform: pycharm",
+          "status: needs-triage",
+          "impact: low",
+          "feature: git-operations"
+        ],
+        "created_at": "2026-02-10T09:53:29Z"
+      },
+      {
+        "number": 1434,
+        "title": "JetBrains plugin cannot sign in to copilot",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "needs attention"
+        ],
+        "created_at": "2026-02-27T15:08:19Z"
+      },
+      {
+        "number": 1327,
+        "title": "Code generation is cut off when Ask Agent uses selected text",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "priority: high",
+          "component: agent-mode",
+          "impact: high"
+        ],
+        "created_at": "2026-02-08T15:36:21Z"
+      },
+      {
+        "number": 1288,
+        "title": "Inifinitly calling terminal issue - Copilot keeps asking the same questions in a loop",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "needs attention",
+          "priority: high",
+          "component: agent-mode"
+        ],
+        "created_at": "2026-01-29T07:13:24Z"
+      },
+      {
+        "number": 1209,
+        "title": "Repeatedly lost first message in new chat session",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "needs more info",
+          "priority: medium",
+          "component: chat",
+          "component: ui",
+          "platform: pycharm",
+          "status: needs-triage",
+          "impact: high",
+          "root-cause: state-management",
+          "feature: git-operations"
+        ],
+        "created_at": "2026-01-14T15:32:15Z"
+      },
+      {
+        "number": 1194,
+        "title": "Exception: Unsupported chat mode: Edit",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "needs attention",
+          "priority: low",
+          "component: chat"
+        ],
+        "created_at": "2026-01-11T20:02:58Z"
+      },
+      {
+        "number": 1087,
+        "title": "Pycharm github copilot chat no model select combox, bug vs code nomal",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "needs more info",
+          "no recent activity",
+          "priority: high",
+          "priority: medium",
+          "component: agent-mode",
+          "component: model-selection",
+          "platform: pycharm"
+        ],
+        "created_at": "2025-12-11T03:26:52Z"
+      },
+      {
+        "number": 998,
+        "title": "Copilot plugin shows 'An error occurred while processing your request' error while other devices on same network work fine",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "needs log",
+          "no recent activity",
+          "priority: critical",
+          "component: authentication",
+          "impact: blocking"
+        ],
+        "created_at": "2025-11-25T09:37:45Z"
+      },
+      {
+        "number": 757,
+        "title": "Claude Sonnet 4.5 not available, despite being enabled in account settings",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "needs attention"
+        ],
+        "created_at": "2025-10-01T12:22:43Z"
+      }
+    ],
+    "reviews": [
+      {
+        "id": 134991,
+        "rating": 1,
+        "date": "2026-02-25",
+        "author": "Dharma KC",
+        "comment": "Guys, this needs to be fixed asap: I updated the pycharm and github copilot and it doesn't work anymore: it hangs: I have given 8gb ram to pycharm and still hangs everytime.",
+        "replies": 1
+      },
+      {
+        "id": 134946,
+        "rating": 2,
+        "date": "2026-02-24",
+        "author": "Tamas Bela",
+        "comment": "It works, but it's not usable and may be a good enough reason at this point for switching from PyCharm to VS Code altogether. It's sad that this doesn't get more attention to get it on par with what VS code can do, or at least close to it.\nWhy is auto-approve not working? it's annoying to get prompted for every little thing to continue. The text editor is broken: it doesn't handle multi lines properly, it acts like one single line. Pressing end will not go to the end of line, but instead at the end of the whole text. When adding new lines at the end, it takes a fragment from the last part and there's no way to really navigate to the end. It's riddled with bugs overall.",
+        "replies": 1
+      },
+      {
+        "id": 134604,
+        "rating": 2,
+        "date": "2026-02-16",
+        "author": "Run Fast",
+        "comment": "1.5.65-243\nMacBook M4 Max, macOS Sequoia. Pycharm unpredictable scrolling behavior, UI is jittering heavily.",
+        "replies": 1
+      },
+      {
+        "id": 134418,
+        "rating": 0,
+        "date": "2026-02-12",
+        "author": "kiviuq",
+        "comment": "PyCharm (latest as of 12 Feb 2026) / MacOS Tahoe 26. The Copilot UI is a total mess. Code that it generates in Chat mode gets truncated midway. I have to restart PyCharm to restore the Chat View and be able to see the full code snippet. It's not the model's fault, it's the plugin that cuts off the result in half. Also: Totally erratic and unpredictable scrolling behavior, UI is jittering like crazy.",
+        "replies": 1
+      }
+    ],
+    "stats": {
+      "issue_count": 18,
+      "review_count": 4,
+      "avg_review_rating": 1.25
+    }
+  },
+  "Rider": {
+    "issues": [
+      {
+        "number": 1452,
+        "title": "Rider hangs frequently when Copilot plugin is enabled",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "needs attention",
+          "priority: high",
+          "component: performance"
+        ],
+        "created_at": "2026-03-05T16:22:21Z"
+      },
+      {
+        "number": 1414,
+        "title": "Code Review Error",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "priority: medium",
+          "component: agent-mode",
+          "platform: rider",
+          "status: needs-triage",
+          "impact: medium",
+          "feature: git-operations"
+        ],
+        "created_at": "2026-02-24T10:39:55Z"
+      },
+      {
+        "number": 1412,
+        "title": "Copilot Agent changes tooltip appears on top of any application",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "needs attention",
+          "priority: medium",
+          "component: ui",
+          "platform: rider",
+          "status: needs-triage",
+          "impact: medium",
+          "feature: git-operations"
+        ],
+        "created_at": "2026-02-24T07:17:58Z"
+      },
+      {
+        "number": 1360,
+        "title": "Copilot autocomplete popup does not dismiss until Rider is restarted",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "needs attention",
+          "priority: low",
+          "component: completions",
+          "platform: rider",
+          "status: needs-triage",
+          "impact: low",
+          "feature: git-operations"
+        ],
+        "created_at": "2026-02-12T06:05:46Z"
+      },
+      {
+        "number": 1329,
+        "title": "Exception in plugin: java.lang.IllegalArgumentException: cannot add to layout",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "priority: medium",
+          "component: ui",
+          "component: context",
+          "platform: rider",
+          "status: needs-triage",
+          "impact: medium",
+          "feature: git-operations"
+        ],
+        "created_at": "2026-02-09T09:37:28Z"
+      },
+      {
+        "number": 1311,
+        "title": "Copilot does not recognize the locally running MCPs and labels to start/stop the serves dissapears very often",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "reliability",
+          "needs attention",
+          "priority: medium",
+          "component: mcp",
+          "platform: rider",
+          "status: needs-triage",
+          "impact: medium",
+          "feature: git-operations"
+        ],
+        "created_at": "2026-02-05T13:38:12Z"
+      },
+      {
+        "number": 1439,
+        "title": "GPT 5.3-codex still not available in JetBrains IDEs (Rider in particular)",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "needs attention",
+          "priority: medium",
+          "component: model-selection"
+        ],
+        "created_at": "2026-03-02T07:15:12Z"
+      },
+      {
+        "number": 1409,
+        "title": "Rider Copilot suddenly can't look up files",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "needs attention"
+        ],
+        "created_at": "2026-02-22T16:09:08Z"
+      },
+      {
+        "number": 1387,
+        "title": "Doesnt complete request, prints \"2\" at the end and stops suddenly",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "component: agent-mode"
+        ],
+        "created_at": "2026-02-17T09:04:33Z"
+      },
+      {
+        "number": 1370,
+        "title": "GitHub Copilot delegates simple questions to the coding agent instead of answering them in 'Ask' mode",
+        "state": "CLOSED",
+        "labels": [
+          "needs more info",
+          "component: chat"
+        ],
+        "created_at": "2026-02-12T21:42:18Z"
+      },
+      {
+        "number": 1349,
+        "title": "[Rider] Chat UI rendering issue: Code block invisible until tab switch",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "priority: medium",
+          "component: chat",
+          "component: ui",
+          "platform: rider"
+        ],
+        "created_at": "2026-02-11T05:15:13Z"
+      },
+      {
+        "number": 1320,
+        "title": "Chat output - code block stops after 20-25 lines",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "priority: high",
+          "component: chat",
+          "impact: high"
+        ],
+        "created_at": "2026-02-06T10:21:22Z"
+      },
+      {
+        "number": 1317,
+        "title": "Pasting into text field doesn't work.",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "priority: medium",
+          "component: ui",
+          "impact: medium"
+        ],
+        "created_at": "2026-02-06T07:30:03Z"
+      },
+      {
+        "number": 1313,
+        "title": "An error occurred while processing your request. Please try again later.",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "reliability",
+          "needs log",
+          "no recent activity",
+          "priority: medium"
+        ],
+        "created_at": "2026-02-05T17:47:48Z"
+      },
+      {
+        "number": 1265,
+        "title": "Can't Accept Inline Completions",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "needs attention",
+          "priority: critical",
+          "priority: medium",
+          "component: completions",
+          "component: authentication",
+          "impact: blocking"
+        ],
+        "created_at": "2026-01-24T00:52:55Z"
+      },
+      {
+        "number": 1204,
+        "title": "Cannot complete sign on",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "needs attention"
+        ],
+        "created_at": "2026-01-13T23:57:38Z"
+      },
+      {
+        "number": 1167,
+        "title": "Copilot chat window scrolls to beginning of chat response each time the chat is focused",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "completion",
+          "needs-fix",
+          "working-on-fix",
+          "pending-stable-release",
+          "priority: medium",
+          "component: chat",
+          "component: ui",
+          "impact: low"
+        ],
+        "created_at": "2026-01-05T05:56:36Z"
+      }
+    ],
+    "reviews": [
+      {
+        "id": 135398,
+        "rating": 1,
+        "date": "2026-03-03",
+        "author": "Code.Nascher",
+        "comment": "Since installing the latest version (1.5.66-243), the entire IDE (Rider) crashes almost every time. Even detached CoPilot windows can only be moved with considerable effort and patience. The functionality is currently virtually non-existent. An update is urgently needed.",
+        "replies": 1
+      },
+      {
+        "id": 134580,
+        "rating": 4,
+        "date": "2026-02-15",
+        "author": "Per Holm-Petersen",
+        "comment": "I see a lot of negative reviews, so I thought I'd give positive feedback. I use this A LOT. While the VS Code implementation is the best, the JetBrains implementation isn't half bad. I'd wish that updates came out faster. You can wait weeks or months waiting for an update that's already out in VS Code. I'd also love to see more of the deliberations, which as shown in VS Code. And the Rider implementation keeps inserting byte order marks near the top of my files that have to be manually discarded. I've also seen more misfired in Rider, where it for example deletes most of a file and then complains that it's missing. It's OK, and can just cancel it, but that never happens in VS Code. The personality also seems different. Claude Opus 4.5 is more of a clear thinker in VS Code than it is in Rider, where I get more ready-fire-aim. You should tell the model that it's OK to be unsure or need more info. Being overconfident to the point of gaslighting is ChatGPT's job.",
+        "replies": 1
+      }
+    ],
+    "stats": {
+      "issue_count": 17,
+      "review_count": 2,
+      "avg_review_rating": 2.5
+    }
+  },
+  "PhpStorm": {
+    "issues": [
+      {
+        "number": 1454,
+        "title": "Remains of inline proposed edits",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "needs attention",
+          "priority: high"
+        ],
+        "created_at": "2026-03-06T11:44:40Z"
+      },
+      {
+        "number": 1410,
+        "title": "Inline code suggestion",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "feature-request",
+          "needs attention",
+          "priority: low",
+          "component: completions",
+          "platform: phpstorm",
+          "status: needs-triage",
+          "feature: git-operations"
+        ],
+        "created_at": "2026-02-23T10:15:04Z"
+      },
+      {
+        "number": 1388,
+        "title": "Can't login in GitHub Copilot in Jetbrains PHPStorm",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "needs attention",
+          "priority: medium",
+          "priority: low",
+          "component: authentication",
+          "platform: phpstorm",
+          "status: needs-triage",
+          "impact: blocking",
+          "impact: low",
+          "feature: git-operations"
+        ],
+        "created_at": "2026-02-17T19:15:24Z"
+      },
+      {
+        "number": 1307,
+        "title": "AI support please",
+        "state": "OPEN",
+        "labels": [
+          "feature-request",
+          "needs attention",
+          "priority: medium",
+          "component: agent-mode",
+          "component: chat",
+          "component: context",
+          "type: question",
+          "platform: phpstorm",
+          "status: needs-triage"
+        ],
+        "created_at": "2026-02-04T17:33:21Z"
+      },
+      {
+        "number": 1453,
+        "title": "Plugin Crash - chat sidepanel blank",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "needs attention",
+          "priority: critical",
+          "component: agent-mode"
+        ],
+        "created_at": "2026-03-05T21:46:44Z"
+      },
+      {
+        "number": 1403,
+        "title": "Phpstorm - lost the ability to select premium model after upgrade",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "needs attention"
+        ],
+        "created_at": "2026-02-20T05:50:19Z"
+      },
+      {
+        "number": 1383,
+        "title": "Promt dissapearing - unsupported chat mode",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "needs more info",
+          "priority: low",
+          "component: agent-mode",
+          "component: chat",
+          "platform: phpstorm",
+          "status: needs-triage",
+          "impact: medium",
+          "impact: low",
+          "feature: git-operations"
+        ],
+        "created_at": "2026-02-16T12:07:53Z"
+      },
+      {
+        "number": 1356,
+        "title": "copilot chat bug since update -incomplete code blocks",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "needs attention",
+          "component: chat",
+          "component: ui"
+        ],
+        "created_at": "2026-02-11T11:17:41Z"
+      },
+      {
+        "number": 1351,
+        "title": "In chat on Ask  breaks",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "needs attention"
+        ],
+        "created_at": "2026-02-11T06:48:24Z"
+      },
+      {
+        "number": 1342,
+        "title": "phpstorm bug with copilot ask mode",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "priority: medium",
+          "platform: phpstorm",
+          "impact: medium"
+        ],
+        "created_at": "2026-02-10T08:40:27Z"
+      },
+      {
+        "number": 1338,
+        "title": "Cannot dismiss Next Edit Suggestion from screen",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "needs attention"
+        ],
+        "created_at": "2026-02-10T00:27:27Z"
+      },
+      {
+        "number": 1253,
+        "title": "GitHub Copilot loses the first message in the chat with a model in Agent mode.",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "priority: medium",
+          "component: chat",
+          "component: ui",
+          "platform: phpstorm",
+          "status: needs-triage",
+          "impact: high",
+          "root-cause: state-management",
+          "feature: git-operations"
+        ],
+        "created_at": "2026-01-22T11:01:19Z"
+      },
+      {
+        "number": 1237,
+        "title": "Copilot plugin causes PhpStorm 2025.3 to freeze",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "needs more info",
+          "no recent activity",
+          "priority: critical",
+          "priority: medium",
+          "component: performance",
+          "platform: phpstorm",
+          "impact: high",
+          "root-cause: threading"
+        ],
+        "created_at": "2026-01-20T13:43:16Z"
+      },
+      {
+        "number": 1232,
+        "title": "No Option to Logout or Switch GitHub Account in Copilot (PhpStorm)",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "needs more info",
+          "no recent activity",
+          "priority: medium",
+          "platform: phpstorm"
+        ],
+        "created_at": "2026-01-19T11:27:38Z"
+      },
+      {
+        "number": 1060,
+        "title": "Project Isolation Missing: Copilot runs terminal commands and tools from the active project window instead of the project window it was started",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "needs more info",
+          "priority: high",
+          "component: agent-mode",
+          "component: context"
+        ],
+        "created_at": "2025-12-08T08:49:32Z"
+      },
+      {
+        "number": 788,
+        "title": "run_in_terminal tool hangs indefinitely on WSL Ubuntu paths in PHPStorm",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "needs attention"
+        ],
+        "created_at": "2025-10-14T10:38:50Z"
+      },
+      {
+        "number": 772,
+        "title": "Missing models - GPT-5-Codex",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "needs attention"
+        ],
+        "created_at": "2025-10-09T07:40:13Z"
+      }
+    ],
+    "reviews": [
+      {
+        "id": 134931,
+        "rating": 2,
+        "date": "2026-02-24",
+        "author": "Pawel Milosz",
+        "comment": "GitHub Copilot for PhpStorm – Great Idea, Rough Execution  \n ★★☆☆☆ \n I really wanted to love this plugin. The concept is solid, and when it works, it genuinely helps with day-to-day development. But after a few weeks of daily use in PhpStorm, the list of frustrations has grown long enough that I feel obligated to warn others. \n  Terminal blindness \nThe most baffling issue: Copilot Chat happily runs commands in the terminal — php -l, cd, you name it — but then acts as if nothing happened. It executes the command and completely ignores the output, leaving you to manually copy-paste results back into the chat just to continue the conversation. For an AI assistant that's supposed to streamline your workflow, this is a pretty fundamental failure. Agent mode helps slightly, but it's inconsistent. \n  Text selection goes haywire \nSelecting code in the editor while the Copilot panel is active is an exercise in frustration. The selection frequently jumps, shifts, or ends up somewhere entirely unintended. Simple actions like highlighting a method or a block of code become unreliable, which in a tool you use dozens of times per hour is genuinely disruptive. \n  The cursor teleports \nRelated to the above — the plugin has a habit of moving the editor cursor to seemingly random locations on its own. You're working in one file, Copilot does something in the background, and suddenly your view or cursor position has jumped somewhere else entirely. It breaks focus and flow constantly. \n  System freezes \nThis one is the dealbreaker. Periodically — and unpredictably — the plugin freezes the entire IDE and sometimes the whole system for 20 to 40 seconds. No warning, no spinner, just a complete lockup. On a machine that handles Docker, Kubernetes and multiple services without breaking a sweat, this is hard to excuse. It appears to happen most often when the chat is processing or when switching between files rapidly. \n  Bottom line \nThe underlying AI capabilities are promising, and I can see where this is headed. But right now the plugin feels like it shipped too early. The terminal integration is broken by design, the editor interactions are glitchy, and the freezes make it actively harmful to productivity at times. I'll revisit when these basics are fixed — until then, I can't recommend it for serious daily use.",
+        "replies": 2
+      },
+      {
+        "id": 134557,
+        "rating": 1,
+        "date": "2026-02-14",
+        "author": "David Lee",
+        "comment": "Login doesn't work. We got an expensive GitHub Copilot subscription specifically to use this in PHPStorm and the login does nothing. We get a message that authentication worked but the plugin stays stuck on the Sign in for GitHub Copilot page.",
+        "replies": 2
+      }
+    ],
+    "stats": {
+      "issue_count": 17,
+      "review_count": 2,
+      "avg_review_rating": 1.5
+    }
+  },
+  "WebStorm": {
+    "issues": [
+      {
+        "number": 1386,
+        "title": "NES doesn't clear completition after not interacting with it",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "needs attention",
+          "priority: low",
+          "component: completions",
+          "status: needs-triage",
+          "impact: low",
+          "feature: git-operations"
+        ],
+        "created_at": "2026-02-17T07:52:56Z"
+      },
+      {
+        "number": 1372,
+        "title": "Unable to use github copilot with webstorm : ERROR- unable to get local issuer certificate",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "needs attention",
+          "priority: medium",
+          "component: agent-mode",
+          "component: authentication",
+          "status: needs-triage",
+          "impact: blocking",
+          "impact: medium",
+          "feature: git-operations"
+        ],
+        "created_at": "2026-02-13T06:54:27Z"
+      },
+      {
+        "number": 1350,
+        "title": "Request for Token Refund Due to Frequent Rate Limit Errors (Copilot Premium / Claude Opus 4.5)",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "needs attention",
+          "priority: high",
+          "component: agent-mode",
+          "component: model-selection",
+          "status: needs-triage",
+          "impact: high",
+          "feature: git-operations"
+        ],
+        "created_at": "2026-02-11T06:12:40Z"
+      },
+      {
+        "number": 1341,
+        "title": "Copying from Inline Chat doesn't copy marked code.",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "needs attention",
+          "priority: medium",
+          "component: chat",
+          "impact: medium",
+          "feature: inline-chat",
+          "feature: git-operations"
+        ],
+        "created_at": "2026-02-10T08:03:28Z"
+      },
+      {
+        "number": 1314,
+        "title": "Opus 4.6 not available after enabling on GitHub",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "needs attention",
+          "priority: medium",
+          "component: model-selection",
+          "status: needs-triage",
+          "impact: medium",
+          "feature: git-operations"
+        ],
+        "created_at": "2026-02-05T20:50:45Z"
+      },
+      {
+        "number": 1182,
+        "title": "Extreme Terminal Output Delay in WSL Environment",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "priority: high",
+          "component: agent-mode",
+          "status: needs-triage",
+          "impact: high",
+          "feature: terminal-integration",
+          "feature: git-operations"
+        ],
+        "created_at": "2026-01-07T14:58:05Z"
+      }
+    ],
+    "reviews": [
+      {
+        "id": 134558,
+        "rating": 1,
+        "date": "2026-02-15",
+        "author": "Artyom Sovetnikov",
+        "comment": "When I click \"Copilot Chat\" icon, the whole WebStorm application freezes indefinitely. So it's not only useless, but also breaks the editor. Malware, basically. Good job, Microslop!",
+        "replies": 1
+      },
+      {
+        "id": 134208,
+        "rating": 0,
+        "date": "2026-02-10",
+        "author": "Hosein Mirian",
+        "comment": "I donot see the context menu of copilot in webstorm as well as chat menu! what happened to the update",
+        "replies": 1
+      }
+    ],
+    "stats": {
+      "issue_count": 6,
+      "review_count": 2,
+      "avg_review_rating": 0.5
+    }
+  },
+  "CLion": {
+    "issues": [
+      {
+        "number": 1428,
+        "title": "Agent Requests often and repeatedly fails with Status Code 502",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "needs attention",
+          "priority: high",
+          "component: agent-mode",
+          "component: model-selection"
+        ],
+        "created_at": "2026-02-26T10:03:09Z"
+      },
+      {
+        "number": 1422,
+        "title": "Cursor up at beginning of unsent request deletes request",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "priority: medium",
+          "component: chat"
+        ],
+        "created_at": "2026-02-25T17:25:57Z"
+      },
+      {
+        "number": 1398,
+        "title": "Copilot does not respect disabled references",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "priority: low",
+          "component: context",
+          "platform: clion",
+          "status: needs-triage",
+          "impact: low",
+          "feature: git-operations"
+        ],
+        "created_at": "2026-02-19T12:26:38Z"
+      },
+      {
+        "number": 1367,
+        "title": "Unable to login into Copilot in CLion/Gateeway",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "needs attention",
+          "priority: medium",
+          "component: authentication",
+          "platform: clion",
+          "status: needs-triage",
+          "impact: blocking",
+          "impact: medium",
+          "feature: git-operations"
+        ],
+        "created_at": "2026-02-12T17:06:24Z"
+      },
+      {
+        "number": 1434,
+        "title": "JetBrains plugin cannot sign in to copilot",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "needs attention"
+        ],
+        "created_at": "2026-02-27T15:08:19Z"
+      }
+    ],
+    "reviews": [],
+    "stats": {
+      "issue_count": 5,
+      "review_count": 0,
+      "avg_review_rating": null
+    }
+  },
+  "Android Studio": {
+    "issues": [
+      {
+        "number": 1419,
+        "title": "`user.home` var not used to get the home dir path",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "needs attention",
+          "priority: medium",
+          "component: authentication",
+          "component: context"
+        ],
+        "created_at": "2026-02-25T12:54:57Z"
+      },
+      {
+        "number": 1345,
+        "title": "Copilot doesn't show the full generate code response in Android Studio",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "needs attention",
+          "priority: medium",
+          "platform: android-studio",
+          "impact: medium"
+        ],
+        "created_at": "2026-02-10T10:51:21Z"
+      },
+      {
+        "number": 1340,
+        "title": "更新到 1.5.64-243 版本之后，回答的内容要么显示不全，要么是输出不全",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "priority: critical",
+          "priority: high",
+          "component: ui",
+          "type: regression",
+          "impact: high"
+        ],
+        "created_at": "2026-02-10T07:28:57Z"
+      },
+      {
+        "number": 1331,
+        "title": "GitHub plugin blocks Android Studio from workin",
+        "state": "CLOSED",
+        "labels": [
+          "needs more info",
+          "needs log",
+          "no recent activity",
+          "priority: critical",
+          "component: performance",
+          "platform: android-studio",
+          "impact: blocking"
+        ],
+        "created_at": "2026-02-09T12:51:45Z"
+      },
+      {
+        "number": 1303,
+        "title": "GIthub copilot logged in even chat window not coming",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "needs attention",
+          "component: authentication"
+        ],
+        "created_at": "2026-02-04T06:28:59Z"
+      }
+    ],
+    "reviews": [
+      {
+        "id": 135325,
+        "rating": 3,
+        "date": "2026-03-02",
+        "author": "Yuchen Liu",
+        "comment": "I really wonder why GPT 5.3-codex and Gemini 3.1 Pro are still not available in Android Studio while they can be accessed in VS Code long ago?",
+        "replies": 1
+      },
+      {
+        "id": 135039,
+        "rating": 1,
+        "date": "2026-02-25",
+        "author": "Олександр Марікуца",
+        "comment": "Code suggestions doesn't work for Android Studio Panda 1",
+        "replies": 1
+      }
+    ],
+    "stats": {
+      "issue_count": 5,
+      "review_count": 2,
+      "avg_review_rating": 2.0
+    }
+  },
+  "RustRover": {
+    "issues": [
+      {
+        "number": 1430,
+        "title": "Corrupted text in Copilot Chat",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "priority: high",
+          "component: chat"
+        ],
+        "created_at": "2026-02-26T21:50:05Z"
+      },
+      {
+        "number": 1196,
+        "title": "initial request crashes and disappears  - 20 minutes prompt work gone",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "needs attention"
+        ],
+        "created_at": "2026-01-12T08:33:09Z"
+      }
+    ],
+    "reviews": [],
+    "stats": {
+      "issue_count": 2,
+      "review_count": 0,
+      "avg_review_rating": null
+    }
+  },
+  "GoLand": {
+    "issues": [
+      {
+        "number": 1446,
+        "title": "Improve ai-internal tooling usage: it often uses gradual degradation to cmd tools instead of its own",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "priority: medium",
+          "component: agent-mode"
+        ],
+        "created_at": "2026-03-04T13:45:44Z"
+      },
+      {
+        "number": 1274,
+        "title": "Incorrect API endpoint used for fetching user info after OAuth authentication",
+        "state": "CLOSED",
+        "labels": [
+          "bug",
+          "needs attention"
+        ],
+        "created_at": "2026-01-27T05:42:29Z"
+      }
+    ],
+    "reviews": [],
+    "stats": {
+      "issue_count": 2,
+      "review_count": 0,
+      "avg_review_rating": null
+    }
+  },
+  "DataGrip": {
+    "issues": [
+      {
+        "number": 1380,
+        "title": "Oracle DB package body line number is incorrect",
+        "state": "OPEN",
+        "labels": [
+          "bug",
+          "needs attention",
+          "priority: low",
+          "component: agent-mode",
+          "platform: datagrip",
+          "status: needs-triage",
+          "impact: low",
+          "feature: git-operations"
+        ],
+        "created_at": "2026-02-15T23:46:21Z"
+      }
+    ],
+    "reviews": [
+      {
+        "id": 135632,
+        "rating": 1,
+        "date": "2026-03-07",
+        "author": "Tim Seever",
+        "comment": "Completely broken with current version of DataGrip",
+        "replies": 1
+      },
+      {
+        "id": 134617,
+        "rating": 0,
+        "date": "2026-02-16",
+        "author": "David Brouse",
+        "comment": "Overall, the plugin is really good.  They just have a quality control issue with their releases. \n In DataGrip 2025.3.5, I had auto-update turned on, and when the newest version of the Copilot plugin 1.5.65-243  (from 2026/02/12) got installed, the plugin crashed on startup.  I turned off auto-update, and downgraded to version 1.5.63-243 (from 2020/01/15) using the \"Install from disk\" process, and everything is working again.",
+        "replies": 1
+      }
+    ],
+    "stats": {
+      "issue_count": 1,
+      "review_count": 2,
+      "avg_review_rating": 0.5
+    }
+  },
+  "DataSpell": {
+    "issues": [],
+    "reviews": [
+      {
+        "id": 135519,
+        "rating": 1,
+        "date": "2026-03-05",
+        "author": "Aleksei Krasnov",
+        "comment": "I am fed up with the constant technical glitches / pitfalls in Copilot; it’s making my work impossible.\nI have been using Copilot since mid 2025, and it worked perfectly.\nAfter new releases in 2026, it becomes impossible to use.  Basically, it freezes DataSpell completely when I'm trying to open Copilot/or write something there, and the only solution is to kill DataSpell.\nNow I switched to the previous release of Copilot 1.5.62-243 together with DataSpell 2025.2.3, and it works more or less better, still running intensively CPU when I'm trying to write in Copilot chat.",
+        "replies": 0
+      }
+    ],
+    "stats": {
+      "issue_count": 0,
+      "review_count": 1,
+      "avg_review_rating": 1.0
+    }
+  }
+}
