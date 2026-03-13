@@ -13,3 +13,9 @@ You can use this repository to file issues for Copilot Chat and completions in J
 * Up-vote a feature or request a new one.
 * Search for existing issues already reported for potential workarounds.
 * Report a problem if you don't find what you are looking for.
+
+## Collecting Logs
+
+Logs are super helpful for troubleshooting purpose. We would appreciate if you could attach logs when reporting issues.  
+
+For instructions of collecting logs in JetBrains IDEs, please refer to [this document](./COLLECT-LOGS.md).
