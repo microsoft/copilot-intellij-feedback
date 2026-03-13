@@ -16,6 +16,6 @@ You can use this repository to file issues for Copilot Chat and completions in J
 
 ## Collecting Logs
 
-Logs are super helpful for troubleshooting purpose. We would appreciate if you could attach logs when reporting issues.  
+Logs are super helpful for troubleshooting purposes. We would appreciate it if you could attach logs when reporting issues.  
 
 For instructions of collecting logs in JetBrains IDEs, please refer to [this document](./COLLECT-LOGS.md).
