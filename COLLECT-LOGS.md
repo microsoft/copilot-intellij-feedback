@@ -20,7 +20,7 @@ Please do the following:
 > Please turn ON debug mode to enable verbose log collection. Thank you!  
 > https://github.com/microsoft/copilot-intellij-feedback/wiki/Enable-debug-logging
 
-To show where the logs persist, click "Help -> Show Log in Explorer (Finder)". Then find the file named *idea.log*.  
+To show where the logs persist, click "Help -> Show Log in Explorer (Finder)". Then find the file named `idea.log`.  
 You can selectively share log snippets with us. Or feel free to attach all log files in the issue.  
 ![Screenshot](https://github.com/user-attachments/assets/152780a7-75a7-45fd-ab12-48bdeb074db9")
 
