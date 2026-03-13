@@ -1,5 +1,5 @@
 # How to Collect Logs
-Thank you so much for providing steps to help us reproduce the issue. There are cases when you are not sure what is actually happening. In this case, logs are also crucial for us to troubleshoot. So please watch out for logs and attach them in the issues. There are three places where you can find logs - exceptions, freezes and logs files.
+Thank you for providing steps to help us reproduce the issue. Sometimes it can still be unclear what is actually happening. In these cases, log files are crucial for troubleshooting. Please collect relevant log files and attach them to your issue. There are three places where you can find logs: exceptions, freezes, and log files.
 
 ## 1. Exceptions
 Please pay attention to this kind of notifications at the bottom right corner.  
