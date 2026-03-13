@@ -22,7 +22,7 @@ Please do the following:
 
 To show where the logs persist, click "Help -> Show Log in Explorer (Finder)". Then find the file named `idea.log`.  
 You can selectively share log snippets with us. Or feel free to attach all log files in the issue.  
-![Screenshot](https://github.com/user-attachments/assets/152780a7-75a7-45fd-ab12-48bdeb074db9")
+![Screenshot](https://github.com/user-attachments/assets/152780a7-75a7-45fd-ab12-48bdeb074db9)
 
 ## ⚠️ Privacy Warning: Sensitive Data in Logs
 
