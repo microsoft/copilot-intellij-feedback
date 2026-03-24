@@ -76,3 +76,4 @@ Apply exactly **one** type label per issue.
 - Each issue receives exactly **three labels**: one Type, one Component, one Priority
 - If an issue spans multiple components, choose the single most relevant one
 - Labels should be updated as the issue evolves (e.g., type or priority changes)
+- **Do not override existing labels**: If an issue already has a Type label, do not apply a new Type label. The same applies to Component and Priority — only add a label for a category that is missing
