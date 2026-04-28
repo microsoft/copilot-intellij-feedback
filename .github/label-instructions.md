@@ -8,7 +8,7 @@ This document describes the label system for the microsoft/copilot-intellij-feed
 1. **Every issue must have exactly one label from each category**: Type + Component + Priority
 2. **Only one label per category** — do not apply multiple labels from the same category
 3. **Do NOT apply `needs more info`** or any labels with similar meaning — leave this for humans to apply
-4. **Version label is optional** — only apply a `version: X.Y.Z` label when the issue body explicitly mentions the GitHub Copilot plugin version; if no version info is present, skip it
+4. **Version label is optional** — only apply a `version: x.y.z` label when the issue body explicitly mentions the GitHub Copilot plugin version; if no version info is present, skip it
 
 ---
 
@@ -76,20 +76,23 @@ Apply exactly **one** type label per issue.
 
 Apply **at most one** version label per issue. This label is **optional** — only apply it when the issue body explicitly states the GitHub Copilot plugin version. If no version is mentioned, do not apply any version label.
 
+The label format is strictly `version: x.y.z` (major.minor.patch). If the reported version contains a build suffix (e.g., `1.7.1-243`), strip the suffix and use only the `x.y.z` part.
+
 | Label | Description | When to Use |
 |-------|-------------|-------------|
-| `version: X.Y.Z` | The GitHub Copilot plugin version reported in the issue | Issue body explicitly mentions the plugin version (e.g., "version 1.5.31") |
+| `version: x.y.z` | The GitHub Copilot plugin version reported in the issue | Issue body explicitly mentions the plugin version (e.g., "version 1.5.31") |
 
 **Examples:**
 - Issue body says "I'm using GitHub Copilot plugin 1.5.31" → apply `version: 1.5.31`
 - Issue body says "copilot plugin v2.0.0" → apply `version: 2.0.0`
+- Issue body says "GitHub Copilot plugin version 1.7.1-243" → apply `version: 1.7.1` (drop the build suffix)
 - Issue body has no mention of a plugin version → do **not** apply any version label
 
 ---
 
 ## 📝 Notes
 
-- Each issue receives exactly **three required labels**: one Type, one Component, one Priority — plus an **optional** `version: X.Y.Z` label when the plugin version is mentioned in the issue body
+- Each issue receives exactly **three required labels**: one Type, one Component, one Priority — plus an **optional** `version: x.y.z` label when the plugin version is mentioned in the issue body
 - If an issue spans multiple components, choose the single most relevant one
 - Labels should be updated as the issue evolves (e.g., type or priority changes)
 - **Do not override existing labels**: If an issue already has a Type label, do not apply a new Type label. The same applies to Component, Priority, and Version — only add a label for a category that is missing
