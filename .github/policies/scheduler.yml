@@ -108,7 +108,6 @@ configuration:
           label: needs more info
       - isNotLabeledWith:
           label: needs attention
-      - isNotInAnyMilestone
       - isNotLabeledWith:
           label: feature-request
       actions:
@@ -143,7 +142,6 @@ configuration:
           label: needs log
       - isNotLabeledWith:
           label: needs attention
-      - isNotInAnyMilestone
       - isNotLabeledWith:
           label: feature-request
       actions:
